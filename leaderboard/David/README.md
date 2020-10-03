@@ -1,5 +1,5 @@
 # David
-Last updated 2020-10-03 08:47 local time (2020-10-03 08:47 UTC).
+Last updated 2020-10-03 09:06 local time (2020-10-03 09:06 UTC).
 
 ## Overview
 | **Category**     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** |
