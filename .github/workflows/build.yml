@@ -1,9 +1,9 @@
 name: build
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 jobs:
   build:
     name: build
@@ -13,13 +13,13 @@ jobs:
     - name: install packages
       run: sudo apt install -y cmake g++ git gnuplot
     - name: download generator
-      run: git clone git@github.com:acodcha/CatanLeaderboardGenerator.git generator
+      run: gh repo clone acodcha/CatanLeaderboardGenerator generator
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: configure generator
       run: cd generator && mkdir -p build && cd build && cmake ..
     - name: build generator
       run: cd generator && cd build && make
-    - name: cleanup generator
-      run: rm -rf generator
     - name: generate leaderboard
       run: ./generator/build/bin/catan_leaderboard_generator --games games.txt --leaderboard leaderboard
     - name: cleanup generator
