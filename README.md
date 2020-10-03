@@ -1,5 +1,5 @@
 # Catan Leaderboard
-Leaderboard for Catan games with friends!
+Leaderboard for Catan games with friends! Uses https://github.com/acodcha/CatanLeaderboardGenerator to generate the leaderboard.
 
 ## Viewing
 Click on [leaderboard/README.md](leaderboard/README.md) to view the leaderboard.
