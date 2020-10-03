@@ -20,7 +20,9 @@ jobs:
       run: cd generator && mkdir -p build && cd build && cmake ..
     - name: build generator
       run: cd generator && cd build && make
-    - name: generate leaderboard
+    - name: delete previous leaderboard
+      run: rm -rf leaderboard/*
+    - name: generate new leaderboard
       run: ./generator/build/bin/catan_leaderboard_generator --games games.txt --leaderboard leaderboard
     - name: cleanup generator
       run: rm -rf generator
