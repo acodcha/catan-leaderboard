@@ -1,0 +1,10 @@
+2020-03-15 : Alice 10 , Bob 8 , Claire 7 , David 5
+2020-03-15 : Alice 10 , Bob 9 , Claire 8
+2020-03-17 : Claire 10 , Bob 9 , Alice 9 , Francis 8 , Edith 8
+2020-03-18 : David 10 , Claire 9 , Alice 8 , Bob 8 , Edith 7 , Francis 6
+2020-03-20 : Claire 10 * , Alice 10 , Bob 7 , David 7 , Edith 5
+2020-03-20 : Bob 10 , Alice 7 , David 7 , Claire 6
+2020-03-21 : Claire 11 , Alice 9 , Edith 8 , Bob 7 , David 7 , Francis 5
+2020-03-23 : Bob 10 , Alice 9 , Claire 9 , Edith 8 , Gabby 8 , David 7 , Francis 7 , Hugo 6
+2020-03-23 : Alice 11 , Bob 9 , Claire 8 , David 8 , Edith 7 , Hugo 7 , Francis 5
+2020-03-25 : Edith 10 , Alice 8 , Claire 7 , Bob 6 , Francis 6
