@@ -1,0 +1,32 @@
+name: build
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+jobs:
+  build:
+    name: build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: install packages
+      run: sudo apt install -y cmake g++ git gnuplot
+    - name: download generator
+      run: git clone git@github.com:acodcha/CatanLeaderboardGenerator.git generator
+    - name: configure generator
+      run: cd generator && mkdir -p build && cd build && cmake ..
+    - name: build generator
+      run: cd generator && cd build && make
+    - name: cleanup generator
+      run: rm -rf generator
+    - name: generate leaderboard
+      run: ./generator/build/bin/catan_leaderboard_generator --games games.txt --leaderboard leaderboard
+    - name: cleanup generator
+      run: rm -rf generator
+    - name: commit leaderboard files
+      uses: EndBug/add-and-commit@master
+      with:
+        add: "--all"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
