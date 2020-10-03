@@ -1,5 +1,5 @@
 # Hugo
-Last updated 2020-10-03 09:12 local time (2020-10-03 09:12 UTC).
+Last updated 2020-10-03 09:14 local time (2020-10-03 09:14 UTC).
 
 ## Overview
 | **Category**     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** |
