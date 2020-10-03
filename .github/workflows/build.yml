@@ -14,6 +14,8 @@ jobs:
       run: sudo apt install -y cmake g++ git gnuplot
     - name: download generator
       run: git clone git@github.com:acodcha/CatanLeaderboardGenerator.git generator
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: configure generator
       run: cd generator && mkdir -p build && cd build && cmake ..
     - name: build generator
