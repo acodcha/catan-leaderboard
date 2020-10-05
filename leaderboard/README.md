@@ -1,127 +1,127 @@
 # Catan Leaderboard
-Last updated 2020-10-03 09:38 UTC.
+Last updated 2020-10-05 07:14 UTC.
 
 ## Players
 
 ### Players: All Games
-| **Player**                     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** |
-| :---                           | :---:     | :---:      | :---:         | :---:         | :---:         |
-| [Alex](Alex/README.md)         | 43        | 7.8        | 26%           | 33%           | 28%           |
-| [Eftychi](Eftychi/README.md)   | 11        | 5.6        | 0%            | 18%           | 27%           |
-| [Jay](Jay/README.md)           | 14        | 7.9        | 43%           | 21%           | 21%           |
-| [Jessica](Jessica/README.md)   | 67        | 8.1        | 40%           | 28%           | 19%           |
-| [Laura](Laura/README.md)       | 5         | 5.4        | 0%            | 0%            | 20%           |
-| [Mic](Mic/README.md)           | 63        | 6.3        | 3%            | 32%           | 33%           |
-| [PA](PA/README.md)             | 1         | 10         | 100%          | 0%            | 0%            |
-| [Phil](Phil/README.md)         | 26        | 6.5        | 8%            | 27%           | 54%           |
-| [Rachel](Rachel/README.md)     | 59        | 7.3        | 25%           | 27%           | 27%           |
-| [Scott](Scott/README.md)       | 68        | 7.6        | 24%           | 38%           | 22%           |
-| [Sean](Sean/README.md)         | 42        | 7.3        | 14%           | 36%           | 24%           |
-| [Victoria](Victoria/README.md) | 2         | 3.0        | 0%            | 0%            | 0%            |
-| [Wendy](Wendy/README.md)       | 18        | 5.8        | 0%            | 17%           | 39%           |
-| [Wilson](Wilson/README.md)     | 5         | 7.6        | 20%           | 40%           | 20%           |
+| **Player**                     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
+| :---                           | :---:     | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
+| [Alex](Alex/README.md)         | 43        | 7.8        | 11  26%       | 14  33%       | 12  28%       | 25  58%              | 37  86%                    |
+| [Eftychi](Eftychi/README.md)   | 11        | 5.6        | 0  0%         | 2  18%        | 3  27%        | 2  18%               | 5  45%                     |
+| [Jay](Jay/README.md)           | 14        | 7.9        | 6  43%        | 3  21%        | 3  21%        | 9  64%               | 12  86%                    |
+| [Jessica](Jessica/README.md)   | 67        | 8.1        | 27  40%       | 19  28%       | 13  19%       | 46  69%              | 59  88%                    |
+| [Laura](Laura/README.md)       | 5         | 5.4        | 0  0%         | 0  0%         | 1  20%        | 0  0%                | 1  20%                     |
+| [Mic](Mic/README.md)           | 63        | 6.3        | 2  3%         | 20  32%       | 21  33%       | 22  35%              | 43  68%                    |
+| [PA](PA/README.md)             | 1         | 10         | 1  100%       | 0  0%         | 0  0%         | 1  100%              | 1  100%                    |
+| [Phil](Phil/README.md)         | 26        | 6.5        | 2  8%         | 7  27%        | 14  54%       | 9  35%               | 23  88%                    |
+| [Rachel](Rachel/README.md)     | 59        | 7.3        | 15  25%       | 16  27%       | 16  27%       | 31  53%              | 47  80%                    |
+| [Scott](Scott/README.md)       | 68        | 7.6        | 16  24%       | 26  38%       | 15  22%       | 42  62%              | 57  84%                    |
+| [Sean](Sean/README.md)         | 42        | 7.3        | 6  14%        | 15  36%       | 10  24%       | 21  50%              | 31  74%                    |
+| [Victoria](Victoria/README.md) | 2         | 3.0        | 0  0%         | 0  0%         | 0  0%         | 0  0%                | 0  0%                      |
+| [Wendy](Wendy/README.md)       | 18        | 5.8        | 0  0%         | 3  17%        | 7  39%        | 3  17%               | 10  56%                    |
+| [Wilson](Wilson/README.md)     | 5         | 7.6        | 1  20%        | 2  40%        | 1  20%        | 3  60%               | 4  80%                     |
 
 ### Players: 3-4 Player Games
-| **Player**                   | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** |
-| :---                         | :---:     | :---:      | :---:         | :---:         | :---:         |
-| [Alex](Alex/README.md)       | 10        | 9.2        | 60%           | 20%           | 20%           |
-| [Eftychi](Eftychi/README.md) | 2         | 7.5        | 0%            | 50%           | 50%           |
-| [Jessica](Jessica/README.md) | 19        | 8.5        | 58%           | 26%           | 11%           |
-| [Laura](Laura/README.md)     | 1         | 5.0        | 0%            | 0%            | 0%            |
-| [Mic](Mic/README.md)         | 27        | 6.3        | 4%            | 44%           | 41%           |
-| [Phil](Phil/README.md)       | 11        | 6.1        | 9%            | 27%           | 55%           |
-| [Rachel](Rachel/README.md)   | 23        | 7.5        | 30%           | 30%           | 30%           |
-| [Scott](Scott/README.md)     | 18        | 8.1        | 28%           | 67%           | 6%            |
-| [Sean](Sean/README.md)       | 13        | 7.0        | 23%           | 38%           | 15%           |
-| [Wendy](Wendy/README.md)     | 1         | 4.0        | 0%            | 0%            | 100%          |
-| [Wilson](Wilson/README.md)   | 2         | 7.0        | 0%            | 100%          | 0%            |
+| **Player**                   | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
+| :---                         | :---:     | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
+| [Alex](Alex/README.md)       | 10        | 9.2        | 6  60%        | 2  20%        | 2  20%        | 8  80%               | 10  100%                   |
+| [Eftychi](Eftychi/README.md) | 2         | 7.5        | 0  0%         | 1  50%        | 1  50%        | 1  50%               | 2  100%                    |
+| [Jessica](Jessica/README.md) | 19        | 8.5        | 11  58%       | 5  26%        | 2  11%        | 16  84%              | 18  95%                    |
+| [Laura](Laura/README.md)     | 1         | 5.0        | 0  0%         | 0  0%         | 0  0%         | 0  0%                | 0  0%                      |
+| [Mic](Mic/README.md)         | 27        | 6.3        | 1  4%         | 12  44%       | 11  41%       | 13  48%              | 24  89%                    |
+| [Phil](Phil/README.md)       | 11        | 6.1        | 1  9%         | 3  27%        | 6  55%        | 4  36%               | 10  91%                    |
+| [Rachel](Rachel/README.md)   | 23        | 7.5        | 7  30%        | 7  30%        | 7  30%        | 14  61%              | 21  91%                    |
+| [Scott](Scott/README.md)     | 18        | 8.1        | 5  28%        | 12  67%       | 1  6%         | 17  94%              | 18  100%                   |
+| [Sean](Sean/README.md)       | 13        | 7.0        | 3  23%        | 5  38%        | 2  15%        | 8  62%               | 10  77%                    |
+| [Wendy](Wendy/README.md)     | 1         | 4.0        | 0  0%         | 0  0%         | 1  100%       | 0  0%                | 1  100%                    |
+| [Wilson](Wilson/README.md)   | 2         | 7.0        | 0  0%         | 2  100%       | 0  0%         | 2  100%              | 2  100%                    |
 
 ### Players: 5-6 Player Games
-| **Player**                     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** |
-| :---                           | :---:     | :---:      | :---:         | :---:         | :---:         |
-| [Alex](Alex/README.md)         | 29        | 7.2        | 14%           | 38%           | 28%           |
-| [Eftychi](Eftychi/README.md)   | 7         | 5.3        | 0%            | 14%           | 29%           |
-| [Jay](Jay/README.md)           | 12        | 8.0        | 42%           | 25%           | 25%           |
-| [Jessica](Jessica/README.md)   | 44        | 8.0        | 36%           | 30%           | 25%           |
-| [Laura](Laura/README.md)       | 4         | 5.5        | 0%            | 0%            | 25%           |
-| [Mic](Mic/README.md)           | 32        | 6.3        | 3%            | 25%           | 25%           |
-| [PA](PA/README.md)             | 1         | 10         | 100%          | 0%            | 0%            |
-| [Phil](Phil/README.md)         | 15        | 6.9        | 7%            | 27%           | 53%           |
-| [Rachel](Rachel/README.md)     | 33        | 7.0        | 18%           | 24%           | 27%           |
-| [Scott](Scott/README.md)       | 46        | 7.4        | 24%           | 26%           | 26%           |
-| [Sean](Sean/README.md)         | 26        | 7.4        | 12%           | 35%           | 27%           |
-| [Victoria](Victoria/README.md) | 2         | 3.0        | 0%            | 0%            | 0%            |
-| [Wendy](Wendy/README.md)       | 13        | 5.8        | 0%            | 23%           | 38%           |
-| [Wilson](Wilson/README.md)     | 3         | 8.0        | 33%           | 0%            | 33%           |
+| **Player**                     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
+| :---                           | :---:     | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
+| [Alex](Alex/README.md)         | 29        | 7.2        | 4  14%        | 11  38%       | 8  28%        | 15  52%              | 23  79%                    |
+| [Eftychi](Eftychi/README.md)   | 7         | 5.3        | 0  0%         | 1  14%        | 2  29%        | 1  14%               | 3  43%                     |
+| [Jay](Jay/README.md)           | 12        | 8.0        | 5  42%        | 3  25%        | 3  25%        | 8  67%               | 11  92%                    |
+| [Jessica](Jessica/README.md)   | 44        | 8.0        | 16  36%       | 13  30%       | 11  25%       | 29  66%              | 40  91%                    |
+| [Laura](Laura/README.md)       | 4         | 5.5        | 0  0%         | 0  0%         | 1  25%        | 0  0%                | 1  25%                     |
+| [Mic](Mic/README.md)           | 32        | 6.3        | 1  3%         | 8  25%        | 8  25%        | 9  28%               | 17  53%                    |
+| [PA](PA/README.md)             | 1         | 10         | 1  100%       | 0  0%         | 0  0%         | 1  100%              | 1  100%                    |
+| [Phil](Phil/README.md)         | 15        | 6.9        | 1  7%         | 4  27%        | 8  53%        | 5  33%               | 13  87%                    |
+| [Rachel](Rachel/README.md)     | 33        | 7.0        | 6  18%        | 8  24%        | 9  27%        | 14  42%              | 23  70%                    |
+| [Scott](Scott/README.md)       | 46        | 7.4        | 11  24%       | 12  26%       | 12  26%       | 23  50%              | 35  76%                    |
+| [Sean](Sean/README.md)         | 26        | 7.4        | 3  12%        | 9  35%        | 7  27%        | 12  46%              | 19  73%                    |
+| [Victoria](Victoria/README.md) | 2         | 3.0        | 0  0%         | 0  0%         | 0  0%         | 0  0%                | 0  0%                      |
+| [Wendy](Wendy/README.md)       | 13        | 5.8        | 0  0%         | 3  23%        | 5  38%        | 3  23%               | 8  62%                     |
+| [Wilson](Wilson/README.md)     | 3         | 8.0        | 1  33%        | 0  0%         | 1  33%        | 1  33%               | 2  67%                     |
 
 ### Players: 7-8 Player Games
-| **Player**                   | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** |
-| :---                         | :---:     | :---:      | :---:         | :---:         | :---:         |
-| [Alex](Alex/README.md)       | 4         | 8.5        | 25%           | 25%           | 50%           |
-| [Eftychi](Eftychi/README.md) | 2         | 5.0        | 0%            | 0%            | 0%            |
-| [Jay](Jay/README.md)         | 2         | 7.0        | 50%           | 0%            | 0%            |
-| [Jessica](Jessica/README.md) | 4         | 6.8        | 0%            | 25%           | 0%            |
-| [Mic](Mic/README.md)         | 4         | 5.8        | 0%            | 0%            | 50%           |
-| [Rachel](Rachel/README.md)   | 3         | 9.3        | 67%           | 33%           | 0%            |
-| [Scott](Scott/README.md)     | 4         | 7.8        | 0%            | 50%           | 50%           |
-| [Sean](Sean/README.md)       | 3         | 7.7        | 0%            | 33%           | 33%           |
-| [Wendy](Wendy/README.md)     | 4         | 6.2        | 0%            | 0%            | 25%           |
+| **Player**                   | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
+| :---                         | :---:     | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
+| [Alex](Alex/README.md)       | 4         | 8.5        | 1  25%        | 1  25%        | 2  50%        | 2  50%               | 4  100%                    |
+| [Eftychi](Eftychi/README.md) | 2         | 5.0        | 0  0%         | 0  0%         | 0  0%         | 0  0%                | 0  0%                      |
+| [Jay](Jay/README.md)         | 2         | 7.0        | 1  50%        | 0  0%         | 0  0%         | 1  50%               | 1  50%                     |
+| [Jessica](Jessica/README.md) | 4         | 6.8        | 0  0%         | 1  25%        | 0  0%         | 1  25%               | 1  25%                     |
+| [Mic](Mic/README.md)         | 4         | 5.8        | 0  0%         | 0  0%         | 2  50%        | 0  0%                | 2  50%                     |
+| [Rachel](Rachel/README.md)   | 3         | 9.3        | 2  67%        | 1  33%        | 0  0%         | 3  100%              | 3  100%                    |
+| [Scott](Scott/README.md)     | 4         | 7.8        | 0  0%         | 2  50%        | 2  50%        | 2  50%               | 4  100%                    |
+| [Sean](Sean/README.md)       | 3         | 7.7        | 0  0%         | 1  33%        | 1  33%        | 1  33%               | 2  67%                     |
+| [Wendy](Wendy/README.md)     | 4         | 6.2        | 0  0%         | 0  0%         | 1  25%        | 0  0%                | 1  25%                     |
 
-## Average Points per Game
+## All Games
 
-### Average Points per Game: All Games
-![](_plots/average_points_vs_game_number_all_games.png)
+### All Games: Average Points per Game
+![](_plots/all_games_average_points_vs_game_number.png)
 
-### Average Points per Game: 3-4 Player Games
-![](_plots/average_points_vs_game_number_3_4_player_games.png)
+### All Games: 1st Places
+![](_plots/all_games_1st_place_percentage_vs_game_number.png)
 
-### Average Points per Game: 5-6 Player Games
-![](_plots/average_points_vs_game_number_5_6_player_games.png)
+### All Games: 2nd Places
+![](_plots/all_games_2nd_place_percentage_vs_game_number.png)
 
-### Average Points per Game: 7-8 Player Games
-![](_plots/average_points_vs_game_number_7_8_player_games.png)
+### All Games: 3rd Places
+![](_plots/all_games_3rd_place_percentage_vs_game_number.png)
 
-## 1st Places
+## 3-4 Player Games
 
-### 1st Places: All Games
-![](_plots/1st_place_percentage_vs_game_number_all_games.png)
+### 3-4 Player Games: Average Points per Game
+![](_plots/3_4_player_games_average_points_vs_game_number.png)
 
-### 1st Places: 3-4 Player Games
-![](_plots/1st_place_percentage_vs_game_number_3_4_player_games.png)
+### 3-4 Player Games: 1st Places
+![](_plots/3_4_player_games_1st_place_percentage_vs_game_number.png)
 
-### 1st Places: 5-6 Player Games
-![](_plots/1st_place_percentage_vs_game_number_5_6_player_games.png)
+### 3-4 Player Games: 2nd Places
+![](_plots/3_4_player_games_2nd_place_percentage_vs_game_number.png)
 
-### 1st Places: 7-8 Player Games
-![](_plots/1st_place_percentage_vs_game_number_7_8_player_games.png)
+### 3-4 Player Games: 3rd Places
+![](_plots/3_4_player_games_3rd_place_percentage_vs_game_number.png)
 
-## 2nd Places
+## 5-6 Player Games
 
-### 2nd Places: All Games
-![](_plots/2nd_place_percentage_vs_game_number_all_games.png)
+### 5-6 Player Games: Average Points per Game
+![](_plots/5_6_player_games_average_points_vs_game_number.png)
 
-### 2nd Places: 3-4 Player Games
-![](_plots/2nd_place_percentage_vs_game_number_3_4_player_games.png)
+### 5-6 Player Games: 1st Places
+![](_plots/5_6_player_games_1st_place_percentage_vs_game_number.png)
 
-### 2nd Places: 5-6 Player Games
-![](_plots/2nd_place_percentage_vs_game_number_5_6_player_games.png)
+### 5-6 Player Games: 2nd Places
+![](_plots/5_6_player_games_2nd_place_percentage_vs_game_number.png)
 
-### 2nd Places: 7-8 Player Games
-![](_plots/2nd_place_percentage_vs_game_number_7_8_player_games.png)
+### 5-6 Player Games: 3rd Places
+![](_plots/5_6_player_games_3rd_place_percentage_vs_game_number.png)
 
-## 3rd Places
+## 7-8 Player Games
 
-### 3rd Places: All Games
-![](_plots/3rd_place_percentage_vs_game_number_all_games.png)
+### 7-8 Player Games: Average Points per Game
+![](_plots/7_8_player_games_average_points_vs_game_number.png)
 
-### 3rd Places: 3-4 Player Games
-![](_plots/3rd_place_percentage_vs_game_number_3_4_player_games.png)
+### 7-8 Player Games: 1st Places
+![](_plots/7_8_player_games_1st_place_percentage_vs_game_number.png)
 
-### 3rd Places: 5-6 Player Games
-![](_plots/3rd_place_percentage_vs_game_number_5_6_player_games.png)
+### 7-8 Player Games: 2nd Places
+![](_plots/7_8_player_games_2nd_place_percentage_vs_game_number.png)
 
-### 3rd Places: 7-8 Player Games
-![](_plots/3rd_place_percentage_vs_game_number_7_8_player_games.png)
+### 7-8 Player Games: 3rd Places
+![](_plots/7_8_player_games_3rd_place_percentage_vs_game_number.png)
 
 ## Game History
 

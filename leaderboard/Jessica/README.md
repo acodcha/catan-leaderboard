@@ -1,13 +1,15 @@
 # Jessica
-Last updated 2020-10-03 09:38 UTC.
+Last updated 2020-10-05 07:14 UTC.
+
+[Go back to all players.](../README.md)
 
 ## Overview
-| **Category**     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** |
-| :---:            | :---:     | :---:      | :---:         | :---:         | :---:         |
-| All Games        | 67        | 8.1        | 40%           | 28%           | 19%           |
-| 3-4 Player Games | 19        | 8.5        | 58%           | 26%           | 11%           |
-| 5-6 Player Games | 44        | 8.0        | 36%           | 30%           | 25%           |
-| 7-8 Player Games | 4         | 6.8        | 0%            | 25%           | 0%            |
+| **Category**     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
+| :---:            | :---:     | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
+| All Games        | 67        | 8.1        | 27  40%       | 19  28%       | 13  19%       | 46  69%              | 59  88%                    |
+| 3-4 Player Games | 19        | 8.5        | 11  58%       | 5  26%        | 2  11%        | 16  84%              | 18  95%                    |
+| 5-6 Player Games | 44        | 8.0        | 16  36%       | 13  30%       | 11  25%       | 29  66%              | 40  91%                    |
+| 7-8 Player Games | 4         | 6.8        | 0  0%         | 1  25%        | 0  0%         | 1  25%               | 1  25%                     |
 
 ## Average Points per Game
 ![](plots/average_points_vs_game_number.png)

@@ -1,13 +1,15 @@
 # Rachel
-Last updated 2020-10-03 09:38 UTC.
+Last updated 2020-10-05 07:14 UTC.
+
+[Go back to all players.](../README.md)
 
 ## Overview
-| **Category**     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** |
-| :---:            | :---:     | :---:      | :---:         | :---:         | :---:         |
-| All Games        | 59        | 7.3        | 25%           | 27%           | 27%           |
-| 3-4 Player Games | 23        | 7.5        | 30%           | 30%           | 30%           |
-| 5-6 Player Games | 33        | 7.0        | 18%           | 24%           | 27%           |
-| 7-8 Player Games | 3         | 9.3        | 67%           | 33%           | 0%            |
+| **Category**     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
+| :---:            | :---:     | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
+| All Games        | 59        | 7.3        | 15  25%       | 16  27%       | 16  27%       | 31  53%              | 47  80%                    |
+| 3-4 Player Games | 23        | 7.5        | 7  30%        | 7  30%        | 7  30%        | 14  61%              | 21  91%                    |
+| 5-6 Player Games | 33        | 7.0        | 6  18%        | 8  24%        | 9  27%        | 14  42%              | 23  70%                    |
+| 7-8 Player Games | 3         | 9.3        | 2  67%        | 1  33%        | 0  0%         | 3  100%              | 3  100%                    |
 
 ## Average Points per Game
 ![](plots/average_points_vs_game_number.png)

@@ -1,13 +1,15 @@
 # Jay
-Last updated 2020-10-03 09:38 UTC.
+Last updated 2020-10-05 07:14 UTC.
+
+[Go back to all players.](../README.md)
 
 ## Overview
-| **Category**     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** |
-| :---:            | :---:     | :---:      | :---:         | :---:         | :---:         |
-| All Games        | 14        | 7.9        | 43%           | 21%           | 21%           |
-| 3-4 Player Games | 0         | –        | –           | –           | –           |
-| 5-6 Player Games | 12        | 8.0        | 42%           | 25%           | 25%           |
-| 7-8 Player Games | 2         | 7.0        | 50%           | 0%            | 0%            |
+| **Category**     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
+| :---:            | :---:     | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
+| All Games        | 14        | 7.9        | 6  43%        | 3  21%        | 3  21%        | 9  64%               | 12  86%                    |
+| 3-4 Player Games | 12        | 8.0        | 5  42%        | 3  25%        | 3  25%        | 8  67%               | 11  92%                    |
+| 5-6 Player Games | 2         | 7.0        | 1  50%        | 0  0%         | 0  0%         | 1  50%               | 1  50%                     |
+| 7-8 Player Games |           |            |               |               |               |                      |                            |
 
 ## Average Points per Game
 ![](plots/average_points_vs_game_number.png)
@@ -16,9 +18,6 @@ Last updated 2020-10-03 09:38 UTC.
 
 ### Places: All Games
 ![](plots/place_percentage_vs_game_number_all_games.png)
-
-### Places: 3-4 Player Games
-![](plots/place_percentage_vs_game_number_3_4_player_games.png)
 
 ### Places: 5-6 Player Games
 ![](plots/place_percentage_vs_game_number_5_6_player_games.png)
@@ -45,10 +44,6 @@ Last updated 2020-10-03 09:38 UTC.
 | 3        | 2017-04-01 | 6           | 1st Jessica 10 , 2nd Jay 8 , 2nd Sean 8 , 3rd Wendy 5 , 4th Alex 4 , 4th Rachel 4                              |
 | 2        | 2017-03-31 | 6           | 1st Jay 10 , 2nd Scott 9 , 3rd Alex 7 , 3rd Wendy 7 , 4th Sean 6 , 5th Rachel 5                                |
 | 1        | 2017-03-17 | 6           | 1st Jessica 10 , 2nd Jay 8 , 3rd Alex 7 , 3rd Sean 7 , 4th Scott 6 , 5th Wendy 5                               |
-
-### Game History: 3-4 Player Games
-| **Game** | **Date** | **Players** | **Results** |
-| :---:    | :---:    | :---:       | :---        |
 
 ### Game History: 5-6 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                                                           |

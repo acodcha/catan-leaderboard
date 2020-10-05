@@ -1,13 +1,15 @@
 # Phil
-Last updated 2020-10-03 09:38 UTC.
+Last updated 2020-10-05 07:14 UTC.
+
+[Go back to all players.](../README.md)
 
 ## Overview
-| **Category**     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** |
-| :---:            | :---:     | :---:      | :---:         | :---:         | :---:         |
-| All Games        | 26        | 6.5        | 8%            | 27%           | 54%           |
-| 3-4 Player Games | 11        | 6.1        | 9%            | 27%           | 55%           |
-| 5-6 Player Games | 15        | 6.9        | 7%            | 27%           | 53%           |
-| 7-8 Player Games | 0         | –        | –           | –           | –           |
+| **Category**     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
+| :---:            | :---:     | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
+| All Games        | 26        | 6.5        | 2  8%         | 7  27%        | 14  54%       | 9  35%               | 23  88%                    |
+| 3-4 Player Games | 11        | 6.1        | 1  9%         | 3  27%        | 6  55%        | 4  36%               | 10  91%                    |
+| 5-6 Player Games | 15        | 6.9        | 1  7%         | 4  27%        | 8  53%        | 5  33%               | 13  87%                    |
+| 7-8 Player Games |           |            |               |               |               |                      |                            |
 
 ## Average Points per Game
 ![](plots/average_points_vs_game_number.png)
@@ -22,9 +24,6 @@ Last updated 2020-10-03 09:38 UTC.
 
 ### Places: 5-6 Player Games
 ![](plots/place_percentage_vs_game_number_5_6_player_games.png)
-
-### Places: 7-8 Player Games
-![](plots/place_percentage_vs_game_number_7_8_player_games.png)
 
 ## Game History
 
@@ -91,8 +90,4 @@ Last updated 2020-10-03 09:38 UTC.
 | 3        | 2020-08-11 | 5           | 1st Rachel 10 , 2nd Jessica 9 , 2nd Scott 9 , 3rd Phil 6 , 4th Mic 4               |
 | 2        | 2020-08-05 | 6           | 1st Scott 10 , 2nd Jessica 8 , 2nd Mic 8 , 3rd Sean 7 , 3rd Phil 7 , 4th Alex 6    |
 | 1        | 2020-08-05 | 6           | 1st Scott 10 , 2nd Rachel 8 , 3rd Sean 6 , 3rd Jessica 6 , 3rd Mic 6 , 4th Phil 5  |
-
-### Game History: 7-8 Player Games
-| **Game** | **Date** | **Players** | **Results** |
-| :---:    | :---:    | :---:       | :---        |
 
