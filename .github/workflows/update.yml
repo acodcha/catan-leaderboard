@@ -1,12 +1,10 @@
-name: build
+name: update
 on:
-  push:
-    branches: [ main ]
   pull_request:
     branches: [ main ]
 jobs:
   build:
-    name: build
+    name: update
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
