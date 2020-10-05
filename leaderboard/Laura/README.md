@@ -1,14 +1,14 @@
 # Laura
-Last updated 2020-10-05 07:37 UTC.
+Last updated 2020-10-05 07:52 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 5         | 5.4        | 0  0%         | 0  0%         | 1  20%        | 0  0%                | 1  20%                     |
-| 3-4 Player Games | 1         | 5.0        | 0  0%         | 0  0%         | 0  0%         | 0  0%                | 0  0%                      |
-| 5-6 Player Games | 4         | 5.5        | 0  0%         | 0  0%         | 1  25%        | 0  0%                | 1  25%                     |
+| All Games        | 5         | 5.4        | 0 , 0%        | 0 , 0%        | 1 , 20%       | 0 , 0%               | 1 , 20%                    |
+| 3-4 Player Games | 1         | 5.0        | 0 , 0%        | 0 , 0%        | 0 , 0%        | 0 , 0%               | 0 , 0%                     |
+| 5-6 Player Games | 4         | 5.5        | 0 , 0%        | 0 , 0%        | 1 , 25%       | 0 , 0%               | 1 , 25%                    |
 | 7-8 Player Games |           |            |               |               |               |                      |                            |
 
 ## Average Points per Game

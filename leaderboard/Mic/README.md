@@ -1,15 +1,15 @@
 # Mic
-Last updated 2020-10-05 07:37 UTC.
+Last updated 2020-10-05 07:52 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 63        | 6.3        | 2  3%         | 20  32%       | 21  33%       | 22  35%              | 43  68%                    |
-| 3-4 Player Games | 27        | 6.3        | 1  4%         | 12  44%       | 11  41%       | 13  48%              | 24  89%                    |
-| 5-6 Player Games | 32        | 6.3        | 1  3%         | 8  25%        | 8  25%        | 9  28%               | 17  53%                    |
-| 7-8 Player Games | 4         | 5.8        | 0  0%         | 0  0%         | 2  50%        | 0  0%                | 2  50%                     |
+| All Games        | 63        | 6.3        | 2 , 3%        | 20 , 32%      | 21 , 33%      | 22 , 35%             | 43 , 68%                   |
+| 3-4 Player Games | 27        | 6.3        | 1 , 4%        | 12 , 44%      | 11 , 41%      | 13 , 48%             | 24 , 89%                   |
+| 5-6 Player Games | 32        | 6.3        | 1 , 3%        | 8 , 25%       | 8 , 25%       | 9 , 28%              | 17 , 53%                   |
+| 7-8 Player Games | 4         | 5.8        | 0 , 0%        | 0 , 0%        | 2 , 50%       | 0 , 0%               | 2 , 50%                    |
 
 ## Average Points per Game
 ![](plots/average_points_vs_game_number.png)

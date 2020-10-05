@@ -1,15 +1,15 @@
 # Sean
-Last updated 2020-10-05 07:37 UTC.
+Last updated 2020-10-05 07:52 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 42        | 7.3        | 6  14%        | 15  36%       | 10  24%       | 21  50%              | 31  74%                    |
-| 3-4 Player Games | 13        | 7.0        | 3  23%        | 5  38%        | 2  15%        | 8  62%               | 10  77%                    |
-| 5-6 Player Games | 26        | 7.4        | 3  12%        | 9  35%        | 7  27%        | 12  46%              | 19  73%                    |
-| 7-8 Player Games | 3         | 7.7        | 0  0%         | 1  33%        | 1  33%        | 1  33%               | 2  67%                     |
+| All Games        | 42        | 7.3        | 6 , 14%       | 15 , 36%      | 10 , 24%      | 21 , 50%             | 31 , 74%                   |
+| 3-4 Player Games | 13        | 7.0        | 3 , 23%       | 5 , 38%       | 2 , 15%       | 8 , 62%              | 10 , 77%                   |
+| 5-6 Player Games | 26        | 7.4        | 3 , 12%       | 9 , 35%       | 7 , 27%       | 12 , 46%             | 19 , 73%                   |
+| 7-8 Player Games | 3         | 7.7        | 0 , 0%        | 1 , 33%       | 1 , 33%       | 1 , 33%              | 2 , 67%                    |
 
 ## Average Points per Game
 ![](plots/average_points_vs_game_number.png)

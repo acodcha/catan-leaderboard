@@ -1,15 +1,15 @@
 # Alex
-Last updated 2020-10-05 07:37 UTC.
+Last updated 2020-10-05 07:52 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 43        | 7.8        | 11  26%       | 14  33%       | 12  28%       | 25  58%              | 37  86%                    |
-| 3-4 Player Games | 10        | 9.2        | 6  60%        | 2  20%        | 2  20%        | 8  80%               | 10  100%                   |
-| 5-6 Player Games | 29        | 7.2        | 4  14%        | 11  38%       | 8  28%        | 15  52%              | 23  79%                    |
-| 7-8 Player Games | 4         | 8.5        | 1  25%        | 1  25%        | 2  50%        | 2  50%               | 4  100%                    |
+| All Games        | 43        | 7.8        | 11 , 26%      | 14 , 33%      | 12 , 28%      | 25 , 58%             | 37 , 86%                   |
+| 3-4 Player Games | 10        | 9.2        | 6 , 60%       | 2 , 20%       | 2 , 20%       | 8 , 80%              | 10 , 100%                  |
+| 5-6 Player Games | 29        | 7.2        | 4 , 14%       | 11 , 38%      | 8 , 28%       | 15 , 52%             | 23 , 79%                   |
+| 7-8 Player Games | 4         | 8.5        | 1 , 25%       | 1 , 25%       | 2 , 50%       | 2 , 50%              | 4 , 100%                   |
 
 ## Average Points per Game
 ![](plots/average_points_vs_game_number.png)

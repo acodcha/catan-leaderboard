@@ -1,14 +1,14 @@
 # Phil
-Last updated 2020-10-05 07:37 UTC.
+Last updated 2020-10-05 07:52 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 26        | 6.5        | 2  8%         | 7  27%        | 14  54%       | 9  35%               | 23  88%                    |
-| 3-4 Player Games | 11        | 6.1        | 1  9%         | 3  27%        | 6  55%        | 4  36%               | 10  91%                    |
-| 5-6 Player Games | 15        | 6.9        | 1  7%         | 4  27%        | 8  53%        | 5  33%               | 13  87%                    |
+| All Games        | 26        | 6.5        | 2 , 8%        | 7 , 27%       | 14 , 54%      | 9 , 35%              | 23 , 88%                   |
+| 3-4 Player Games | 11        | 6.1        | 1 , 9%        | 3 , 27%       | 6 , 55%       | 4 , 36%              | 10 , 91%                   |
+| 5-6 Player Games | 15        | 6.9        | 1 , 7%        | 4 , 27%       | 8 , 53%       | 5 , 33%              | 13 , 87%                   |
 | 7-8 Player Games |           |            |               |               |               |                      |                            |
 
 ## Average Points per Game

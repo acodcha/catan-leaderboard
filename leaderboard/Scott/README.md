@@ -1,15 +1,15 @@
 # Scott
-Last updated 2020-10-05 07:37 UTC.
+Last updated 2020-10-05 07:52 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 68        | 7.6        | 16  24%       | 26  38%       | 15  22%       | 42  62%              | 57  84%                    |
-| 3-4 Player Games | 18        | 8.1        | 5  28%        | 12  67%       | 1  6%         | 17  94%              | 18  100%                   |
-| 5-6 Player Games | 46        | 7.4        | 11  24%       | 12  26%       | 12  26%       | 23  50%              | 35  76%                    |
-| 7-8 Player Games | 4         | 7.8        | 0  0%         | 2  50%        | 2  50%        | 2  50%               | 4  100%                    |
+| All Games        | 68        | 7.6        | 16 , 24%      | 26 , 38%      | 15 , 22%      | 42 , 62%             | 57 , 84%                   |
+| 3-4 Player Games | 18        | 8.1        | 5 , 28%       | 12 , 67%      | 1 , 6%        | 17 , 94%             | 18 , 100%                  |
+| 5-6 Player Games | 46        | 7.4        | 11 , 24%      | 12 , 26%      | 12 , 26%      | 23 , 50%             | 35 , 76%                   |
+| 7-8 Player Games | 4         | 7.8        | 0 , 0%        | 2 , 50%       | 2 , 50%       | 2 , 50%              | 4 , 100%                   |
 
 ## Average Points per Game
 ![](plots/average_points_vs_game_number.png)

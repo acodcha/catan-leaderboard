@@ -1,15 +1,15 @@
 # Wendy
-Last updated 2020-10-05 07:37 UTC.
+Last updated 2020-10-05 07:52 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 18        | 5.8        | 0  0%         | 3  17%        | 7  39%        | 3  17%               | 10  56%                    |
-| 3-4 Player Games | 1         | 4.0        | 0  0%         | 0  0%         | 1  100%       | 0  0%                | 1  100%                    |
-| 5-6 Player Games | 13        | 5.8        | 0  0%         | 3  23%        | 5  38%        | 3  23%               | 8  62%                     |
-| 7-8 Player Games | 4         | 6.2        | 0  0%         | 0  0%         | 1  25%        | 0  0%                | 1  25%                     |
+| All Games        | 18        | 5.8        | 0 , 0%        | 3 , 17%       | 7 , 39%       | 3 , 17%              | 10 , 56%                   |
+| 3-4 Player Games | 1         | 4.0        | 0 , 0%        | 0 , 0%        | 1 , 100%      | 0 , 0%               | 1 , 100%                   |
+| 5-6 Player Games | 13        | 5.8        | 0 , 0%        | 3 , 23%       | 5 , 38%       | 3 , 23%              | 8 , 62%                    |
+| 7-8 Player Games | 4         | 6.2        | 0 , 0%        | 0 , 0%        | 1 , 25%       | 0 , 0%               | 1 , 25%                    |
 
 ## Average Points per Game
 ![](plots/average_points_vs_game_number.png)
