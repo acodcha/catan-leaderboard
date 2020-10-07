@@ -1,5 +1,5 @@
 # Scott
-Last updated 2020-10-05 07:52 UTC.
+Last updated 2020-10-07 02:38 UTC.
 
 [Go back to all players.](../README.md)
 
