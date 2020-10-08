@@ -1,15 +1,18 @@
 # Alex
-Last updated 2020-10-07 02:38 UTC.
+Last updated 2020-10-08 01:42 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
-| **Category**     | **Games** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
-| :---:            | :---:     | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 43        | 7.8        | 11 , 26%      | 14 , 33%      | 12 , 28%      | 25 , 58%             | 37 , 86%                   |
-| 3-4 Player Games | 10        | 9.2        | 6 , 60%       | 2 , 20%       | 2 , 20%       | 8 , 80%              | 10 , 100%                  |
-| 5-6 Player Games | 29        | 7.2        | 4 , 14%       | 11 , 38%      | 8 , 28%       | 15 , 52%             | 23 , 79%                   |
-| 7-8 Player Games | 4         | 8.5        | 1 , 25%       | 1 , 25%       | 2 , 50%       | 2 , 50%              | 4 , 100%                   |
+| **Category**     | **Games** | **Rating** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
+| :---:            | :---:     | :---:      | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
+| All Games        | 43        | 1052       | 7.8        | 11 , 26%      | 14 , 33%      | 12 , 28%      | 25 , 58%             | 37 , 86%                   |
+| 3-4 Player Games | 10        | 1105       | 9.2        | 6 , 60%       | 2 , 20%       | 2 , 20%       | 8 , 80%              | 10 , 100%                  |
+| 5-6 Player Games | 29        | 1018       | 7.2        | 4 , 14%       | 11 , 38%      | 8 , 28%       | 15 , 52%             | 23 , 79%                   |
+| 7-8 Player Games | 4         | 1038       | 8.5        | 1 , 25%       | 1 , 25%       | 2 , 50%       | 2 , 50%              | 4 , 100%                   |
+
+## Ratings
+![](plots/rating_vs_game_number.png)
 
 ## Average Points per Game
 ![](plots/average_points_vs_game_number.png)
@@ -51,9 +54,9 @@ Last updated 2020-10-07 02:38 UTC.
 | 28       | 2020-07-18 | 5           | 1st Alex 10 , 2nd Rachel 8 , 3rd Scott 6 , 4th Mic 5 , 5th Eftychi 4                                           |
 | 27       | 2020-07-04 | 8           | 1st Jay 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7 , 3rd Mic 7 , 4th Jessica 6 , 4th Eftychi 6   |
 | 26       | 2020-07-04 | 8           | 1st Alex 10 , 2nd Rachel 8 , 3rd Scott 7 , 4th Jessica 6 , 4th Wendy 6 , 5th Eftychi 4 , 5th Jay 4 , 5th Mic 4 |
-| 25       | 2020-07-03 | 5           | 1st Jessica 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Rachel 8 , 4th Scott 7                                          |
-| 24       | 2020-07-03 | 6           | 1st Jessica 10 , 2nd Alex 6 , 2nd Wendy 6 , 3rd Scott 5 , 3rd Eftychi 5 , 4th Rachel 4                         |
-| 23       | 2020-07-03 | 4           | 1st Alex 10 , 2nd Rachel 7 , 2nd Scott 7 , 3rd Jessica 5                                                       |
+| 25       | 2020-07-03 | 4           | 1st Alex 10 , 2nd Rachel 7 , 2nd Scott 7 , 3rd Jessica 5                                                       |
+| 24       | 2020-07-03 | 5           | 1st Jessica 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Rachel 8 , 4th Scott 7                                          |
+| 23       | 2020-07-03 | 6           | 1st Jessica 10 , 2nd Alex 6 , 2nd Wendy 6 , 3rd Scott 5 , 3rd Eftychi 5 , 4th Rachel 4                         |
 | 22       | 2020-06-20 | 6           | 1st Jessica 10 , 2nd Eftychi 8 , 3rd Wendy 7 , 4th Alex 6 , 4th Scott 6 , 4th Mic 6                            |
 | 21       | 2020-06-20 | 6           | 1st Alex 10 , 2nd Scott 6 , 2nd Mic 6 , 3rd Jessica 5 , 4th Eftychi 4 , 5th Wendy 2                            |
 | 20       | 2020-06-20 | 6           | 1st Jessica 10 , 2nd Wendy 8 , 3rd Alex 7 , 3rd Scott 7 , 4th Eftychi 4 , 4th Mic 4                            |
@@ -69,9 +72,9 @@ Last updated 2020-10-07 02:38 UTC.
 | 10       | 2018-01-14 | 5           | 1st Sean 10 , 2nd Jessica 7 , 3rd Alex 5 , 3rd Scott 5 , 4th Eftychi 4                                         |
 | 9        | 2017-10-08 | 6           | 1st Scott 10 , 2nd Alex 9 , 3rd Jay 6 , 3rd Jessica 6 , 3rd Wendy 6 , 4th Sean 5                               |
 | 8        | 2017-08-25 | 6           | 1st PA 10 , 2nd Jay 7 , 2nd Sean 7 , 3rd Scott 6 , 4th Wendy 5 , 5th Alex 4                                    |
-| 7        | 2017-06-10 | 6           | 1st Scott 10 , 2nd Alex 8 , 3rd Jessica 7 , 4th Wilson 6 , 5th Wendy 5 , 6th Victoria 3                        |
-| 6        | 2017-06-10 | 6           | 1st Wilson 10 , 2nd Scott 6 , 3rd Alex 5 , 4th Jay 4 , 5th Victoria 3 , 6th Jessica 2                          |
-| 5        | 2017-06-10 | 6           | 1st Jay 10 , 2nd Alex 9 , 3rd Jessica 7 , 4th Scott 6 , 4th Sean 6 , 4th Wendy 6                               |
+| 7        | 2017-06-10 | 6           | 1st Jay 10 , 2nd Alex 9 , 3rd Jessica 7 , 4th Scott 6 , 4th Sean 6 , 4th Wendy 6                               |
+| 6        | 2017-06-10 | 6           | 1st Scott 10 , 2nd Alex 8 , 3rd Jessica 7 , 4th Wilson 6 , 5th Wendy 5 , 6th Victoria 3                        |
+| 5        | 2017-06-10 | 6           | 1st Wilson 10 , 2nd Scott 6 , 3rd Alex 5 , 4th Jay 4 , 5th Victoria 3 , 6th Jessica 2                          |
 | 4        | 2017-05-06 | 4           | 1st Jessica 10 , 2nd Wilson 9 , 3rd Alex 6 , 4th Sean 5                                                        |
 | 3        | 2017-04-01 | 6           | 1st Jessica 10 , 2nd Jay 8 , 2nd Sean 8 , 3rd Wendy 5 , 4th Alex 4 , 4th Rachel 4                              |
 | 2        | 2017-03-31 | 6           | 1st Jay 10 , 2nd Scott 9 , 3rd Alex 7 , 3rd Wendy 7 , 4th Sean 6 , 5th Rachel 5                                |
@@ -117,9 +120,9 @@ Last updated 2020-10-07 02:38 UTC.
 | 9        | 2018-01-14 | 5           | 1st Sean 10 , 2nd Jessica 7 , 3rd Alex 5 , 3rd Scott 5 , 4th Eftychi 4                  |
 | 8        | 2017-10-08 | 6           | 1st Scott 10 , 2nd Alex 9 , 3rd Jay 6 , 3rd Jessica 6 , 3rd Wendy 6 , 4th Sean 5        |
 | 7        | 2017-08-25 | 6           | 1st PA 10 , 2nd Jay 7 , 2nd Sean 7 , 3rd Scott 6 , 4th Wendy 5 , 5th Alex 4             |
-| 6        | 2017-06-10 | 6           | 1st Scott 10 , 2nd Alex 8 , 3rd Jessica 7 , 4th Wilson 6 , 5th Wendy 5 , 6th Victoria 3 |
-| 5        | 2017-06-10 | 6           | 1st Wilson 10 , 2nd Scott 6 , 3rd Alex 5 , 4th Jay 4 , 5th Victoria 3 , 6th Jessica 2   |
-| 4        | 2017-06-10 | 6           | 1st Jay 10 , 2nd Alex 9 , 3rd Jessica 7 , 4th Scott 6 , 4th Sean 6 , 4th Wendy 6        |
+| 6        | 2017-06-10 | 6           | 1st Jay 10 , 2nd Alex 9 , 3rd Jessica 7 , 4th Scott 6 , 4th Sean 6 , 4th Wendy 6        |
+| 5        | 2017-06-10 | 6           | 1st Scott 10 , 2nd Alex 8 , 3rd Jessica 7 , 4th Wilson 6 , 5th Wendy 5 , 6th Victoria 3 |
+| 4        | 2017-06-10 | 6           | 1st Wilson 10 , 2nd Scott 6 , 3rd Alex 5 , 4th Jay 4 , 5th Victoria 3 , 6th Jessica 2   |
 | 3        | 2017-04-01 | 6           | 1st Jessica 10 , 2nd Jay 8 , 2nd Sean 8 , 3rd Wendy 5 , 4th Alex 4 , 4th Rachel 4       |
 | 2        | 2017-03-31 | 6           | 1st Jay 10 , 2nd Scott 9 , 3rd Alex 7 , 3rd Wendy 7 , 4th Sean 6 , 5th Rachel 5         |
 | 1        | 2017-03-17 | 6           | 1st Jessica 10 , 2nd Jay 8 , 3rd Alex 7 , 3rd Sean 7 , 4th Scott 6 , 5th Wendy 5        |
