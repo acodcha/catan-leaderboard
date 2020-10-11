@@ -1,14 +1,14 @@
 # Scott
-Last updated 2020-10-08 01:42 UTC.
+Last updated 2020-10-11 03:04 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Rating** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:      | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 70        | 1134       | 7.6        | 16 , 23%      | 27 , 39%      | 16 , 23%      | 43 , 61%             | 59 , 84%                   |
-| 3-4 Player Games | 18        | 1094       | 8.1        | 5 , 28%       | 12 , 67%      | 1 , 6%        | 17 , 94%             | 18 , 100%                  |
-| 5-6 Player Games | 48        | 1091       | 7.4        | 11 , 23%      | 13 , 27%      | 13 , 27%      | 24 , 50%             | 37 , 77%                   |
+| All Games        | 71        | 1156       | 7.6        | 17 , 24%      | 27 , 38%      | 16 , 23%      | 44 , 62%             | 60 , 85%                   |
+| 3-4 Player Games | 18        | 1095       | 8.1        | 5 , 28%       | 12 , 67%      | 1 , 6%        | 17 , 94%             | 18 , 100%                  |
+| 5-6 Player Games | 49        | 1115       | 7.5        | 12 , 24%      | 13 , 27%      | 13 , 27%      | 25 , 51%             | 38 , 78%                   |
 | 7-8 Player Games | 4         | 1041       | 7.8        | 0 , 0%        | 2 , 50%       | 2 , 50%       | 2 , 50%              | 4 , 100%                   |
 
 ## Ratings
@@ -36,6 +36,7 @@ Last updated 2020-10-08 01:42 UTC.
 ### Game History: All Games
 | **Game** | **Date**   | **Players** | **Results**                                                                                                    |
 | :---:    | :---:      | :---:       | :---                                                                                                           |
+| 71       | 2020-10-10 | 5           | 1st Scott 10 , 2nd Mic 8 , 3rd Rachel 6 , 3rd Jessica 6 , 4th Alex 5                                           |
 | 70       | 2020-10-06 | 5           | 1st Rachel 10 , 2nd Mic 7 , 2nd Jessica 7 , 3rd Scott 6 , 3rd Phil 6                                           |
 | 69       | 2020-10-06 | 5           | 1st Mic 10 , 2nd Phil 9 , 2nd Scott 9 , 3rd Rachel 7 , 4th Jessica 4                                           |
 | 68       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Sean 7 , 4th Jessica 7                                           |
@@ -69,8 +70,8 @@ Last updated 2020-10-08 01:42 UTC.
 | 40       | 2020-08-22 | 5           | 1st Jessica 10 , 2nd Scott 9 , 2nd Sean 9 , 2nd Mic 9 , 3rd Rachel 5                                           |
 | 39       | 2020-08-22 | 5           | 1st Rachel 10 , 2nd Sean 8 , 3rd Jessica 7 , 3rd Mic 7 , 4th Scott 6                                           |
 | 38       | 2020-08-22 | 5           | 1st Jessica 10 , 2nd Scott 9 , 2nd Rachel 9 , 3rd Laura 7 , 3rd Mic 7                                          |
-| 37       | 2020-08-19 | 4           | 1st Jessica 10 , 2nd Scott 5 , 2nd Mic 5 , 2nd Rachel 5                                                        |
-| 36       | 2020-08-19 | 4           | 1st Jessica 10 , 2nd Scott 8 , 2nd Mic 8 , 3rd Rachel 6                                                        |
+| 37       | 2020-08-19 | 4           | 1st Jessica 10 , 2nd Scott 8 , 2nd Mic 8 , 3rd Rachel 6                                                        |
+| 36       | 2020-08-19 | 4           | 1st Jessica 10 , 2nd Scott 5 , 2nd Mic 5 , 2nd Rachel 5                                                        |
 | 35       | 2020-08-11 | 5           | 1st Rachel 10 , 2nd Jessica 9 , 2nd Scott 9 , 3rd Phil 6 , 4th Mic 4                                           |
 | 34       | 2020-08-11 | 4           | 1st Scott 10 , 2nd Jessica 8 , 3rd Rachel 7 , 3rd Mic 7                                                        |
 | 33       | 2020-08-07 | 7           | 1st Rachel 10 , 2nd Jessica 8 , 2nd Scott 8 , 3rd Alex 7 , 3rd Mic 7 , 4th Sean 6 , 4th Wendy 6                |
@@ -119,8 +120,8 @@ Last updated 2020-10-08 01:42 UTC.
 | 12       | 2020-09-04 | 4           | 1st Rachel 10 , 2nd Scott 9 , 3rd Alex 8 , 4th Jessica 6    |
 | 11       | 2020-09-02 | 4           | 1st Jessica 10 , 2nd Scott 5 , 2nd Mic 5 , 3rd Phil 3       |
 | 10       | 2020-08-28 | 4           | 1st Rachel 11 , 2nd Jessica 7 , 2nd Scott 7 , 3rd Mic 6     |
-| 9        | 2020-08-19 | 4           | 1st Jessica 10 , 2nd Scott 5 , 2nd Mic 5 , 2nd Rachel 5     |
-| 8        | 2020-08-19 | 4           | 1st Jessica 10 , 2nd Scott 8 , 2nd Mic 8 , 3rd Rachel 6     |
+| 9        | 2020-08-19 | 4           | 1st Jessica 10 , 2nd Scott 8 , 2nd Mic 8 , 3rd Rachel 6     |
+| 8        | 2020-08-19 | 4           | 1st Jessica 10 , 2nd Scott 5 , 2nd Mic 5 , 2nd Rachel 5     |
 | 7        | 2020-08-11 | 4           | 1st Scott 10 , 2nd Jessica 8 , 3rd Rachel 7 , 3rd Mic 7     |
 | 6        | 2020-07-29 | 4           | 1st Scott 10 , 2nd Phil 8 , 3rd Mic 7 , 4th Rachel 6        |
 | 5        | 2020-07-26 | 4           | 1st Sean 10 , 2nd Alex 8 , 2nd Scott 8 , 3rd Mic 7          |
@@ -132,6 +133,7 @@ Last updated 2020-10-08 01:42 UTC.
 ### Game History: 5-6 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                                                             |
 | :---:    | :---:      | :---:       | :---                                                                                    |
+| 49       | 2020-10-10 | 5           | 1st Scott 10 , 2nd Mic 8 , 3rd Rachel 6 , 3rd Jessica 6 , 4th Alex 5                    |
 | 48       | 2020-10-06 | 5           | 1st Rachel 10 , 2nd Mic 7 , 2nd Jessica 7 , 3rd Scott 6 , 3rd Phil 6                    |
 | 47       | 2020-10-06 | 5           | 1st Mic 10 , 2nd Phil 9 , 2nd Scott 9 , 3rd Rachel 7 , 4th Jessica 4                    |
 | 46       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Sean 7 , 4th Jessica 7                    |
