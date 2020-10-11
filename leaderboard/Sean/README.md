@@ -1,13 +1,13 @@
 # Sean
-Last updated 2020-10-11 03:04 UTC.
+Last updated 2020-10-11 03:54 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Rating** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:      | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 42        | 983        | 7.3        | 6 , 14%       | 15 , 36%      | 10 , 24%      | 21 , 50%             | 31 , 74%                   |
-| 3-4 Player Games | 13        | 981        | 7.0        | 3 , 23%       | 5 , 38%       | 2 , 15%       | 8 , 62%              | 10 , 77%                   |
+| All Games        | 42        | 985        | 7.3        | 6 , 14%       | 15 , 36%      | 10 , 24%      | 21 , 50%             | 31 , 74%                   |
+| 3-4 Player Games | 13        | 982        | 7.0        | 3 , 23%       | 5 , 38%       | 2 , 15%       | 8 , 62%              | 10 , 77%                   |
 | 5-6 Player Games | 26        | 984        | 7.4        | 3 , 12%       | 9 , 35%       | 7 , 27%       | 12 , 46%             | 19 , 73%                   |
 | 7-8 Player Games | 3         | 997        | 7.7        | 0 , 0%        | 1 , 33%       | 1 , 33%       | 1 , 33%              | 2 , 67%                    |
 
@@ -40,8 +40,8 @@ Last updated 2020-10-11 03:04 UTC.
 | 41       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Sean 9 , 3rd Jessica 8 , 4th Rachel 7 , 5th Mic 6                                         |
 | 40       | 2020-10-02 | 3           | 1st Rachel 11 , 2nd Sean 8 , 3rd Mic 7                                                                       |
 | 39       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Phil 9 , 2nd Mic 9 , 3rd Rachel 8 , 4th Sean 7                                            |
-| 38       | 2020-09-28 | 4           | 1st Jessica 10 , 2nd Scott 8 , 3rd Mic 7 , 4th Sean 6                                                        |
-| 37       | 2020-09-28 | 4           | 1st Scott 10 , 2nd Jessica 7 , 3rd Sean 5 , 4th Mic 4                                                        |
+| 38       | 2020-09-28 | 4           | 1st Scott 10 , 2nd Jessica 7 , 3rd Sean 5 , 4th Mic 4                                                        |
+| 37       | 2020-09-28 | 4           | 1st Jessica 10 , 2nd Scott 8 , 3rd Mic 7 , 4th Sean 6                                                        |
 | 36       | 2020-09-27 | 4           | 1st Sean 10 , 2nd Mic 7 , 3rd Phil 6 , 4th Laura 5                                                           |
 | 35       | 2020-09-23 | 6           | 1st Scott 10 , 2nd Jessica 8 , 2nd Phil 8 , 3rd Sean 7 , 4th Mic 6 , 4th Rachel 6                            |
 | 34       | 2020-09-23 | 4           | 1st Sean 10 , 2nd Jessica 6 , 2nd Mic 6 , 3rd Rachel 4                                                       |
@@ -83,8 +83,8 @@ Last updated 2020-10-11 03:04 UTC.
 | **Game** | **Date**   | **Players** | **Results**                                             |
 | :---:    | :---:      | :---:       | :---                                                    |
 | 13       | 2020-10-02 | 3           | 1st Rachel 11 , 2nd Sean 8 , 3rd Mic 7                  |
-| 12       | 2020-09-28 | 4           | 1st Jessica 10 , 2nd Scott 8 , 3rd Mic 7 , 4th Sean 6   |
-| 11       | 2020-09-28 | 4           | 1st Scott 10 , 2nd Jessica 7 , 3rd Sean 5 , 4th Mic 4   |
+| 12       | 2020-09-28 | 4           | 1st Scott 10 , 2nd Jessica 7 , 3rd Sean 5 , 4th Mic 4   |
+| 11       | 2020-09-28 | 4           | 1st Jessica 10 , 2nd Scott 8 , 3rd Mic 7 , 4th Sean 6   |
 | 10       | 2020-09-27 | 4           | 1st Sean 10 , 2nd Mic 7 , 3rd Phil 6 , 4th Laura 5      |
 | 9        | 2020-09-23 | 4           | 1st Sean 10 , 2nd Jessica 6 , 2nd Mic 6 , 3rd Rachel 4  |
 | 8        | 2020-08-17 | 4           | 1st Jessica 10 , 2nd Sean 7 , 2nd Phil 7 , 2nd Mic 7    |

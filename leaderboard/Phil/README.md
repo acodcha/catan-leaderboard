@@ -1,12 +1,12 @@
 # Phil
-Last updated 2020-10-11 03:04 UTC.
+Last updated 2020-10-11 03:54 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Rating** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:      | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 28        | 945        | 6.6        | 2 , 7%        | 8 , 29%       | 15 , 54%      | 10 , 36%             | 25 , 89%                   |
+| All Games        | 28        | 943        | 6.6        | 2 , 7%        | 8 , 29%       | 15 , 54%      | 10 , 36%             | 25 , 89%                   |
 | 3-4 Player Games | 11        | 892        | 6.1        | 1 , 9%        | 3 , 27%       | 6 , 55%       | 4 , 36%              | 10 , 91%                   |
 | 5-6 Player Games | 17        | 967        | 6.9        | 1 , 6%        | 5 , 29%       | 9 , 53%       | 6 , 35%              | 15 , 88%                   |
 
@@ -45,8 +45,8 @@ Last updated 2020-10-11 03:04 UTC.
 | 18       | 2020-09-14 | 5           | 1st Jessica 10 , 2nd Mic 6 , 3rd Alex 4 , 3rd Phil 4 , 3rd Scott 4                 |
 | 17       | 2020-09-14 | 5           | 1st Scott 10 , 2nd Jessica 8 , 3rd Alex 7 , 3rd Phil 7 , 4th Mic 6                 |
 | 16       | 2020-09-02 | 5           | 1st Jessica 10 , 2nd Scott 8 , 2nd Rachel 8 , 2nd Mic 8 , 3rd Phil 6               |
-| 15       | 2020-09-02 | 5           | 1st Phil 10 , 2nd Jessica 6 , 3rd Scott 5 , 3rd Rachel 5 , 4th Mic 3               |
-| 14       | 2020-09-02 | 4           | 1st Jessica 10 , 2nd Scott 5 , 2nd Mic 5 , 3rd Phil 3                              |
+| 15       | 2020-09-02 | 4           | 1st Jessica 10 , 2nd Scott 5 , 2nd Mic 5 , 3rd Phil 3                              |
+| 14       | 2020-09-02 | 5           | 1st Phil 10 , 2nd Jessica 6 , 3rd Scott 5 , 3rd Rachel 5 , 4th Mic 3               |
 | 13       | 2020-09-01 | 4           | 1st Jessica 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Phil 5                             |
 | 12       | 2020-09-01 | 4           | 1st Rachel 10 , 2nd Jessica 6 , 3rd Mic 5 , 3rd Phil 5                             |
 | 11       | 2020-08-31 | 5           | 1st Jessica 10 , 2nd Scott 6 , 2nd Phil 6 , 3rd Mic 5 , 3rd Rachel 5               |
