@@ -87,3 +87,5 @@
 2020-10-02 : Scott 10 , Rachel 9 , Mic 8 , Sean 7 , Jessica 7
 2020-10-06 : Mic 10 , Phil 9 , Scott 9 , Rachel 7 , Jessica 4
 2020-10-06 : Rachel 10 , Mic 7 , Jessica 7 , Scott 6 , Phil 6
+2020-10-10 : Scott 10 , Mic 8 , Rachel 6 , Jessica 6 , Alex 5
+
