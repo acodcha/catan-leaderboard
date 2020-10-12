@@ -1,5 +1,5 @@
 # Victoria
-Last updated 2020-10-11 03:54 UTC.
+Last updated 2020-10-12 03:53 UTC.
 
 [Go back to all players.](../README.md)
 
@@ -7,7 +7,7 @@ Last updated 2020-10-11 03:54 UTC.
 | **Category**     | **Games** | **Rating** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:      | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
 | All Games        | 2         | 955        | 3.0        | 0 , 0%        | 0 , 0%        | 0 , 0%        | 0 , 0%               | 0 , 0%                     |
-| 5-6 Player Games | 2         | 954        | 3.0        | 0 , 0%        | 0 , 0%        | 0 , 0%        | 0 , 0%               | 0 , 0%                     |
+| 5-6 Player Games | 2         | 955        | 3.0        | 0 , 0%        | 0 , 0%        | 0 , 0%        | 0 , 0%               | 0 , 0%                     |
 
 ## Ratings
 ![](plots/rating_vs_game_number.png)
