@@ -1,14 +1,14 @@
 # Jay
-Last updated 2020-10-12 03:53 UTC.
+Last updated 2020-10-13 02:23 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Rating** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:      | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 14        | 1102       | 7.9        | 6 , 43%       | 3 , 21%       | 3 , 21%       | 9 , 64%              | 12 , 86%                   |
+| All Games        | 14        | 1097       | 7.9        | 6 , 43%       | 3 , 21%       | 3 , 21%       | 9 , 64%              | 12 , 86%                   |
 | 5-6 Player Games | 12        | 1108       | 8.0        | 5 , 42%       | 3 , 25%       | 3 , 25%       | 8 , 67%              | 11 , 92%                   |
-| 7-8 Player Games | 2         | 1011       | 7.0        | 1 , 50%       | 0 , 0%        | 0 , 0%        | 1 , 50%              | 1 , 50%                    |
+| 7-8 Player Games | 2         | 1005       | 7.0        | 1 , 50%       | 0 , 0%        | 0 , 0%        | 1 , 50%              | 1 , 50%                    |
 
 ## Ratings
 ![](plots/rating_vs_game_number.png)
@@ -32,8 +32,8 @@ Last updated 2020-10-12 03:53 UTC.
 ### Game History: All Games
 | **Game** | **Date**   | **Players** | **Results**                                                                                                    |
 | :---:    | :---:      | :---:       | :---                                                                                                           |
-| 14       | 2020-07-04 | 8           | 1st Jay 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7 , 3rd Mic 7 , 4th Jessica 6 , 4th Eftychi 6   |
-| 13       | 2020-07-04 | 8           | 1st Alex 10 , 2nd Rachel 8 , 3rd Scott 7 , 4th Jessica 6 , 4th Wendy 6 , 5th Eftychi 4 , 5th Jay 4 , 5th Mic 4 |
+| 14       | 2020-07-04 | 8           | 1st Alex 10 , 2nd Rachel 8 , 3rd Scott 7 , 4th Jessica 6 , 4th Wendy 6 , 5th Eftychi 4 , 5th Jay 4 , 5th Mic 4 |
+| 13       | 2020-07-04 | 8           | 1st Jay 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7 , 3rd Mic 7 , 4th Jessica 6 , 4th Eftychi 6   |
 | 12       | 2020-06-13 | 5           | 1st Jessica 10 , 2nd Alex 9 , 3rd Jay 8 , 4th Scott 7 , 5th Rachel 4                                           |
 | 11       | 2020-06-06 | 6           | 1st Scott 10 , 2nd Alex 9 , 3rd Jay 5 , 3rd Jessica 5 , 3rd Sean 5 , 4th Rachel 3                              |
 | 10       | 2020-06-06 | 5           | 1st Jay 10 , 2nd Alex 5 , 2nd Jessica 5 , 3rd Scott 4 , 3rd Rachel 4                                           |
@@ -66,6 +66,6 @@ Last updated 2020-10-12 03:53 UTC.
 ### Game History: 7-8 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                                                                                    |
 | :---:    | :---:      | :---:       | :---                                                                                                           |
-| 2        | 2020-07-04 | 8           | 1st Jay 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7 , 3rd Mic 7 , 4th Jessica 6 , 4th Eftychi 6   |
-| 1        | 2020-07-04 | 8           | 1st Alex 10 , 2nd Rachel 8 , 3rd Scott 7 , 4th Jessica 6 , 4th Wendy 6 , 5th Eftychi 4 , 5th Jay 4 , 5th Mic 4 |
+| 2        | 2020-07-04 | 8           | 1st Alex 10 , 2nd Rachel 8 , 3rd Scott 7 , 4th Jessica 6 , 4th Wendy 6 , 5th Eftychi 4 , 5th Jay 4 , 5th Mic 4 |
+| 1        | 2020-07-04 | 8           | 1st Jay 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7 , 3rd Mic 7 , 4th Jessica 6 , 4th Eftychi 6   |
 
