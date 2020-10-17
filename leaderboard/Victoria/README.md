@@ -1,5 +1,5 @@
 # Victoria
-Last updated 2020-10-13 03:36 UTC.
+Last updated 2020-10-17 00:44 UTC.
 
 [Go back to all players.](../README.md)
 
@@ -7,7 +7,7 @@ Last updated 2020-10-13 03:36 UTC.
 | **Category**     | **Games** | **Rating** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:      | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
 | All Games        | 2         | 955        | 3.0        | 0 , 0%        | 0 , 0%        | 0 , 0%        | 0 , 0%               | 0 , 0%                     |
-| 5-6 Player Games | 2         | 955        | 3.0        | 0 , 0%        | 0 , 0%        | 0 , 0%        | 0 , 0%               | 0 , 0%                     |
+| 5-6 Player Games | 2         | 954        | 3.0        | 0 , 0%        | 0 , 0%        | 0 , 0%        | 0 , 0%               | 0 , 0%                     |
 
 ## Ratings
 ![](plots/rating_vs_game_number.png)
@@ -26,14 +26,14 @@ Last updated 2020-10-13 03:36 UTC.
 ## Game History
 
 ### Game History: All Games
-| **Game** | **Date**   | **Players** | **Results**                                                                             |
-| :---:    | :---:      | :---:       | :---                                                                                    |
-| 2        | 2017-06-10 | 6           | 1st Scott 10 , 2nd Alex 8 , 3rd Jessica 7 , 4th Wilson 6 , 5th Wendy 5 , 6th Victoria 3 |
-| 1        | 2017-06-10 | 6           | 1st Wilson 10 , 2nd Scott 6 , 3rd Alex 5 , 4th Jay 4 , 5th Victoria 3 , 6th Jessica 2   |
+| **Game** | **Date**   | **Players** | **Results**                                                                          |
+| :---:    | :---:      | :---:       | :---                                                                                 |
+| 2        | 2017-06-10 | 6           | 1st Scott 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Wilson 6 , 5th Wendy 5 , 6th Victoria 3 |
+| 1        | 2017-06-10 | 6           | 1st Wilson 10 , 2nd Scott 6 , 3rd Alex 5 , 4th Jay 4 , 5th Victoria 3 , 6th Jess 2   |
 
 ### Game History: 5-6 Player Games
-| **Game** | **Date**   | **Players** | **Results**                                                                             |
-| :---:    | :---:      | :---:       | :---                                                                                    |
-| 2        | 2017-06-10 | 6           | 1st Scott 10 , 2nd Alex 8 , 3rd Jessica 7 , 4th Wilson 6 , 5th Wendy 5 , 6th Victoria 3 |
-| 1        | 2017-06-10 | 6           | 1st Wilson 10 , 2nd Scott 6 , 3rd Alex 5 , 4th Jay 4 , 5th Victoria 3 , 6th Jessica 2   |
+| **Game** | **Date**   | **Players** | **Results**                                                                          |
+| :---:    | :---:      | :---:       | :---                                                                                 |
+| 2        | 2017-06-10 | 6           | 1st Scott 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Wilson 6 , 5th Wendy 5 , 6th Victoria 3 |
+| 1        | 2017-06-10 | 6           | 1st Wilson 10 , 2nd Scott 6 , 3rd Alex 5 , 4th Jay 4 , 5th Victoria 3 , 6th Jess 2   |
 
