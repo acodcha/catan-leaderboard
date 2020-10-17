@@ -1,15 +1,15 @@
 # Sean
-Last updated 2020-10-17 00:44 UTC.
+Last updated 2020-10-17 03:56 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
-| **Category**     | **Games** | **Rating** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
-| :---:            | :---:     | :---:      | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 42        | 988        | 7.3        | 6 , 14%       | 15 , 36%      | 10 , 24%      | 21 , 50%             | 31 , 74%                   |
-| 3-4 Player Games | 13        | 981        | 7.0        | 3 , 23%       | 5 , 38%       | 2 , 15%       | 8 , 62%              | 10 , 77%                   |
-| 5-6 Player Games | 26        | 988        | 7.4        | 3 , 12%       | 9 , 35%       | 7 , 27%       | 12 , 46%             | 19 , 73%                   |
-| 7-8 Player Games | 3         | 997        | 7.7        | 0 , 0%        | 1 , 33%       | 1 , 33%       | 1 , 33%              | 2 , 67%                    |
+| **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
+| :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
+| All Games        | 42        | 990            | 7.3            | 6 , 14%       | 15 , 36%      | 10 , 24%      | 21 , 50%             | 31 , 74%                   |
+| 3-4 Player Games | 13        | 971            | 7.0            | 3 , 23%       | 5 , 38%       | 2 , 15%       | 8 , 62%              | 10 , 77%                   |
+| 5-6 Player Games | 26        | 999            | 7.4            | 3 , 12%       | 9 , 35%       | 7 , 27%       | 12 , 46%             | 19 , 73%                   |
+| 7-8 Player Games | 3         | 1002           | 7.7            | 0 , 0%        | 1 , 33%       | 1 , 33%       | 1 , 33%              | 2 , 67%                    |
 
 ## Ratings
 ![](plots/rating_vs_game_number.png)
@@ -36,9 +36,9 @@ Last updated 2020-10-17 00:44 UTC.
 ### Game History: All Games
 | **Game** | **Date**   | **Players** | **Results**                                                                                               |
 | :---:    | :---:      | :---:       | :---                                                                                                      |
-| 42       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Sean 9 , 3rd Jess 8 , 4th Rachel 7 , 5th Mic 6                                         |
+| 42       | 2020-10-02 | 3           | 1st Rachel 11 , 2nd Sean 8 , 3rd Mic 7                                                                    |
 | 41       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Sean 7 , 4th Jess 7                                         |
-| 40       | 2020-10-02 | 3           | 1st Rachel 11 , 2nd Sean 8 , 3rd Mic 7                                                                    |
+| 40       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Sean 9 , 3rd Jess 8 , 4th Rachel 7 , 5th Mic 6                                         |
 | 39       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Phil 9 , 2nd Mic 9 , 3rd Rachel 8 , 4th Sean 7                                         |
 | 38       | 2020-09-28 | 4           | 1st Jess 10 , 2nd Scott 8 , 3rd Mic 7 , 4th Sean 6                                                        |
 | 37       | 2020-09-28 | 4           | 1st Scott 10 , 2nd Jess 7 , 3rd Sean 5 , 4th Mic 4                                                        |
@@ -99,8 +99,8 @@ Last updated 2020-10-17 00:44 UTC.
 ### Game History: 5-6 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                                                      |
 | :---:    | :---:      | :---:       | :---                                                                             |
-| 26       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Sean 9 , 3rd Jess 8 , 4th Rachel 7 , 5th Mic 6                |
-| 25       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Sean 7 , 4th Jess 7                |
+| 26       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Sean 7 , 4th Jess 7                |
+| 25       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Sean 9 , 3rd Jess 8 , 4th Rachel 7 , 5th Mic 6                |
 | 24       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Phil 9 , 2nd Mic 9 , 3rd Rachel 8 , 4th Sean 7                |
 | 23       | 2020-09-23 | 6           | 1st Scott 10 , 2nd Jess 8 , 2nd Phil 8 , 3rd Sean 7 , 4th Mic 6 , 4th Rachel 6   |
 | 22       | 2020-09-17 | 6           | 1st Sean 10 , 2nd Jess 10 , 3rd Rachel 9 , 4th Scott 8 , 5th Laura 7 , 6th Mic 6 |

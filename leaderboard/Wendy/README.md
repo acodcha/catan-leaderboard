@@ -1,15 +1,15 @@
 # Wendy
-Last updated 2020-10-17 00:44 UTC.
+Last updated 2020-10-17 03:56 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
-| **Category**     | **Games** | **Rating** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
-| :---:            | :---:     | :---:      | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 18        | 945        | 5.8        | 0 , 0%        | 3 , 17%       | 7 , 39%       | 3 , 17%              | 10 , 56%                   |
-| 3-4 Player Games | 1         | 968        | 4.0        | 0 , 0%        | 0 , 0%        | 1 , 100%      | 0 , 0%               | 1 , 100%                   |
-| 5-6 Player Games | 13        | 984        | 5.8        | 0 , 0%        | 3 , 23%       | 5 , 38%       | 3 , 23%              | 8 , 62%                    |
-| 7-8 Player Games | 4         | 954        | 6.2        | 0 , 0%        | 0 , 0%        | 1 , 25%       | 0 , 0%               | 1 , 25%                    |
+| **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
+| :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
+| All Games        | 18        | 941            | 5.8            | 0 , 0%        | 3 , 17%       | 7 , 39%       | 3 , 17%              | 10 , 56%                   |
+| 3-4 Player Games | 1         | 968            | 4.0            | 0 , 0%        | 0 , 0%        | 1 , 100%      | 0 , 0%               | 1 , 100%                   |
+| 5-6 Player Games | 13        | 955            | 5.8            | 0 , 0%        | 3 , 23%       | 5 , 38%       | 3 , 23%              | 8 , 62%                    |
+| 7-8 Player Games | 4         | 980            | 6.2            | 0 , 0%        | 0 , 0%        | 1 , 25%       | 0 , 0%               | 1 , 25%                    |
 
 ## Ratings
 ![](plots/rating_vs_game_number.png)
