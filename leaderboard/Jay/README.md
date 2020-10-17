@@ -1,14 +1,14 @@
 # Jay
-Last updated 2020-10-17 00:44 UTC.
+Last updated 2020-10-17 03:56 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
-| **Category**     | **Games** | **Rating** | **Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
-| :---:            | :---:     | :---:      | :---:      | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 14        | 1104       | 7.9        | 6 , 43%       | 3 , 21%       | 3 , 21%       | 9 , 64%              | 12 , 86%                   |
-| 5-6 Player Games | 12        | 1109       | 8.0        | 5 , 42%       | 3 , 25%       | 3 , 25%       | 8 , 67%              | 11 , 92%                   |
-| 7-8 Player Games | 2         | 1011       | 7.0        | 1 , 50%       | 0 , 0%        | 0 , 0%        | 1 , 50%              | 1 , 50%                    |
+| **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
+| :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
+| All Games        | 14        | 1082           | 7.9            | 6 , 43%       | 3 , 21%       | 3 , 21%       | 9 , 64%              | 12 , 86%                   |
+| 5-6 Player Games | 12        | 1079           | 8.0            | 5 , 42%       | 3 , 25%       | 3 , 25%       | 8 , 67%              | 11 , 92%                   |
+| 7-8 Player Games | 2         | 994            | 7.0            | 1 , 50%       | 0 , 0%        | 0 , 0%        | 1 , 50%              | 1 , 50%                    |
 
 ## Ratings
 ![](plots/rating_vs_game_number.png)

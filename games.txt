@@ -94,3 +94,4 @@
 2020-10-12 : Scott 10 , Alex 8 , Jess 8 , Mic 7 , Phil 4 , Rachel 4
 2020-10-12 : Alex 10 , Scott 9 , Mic 9 , Jess 8 , Rachel 6
 2020-10-14 : Scott 10 , Phil 7 , Rachel 6 , Mic 4
+2020-10-16 : Mic 10 , Alex 7 , Jess 7 , Scott 7 , Laura 4
