@@ -1,13 +1,13 @@
 # Alex
-Last updated 2020-10-17 04:59 UTC.
+Last updated 2020-10-19 02:03 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 49        | 1071           | 7.8            | 13 , 27%      | 17 , 35%      | 12 , 24%      | 30 , 61%             | 42 , 86%                   |
-| 3-4 Player Games | 10        | 1075           | 9.2            | 6 , 60%       | 2 , 20%       | 2 , 20%       | 8 , 80%              | 10 , 100%                  |
+| All Games        | 50        | 1072           | 7.8            | 14 , 28%      | 17 , 34%      | 12 , 24%      | 31 , 62%             | 43 , 86%                   |
+| 3-4 Player Games | 11        | 1080           | 9.3            | 7 , 64%       | 2 , 18%       | 2 , 18%       | 9 , 82%              | 11 , 100%                  |
 | 5-6 Player Games | 35        | 1033           | 7.3            | 6 , 17%       | 14 , 40%      | 8 , 23%       | 20 , 57%             | 28 , 80%                   |
 | 7-8 Player Games | 4         | 1035           | 8.5            | 1 , 25%       | 1 , 25%       | 2 , 50%       | 2 , 50%              | 4 , 100%                   |
 
@@ -36,6 +36,7 @@ Last updated 2020-10-17 04:59 UTC.
 ### Game History: All Games
 | **Game** | **Date**   | **Players** | **Results**                                                                                                 |
 | :---:    | :---:      | :---:       | :---                                                                                                        |
+| 50       | 2020-10-18 | 3           | 1st Alex 10 , 2nd Rachel 9 , 3rd Phil 5                                                                     |
 | 49       | 2020-10-16 | 5           | 1st Alex 10 , 2nd Mic 10 , 3rd Jess 9 , 4th Scott 8 , 5th Laura 6                                           |
 | 48       | 2020-10-16 | 5           | 1st Mic 10 , 2nd Alex 7 , 2nd Jess 7 , 2nd Scott 7 , 3rd Laura 4                                            |
 | 47       | 2020-10-12 | 5           | 1st Alex 10 , 2nd Scott 9 , 2nd Mic 9 , 3rd Jess 8 , 4th Rachel 6                                           |
@@ -89,6 +90,7 @@ Last updated 2020-10-17 04:59 UTC.
 ### Game History: 3-4 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                           |
 | :---:    | :---:      | :---:       | :---                                                  |
+| 11       | 2020-10-18 | 3           | 1st Alex 10 , 2nd Rachel 9 , 3rd Phil 5               |
 | 10       | 2020-09-04 | 4           | 1st Rachel 10 , 2nd Scott 9 , 3rd Alex 8 , 4th Jess 6 |
 | 9        | 2020-07-26 | 4           | 1st Sean 10 , 2nd Alex 8 , 2nd Scott 8 , 3rd Mic 7    |
 | 8        | 2020-07-25 | 4           | 1st Alex 10 , 2nd Sean 9 , 3rd Eftychi 8 , 4th Mic 4  |
