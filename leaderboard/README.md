@@ -1,5 +1,5 @@
 # Catan Leaderboard
-Last updated 2020-10-19 02:51 UTC.
+Last updated 2020-10-19 02:56 UTC.
 
 ## Players
 
