@@ -1,15 +1,15 @@
 # Rachel
-Last updated 2020-10-19 02:56 UTC.
+Last updated 2020-10-19 05:20 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 70        | 990            | 7.2            | 16 , 23%      | 17 , 24%      | 21 , 30%      | 33 , 47%             | 54 , 77%                   |
-| 3-4 Player Games | 26        | 974            | 7.5            | 7 , 27%       | 8 , 31%       | 8 , 31%       | 15 , 58%             | 23 , 88%                   |
-| 5-6 Player Games | 41        | 977            | 6.9            | 7 , 17%       | 8 , 20%       | 13 , 32%      | 15 , 37%             | 28 , 68%                   |
-| 7-8 Player Games | 3         | 1050           | 9.3            | 2 , 67%       | 1 , 33%       | 0 , 0%        | 3 , 100%             | 3 , 100%                   |
+| All Games        | 70        | 990            | 7.20           | 23% (16)      | 24% (17)      | 30% (21)      | 47% (33)             | 77% (54)                   |
+| 3-4 Player Games | 26        | 974            | 7.46           | 27% (7)       | 31% (8)       | 31% (8)       | 58% (15)             | 88% (23)                   |
+| 5-6 Player Games | 41        | 977            | 6.88           | 17% (7)       | 20% (8)       | 32% (13)      | 37% (15)             | 68% (28)                   |
+| 7-8 Player Games | 3         | 1050           | 9.33           | 67% (2)       | 33% (1)       | 0% (0)        | 100% (3)             | 100% (3)                   |
 
 ## Ratings
 ![](plots/rating_vs_game_number.png)

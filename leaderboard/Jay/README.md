@@ -1,14 +1,14 @@
 # Jay
-Last updated 2020-10-19 02:56 UTC.
+Last updated 2020-10-19 05:20 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 14        | 1083           | 7.9            | 6 , 43%       | 3 , 21%       | 3 , 21%       | 9 , 64%              | 12 , 86%                   |
-| 5-6 Player Games | 12        | 1077           | 8.0            | 5 , 42%       | 3 , 25%       | 3 , 25%       | 8 , 67%              | 11 , 92%                   |
-| 7-8 Player Games | 2         | 1018           | 7.0            | 1 , 50%       | 0 , 0%        | 0 , 0%        | 1 , 50%              | 1 , 50%                    |
+| All Games        | 14        | 1083           | 7.86           | 43% (6)       | 21% (3)       | 21% (3)       | 64% (9)              | 86% (12)                   |
+| 5-6 Player Games | 12        | 1077           | 8.00           | 42% (5)       | 25% (3)       | 25% (3)       | 67% (8)              | 92% (11)                   |
+| 7-8 Player Games | 2         | 1018           | 7.00           | 50% (1)       | 0% (0)        | 0% (0)        | 50% (1)              | 50% (1)                    |
 
 ## Ratings
 ![](plots/rating_vs_game_number.png)

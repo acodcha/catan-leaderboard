@@ -1,15 +1,15 @@
 # Wendy
-Last updated 2020-10-19 02:56 UTC.
+Last updated 2020-10-19 05:20 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 18        | 940            | 5.8            | 0 , 0%        | 3 , 17%       | 7 , 39%       | 3 , 17%              | 10 , 56%                   |
-| 3-4 Player Games | 1         | 968            | 4.0            | 0 , 0%        | 0 , 0%        | 1 , 100%      | 0 , 0%               | 1 , 100%                   |
-| 5-6 Player Games | 13        | 954            | 5.8            | 0 , 0%        | 3 , 23%       | 5 , 38%       | 3 , 23%              | 8 , 62%                    |
-| 7-8 Player Games | 4         | 979            | 6.2            | 0 , 0%        | 0 , 0%        | 1 , 25%       | 0 , 0%               | 1 , 25%                    |
+| All Games        | 18        | 940            | 5.78           | 0% (0)        | 17% (3)       | 39% (7)       | 17% (3)              | 56% (10)                   |
+| 3-4 Player Games | 1         | 968            | 4.00           | 0% (0)        | 0% (0)        | 100% (1)      | 0% (0)               | 100% (1)                   |
+| 5-6 Player Games | 13        | 954            | 5.77           | 0% (0)        | 23% (3)       | 38% (5)       | 23% (3)              | 62% (8)                    |
+| 7-8 Player Games | 4         | 979            | 6.25           | 0% (0)        | 0% (0)        | 25% (1)       | 0% (0)               | 25% (1)                    |
 
 ## Ratings
 ![](plots/rating_vs_game_number.png)
