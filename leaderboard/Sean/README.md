@@ -1,15 +1,15 @@
 # Sean
-Last updated 2020-10-19 02:56 UTC.
+Last updated 2020-10-19 05:20 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 42        | 989            | 7.3            | 6 , 14%       | 15 , 36%      | 10 , 24%      | 21 , 50%             | 31 , 74%                   |
-| 3-4 Player Games | 13        | 971            | 7.0            | 3 , 23%       | 5 , 38%       | 2 , 15%       | 8 , 62%              | 10 , 77%                   |
-| 5-6 Player Games | 26        | 999            | 7.4            | 3 , 12%       | 9 , 35%       | 7 , 27%       | 12 , 46%             | 19 , 73%                   |
-| 7-8 Player Games | 3         | 1002           | 7.7            | 0 , 0%        | 1 , 33%       | 1 , 33%       | 1 , 33%              | 2 , 67%                    |
+| All Games        | 42        | 989            | 7.31           | 14% (6)       | 36% (15)      | 24% (10)      | 50% (21)             | 74% (31)                   |
+| 3-4 Player Games | 13        | 971            | 7.00           | 23% (3)       | 38% (5)       | 15% (2)       | 62% (8)              | 77% (10)                   |
+| 5-6 Player Games | 26        | 999            | 7.42           | 12% (3)       | 35% (9)       | 27% (7)       | 46% (12)             | 73% (19)                   |
+| 7-8 Player Games | 3         | 1002           | 7.67           | 0% (0)        | 33% (1)       | 33% (1)       | 33% (1)              | 67% (2)                    |
 
 ## Ratings
 ![](plots/rating_vs_game_number.png)

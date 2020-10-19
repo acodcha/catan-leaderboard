@@ -1,13 +1,13 @@
 # PA
-Last updated 2020-10-19 02:56 UTC.
+Last updated 2020-10-19 05:20 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 1         | 1031           | 10             | 1 , 100%      | 0 , 0%        | 0 , 0%        | 1 , 100%             | 1 , 100%                   |
-| 5-6 Player Games | 1         | 1032           | 10             | 1 , 100%      | 0 , 0%        | 0 , 0%        | 1 , 100%             | 1 , 100%                   |
+| All Games        | 1         | 1031           | 10.0           | 100% (1)      | 0% (0)        | 0% (0)        | 100% (1)             | 100% (1)                   |
+| 5-6 Player Games | 1         | 1032           | 10.0           | 100% (1)      | 0% (0)        | 0% (0)        | 100% (1)             | 100% (1)                   |
 
 ## Ratings
 ![](plots/rating_vs_game_number.png)

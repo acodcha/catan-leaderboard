@@ -1,14 +1,14 @@
 # Wilson
-Last updated 2020-10-19 02:56 UTC.
+Last updated 2020-10-19 05:20 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 5         | 1025           | 7.6            | 1 , 20%       | 2 , 40%       | 1 , 20%       | 3 , 60%              | 4 , 80%                    |
-| 3-4 Player Games | 2         | 1009           | 7.0            | 0 , 0%        | 2 , 100%      | 0 , 0%        | 2 , 100%             | 2 , 100%                   |
-| 5-6 Player Games | 3         | 1022           | 8.0            | 1 , 33%       | 0 , 0%        | 1 , 33%       | 1 , 33%              | 2 , 67%                    |
+| All Games        | 5         | 1025           | 7.60           | 20% (1)       | 40% (2)       | 20% (1)       | 60% (3)              | 80% (4)                    |
+| 3-4 Player Games | 2         | 1009           | 7.00           | 0% (0)        | 100% (2)      | 0% (0)        | 100% (2)             | 100% (2)                   |
+| 5-6 Player Games | 3         | 1022           | 8.00           | 33% (1)       | 0% (0)        | 33% (1)       | 33% (1)              | 67% (2)                    |
 
 ## Ratings
 ![](plots/rating_vs_game_number.png)

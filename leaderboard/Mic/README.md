@@ -1,15 +1,15 @@
 # Mic
-Last updated 2020-10-19 02:56 UTC.
+Last updated 2020-10-19 05:20 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 75        | 912            | 6.5            | 5 , 7%        | 25 , 33%      | 23 , 31%      | 30 , 40%             | 53 , 71%                   |
-| 3-4 Player Games | 29        | 911            | 6.3            | 1 , 3%        | 13 , 45%      | 11 , 38%      | 14 , 48%             | 25 , 86%                   |
-| 5-6 Player Games | 42        | 929            | 6.8            | 4 , 10%       | 12 , 29%      | 10 , 24%      | 16 , 38%             | 26 , 62%                   |
-| 7-8 Player Games | 4         | 972            | 5.8            | 0 , 0%        | 0 , 0%        | 2 , 50%       | 0 , 0%               | 2 , 50%                    |
+| All Games        | 75        | 912            | 6.55           | 7% (5)        | 33% (25)      | 31% (23)      | 40% (30)             | 71% (53)                   |
+| 3-4 Player Games | 29        | 911            | 6.28           | 3% (1)        | 45% (13)      | 38% (11)      | 48% (14)             | 86% (25)                   |
+| 5-6 Player Games | 42        | 929            | 6.81           | 10% (4)       | 29% (12)      | 24% (10)      | 38% (16)             | 62% (26)                   |
+| 7-8 Player Games | 4         | 972            | 5.75           | 0% (0)        | 0% (0)        | 50% (2)       | 0% (0)               | 50% (2)                    |
 
 ## Ratings
 ![](plots/rating_vs_game_number.png)

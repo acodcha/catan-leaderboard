@@ -1,15 +1,15 @@
 # Eftychi
-Last updated 2020-10-19 02:56 UTC.
+Last updated 2020-10-19 05:20 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 11        | 942            | 5.6            | 0 , 0%        | 2 , 18%       | 3 , 27%       | 2 , 18%              | 5 , 45%                    |
-| 3-4 Player Games | 2         | 1005           | 7.5            | 0 , 0%        | 1 , 50%       | 1 , 50%       | 1 , 50%              | 2 , 100%                   |
-| 5-6 Player Games | 7         | 955            | 5.3            | 0 , 0%        | 1 , 14%       | 2 , 29%       | 1 , 14%              | 3 , 43%                    |
-| 7-8 Player Games | 2         | 964            | 5.0            | 0 , 0%        | 0 , 0%        | 0 , 0%        | 0 , 0%               | 0 , 0%                     |
+| All Games        | 11        | 942            | 5.64           | 0% (0)        | 18% (2)       | 27% (3)       | 18% (2)              | 45% (5)                    |
+| 3-4 Player Games | 2         | 1005           | 7.50           | 0% (0)        | 50% (1)       | 50% (1)       | 50% (1)              | 100% (2)                   |
+| 5-6 Player Games | 7         | 955            | 5.29           | 0% (0)        | 14% (1)       | 29% (2)       | 14% (1)              | 43% (3)                    |
+| 7-8 Player Games | 2         | 964            | 5.00           | 0% (0)        | 0% (0)        | 0% (0)        | 0% (0)               | 0% (0)                     |
 
 ## Ratings
 ![](plots/rating_vs_game_number.png)
