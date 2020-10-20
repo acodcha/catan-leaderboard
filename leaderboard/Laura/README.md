@@ -1,5 +1,5 @@
 # Laura
-Last updated 2020-10-19 05:20 UTC.
+Last updated 2020-10-20 02:06 UTC.
 
 [Go back to all players.](../README.md)
 
