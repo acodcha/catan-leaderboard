@@ -1,14 +1,14 @@
 # Laura
-Last updated 2020-10-21 03:14 UTC.
+Last updated 2020-10-23 00:51 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 10        | 895            | 5.70           | 10% (1)       | 0% (0)        | 20% (2)       | 10% (1)              | 30% (3)                    |
+| All Games        | 10        | 896            | 5.70           | 10% (1)       | 0% (0)        | 20% (2)       | 10% (1)              | 30% (3)                    |
 | 3-4 Player Games | 2         | 976            | 7.50           | 50% (1)       | 0% (0)        | 0% (0)        | 50% (1)              | 50% (1)                    |
-| 5-6 Player Games | 8         | 907            | 5.25           | 0% (0)        | 0% (0)        | 25% (2)       | 0% (0)               | 25% (2)                    |
+| 5-6 Player Games | 8         | 908            | 5.25           | 0% (0)        | 0% (0)        | 25% (2)       | 0% (0)               | 25% (2)                    |
 
 ## Ratings
 ![](plots/rating_vs_game_number.png)
@@ -35,8 +35,8 @@ Last updated 2020-10-21 03:14 UTC.
 | 10       | 2020-10-20 | 4           | 1st Laura 10 , 2nd Mic 9 , 3rd Rachel 6 , 4th Phil 4                             |
 | 9        | 2020-10-16 | 5           | 1st Alex 10 , 2nd Mic 10 , 3rd Jess 9 , 4th Scott 8 , 5th Laura 6                |
 | 8        | 2020-10-16 | 5           | 1st Mic 10 , 2nd Alex 7 , 2nd Jess 7 , 2nd Scott 7 , 3rd Laura 4                 |
-| 7        | 2020-10-11 | 5           | 1st Mic 10 , 2nd Phil 7 , 3rd Rachel 6 , 4th Jess 5 , 4th Laura 5                |
-| 6        | 2020-10-11 | 5           | 1st Phil 10 , 2nd Jess 9 , 3rd Rachel 7 , 4th Mic 6 , 5th Laura 5                |
+| 7        | 2020-10-11 | 5           | 1st Phil 10 , 2nd Jess 9 , 3rd Rachel 7 , 4th Mic 6 , 5th Laura 5                |
+| 6        | 2020-10-11 | 5           | 1st Mic 10 , 2nd Phil 7 , 3rd Rachel 6 , 4th Jess 5 , 4th Laura 5                |
 | 5        | 2020-09-29 | 6           | 1st Jess 10 , 2nd Mic 9 , 3rd Phil 8 , 4th Scott 5 , 4th Rachel 5 , 5th Laura 3  |
 | 4        | 2020-09-27 | 4           | 1st Sean 10 , 2nd Mic 7 , 3rd Phil 6 , 4th Laura 5                               |
 | 3        | 2020-09-17 | 6           | 1st Sean 10 , 2nd Jess 10 , 3rd Rachel 9 , 4th Scott 8 , 5th Laura 7 , 6th Mic 6 |
@@ -54,8 +54,8 @@ Last updated 2020-10-21 03:14 UTC.
 | :---:    | :---:      | :---:       | :---                                                                             |
 | 8        | 2020-10-16 | 5           | 1st Alex 10 , 2nd Mic 10 , 3rd Jess 9 , 4th Scott 8 , 5th Laura 6                |
 | 7        | 2020-10-16 | 5           | 1st Mic 10 , 2nd Alex 7 , 2nd Jess 7 , 2nd Scott 7 , 3rd Laura 4                 |
-| 6        | 2020-10-11 | 5           | 1st Mic 10 , 2nd Phil 7 , 3rd Rachel 6 , 4th Jess 5 , 4th Laura 5                |
-| 5        | 2020-10-11 | 5           | 1st Phil 10 , 2nd Jess 9 , 3rd Rachel 7 , 4th Mic 6 , 5th Laura 5                |
+| 6        | 2020-10-11 | 5           | 1st Phil 10 , 2nd Jess 9 , 3rd Rachel 7 , 4th Mic 6 , 5th Laura 5                |
+| 5        | 2020-10-11 | 5           | 1st Mic 10 , 2nd Phil 7 , 3rd Rachel 6 , 4th Jess 5 , 4th Laura 5                |
 | 4        | 2020-09-29 | 6           | 1st Jess 10 , 2nd Mic 9 , 3rd Phil 8 , 4th Scott 5 , 4th Rachel 5 , 5th Laura 3  |
 | 3        | 2020-09-17 | 6           | 1st Sean 10 , 2nd Jess 10 , 3rd Rachel 9 , 4th Scott 8 , 5th Laura 7 , 6th Mic 6 |
 | 2        | 2020-09-11 | 6           | 1st Mic 10 , 2nd Jess 8 , 3rd Sean 6 , 3rd Scott 6 , 4th Rachel 5 , 4th Laura 5  |
