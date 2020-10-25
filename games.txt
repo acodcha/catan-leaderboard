@@ -1,108 +1,108 @@
-2017-03-17 : Jess 10 , Jay 8 , Alex 7 , Sean 7 , Scott 6 , Wendy 5
-2017-03-31 : Jay 10 , Scott 9 , Alex 7 , Wendy 7 , Sean 6 , Rachel 5
-2017-04-01 : Jess 10 , Jay 8 , Sean 8 , Wendy 5 , Alex 4 , Rachel 4
-2017-05-06 : Jess 10 , Wilson 9 , Alex 6 , Sean 5
-2017-06-10 : Jay 10 , Alex 9 , Jess 7 , Scott 6 , Sean 6 , Wendy 6
-2017-06-10 : Wilson 10 , Scott 6 , Alex 5 , Jay 4 , Victoria 3 , Jess 2
-2017-06-10 : Scott 10 , Alex 8 , Jess 7 , Wilson 6 , Wendy 5 , Victoria 3
-2017-08-25 : PA 10 , Jay 7 , Sean 7 , Scott 6 , Wendy 5 , Alex 4
-2017-10-08 : Scott 10 , Alex 9 , Jay 6 , Jess 6 , Wendy 6 , Sean 5
-2018-01-14 : Sean 10 , Jess 7 , Alex 5 , Scott 5 , Eftychi 4
-2018-09-01 : Jay 10 , Alex 9 , Jess 9 , Wilson 8 , Scott 5
-2019-03-10 : Alex 11 , Wilson 5 , Sean 4
-2019-09-22 : Alex 10 , Sean 6 , Scott 6 , Wendy 4
-2020-01-19 : Jay 10 , Alex 9 , Jess 8 , Eftychi 8 , Sean 7 , Scott 7
-2020-06-06 : Jay 10 , Alex 5 , Jess 5 , Scott 4 , Rachel 4
-2020-06-06 : Scott 10 , Alex 9 , Jay 5 , Jess 5 , Sean 5 , Rachel 3
-2020-06-13 : Jess 10 , Alex 9 , Jay 8 , Scott 7 , Rachel 4
-2020-06-13 : Jess 10 , Alex 9 , Rachel 9 , Scott 7
-2020-06-20 : Rachel 10 , Alex 8 , Jess 8 , Sean 8 , Scott 5
-2020-06-20 : Jess 10 , Wendy 8 , Alex 7 , Scott 7 , Eftychi 4 , Mic 4
-2020-06-20 : Alex 10 , Scott 6 , Mic 6 , Jess 5 , Eftychi 4 , Wendy 2
-2020-06-20 : Jess 10 , Eftychi 8 , Wendy 7 , Alex 6 , Scott 6 , Mic 6
-2020-07-03 : Alex 10 , Rachel 7 , Scott 7 , Jess 5
-2020-07-03 : Jess 10 , Alex 9 , Sean 9 , Rachel 8 , Scott 7
-2020-07-03 : Jess 10 , Alex 6 , Wendy 6 , Scott 5 , Eftychi 5 , Rachel 4
-2020-07-04 : Scott 10 , Eftychi 7 , Jess 6 , Rachel 6
-2020-07-04 : Alex 10 , Rachel 8 , Scott 7 , Jess 6 , Wendy 6 , Eftychi 4 , Jay 4 , Mic 4
-2020-07-04 : Jay 10 , Alex 9 , Sean 9 , Scott 7 , Wendy 7 , Mic 7 , Jess 6 , Eftychi 6
-2020-07-18 : Alex 10 , Rachel 8 , Scott 6 , Mic 5 , Eftychi 4
-2020-07-25 : Alex 10 , Sean 5 , Rachel 5 , Mic 5
-2020-07-25 : Alex 10 , Mic 9 , Rachel 7 , Sean 6
-2020-07-25 : Alex 10 , Sean 9 , Eftychi 8 , Mic 4
-2020-07-26 : Sean 10 , Alex 8 , Scott 8 , Mic 7
-2020-07-29 : Scott 10 , Phil 8 , Mic 7 , Rachel 6
-2020-08-05 : Scott 10 , Rachel 8 , Sean 6 , Jess 6 , Mic 6 , Phil 5
-2020-08-05 : Scott 10 , Jess 8 , Mic 8 , Sean 7 , Phil 7 , Alex 6
-2020-08-07 : Rachel 10 , Jess 9 , Scott 8 , Alex 6 , Mic 5
-2020-08-07 : Jess 10 , Sean 8 , Wendy 7 , Rachel 7 , Scott 5 , Mic 5
-2020-08-07 : Rachel 10 , Jess 8 , Scott 8 , Alex 7 , Mic 7 , Sean 6 , Wendy 6
-2020-08-11 : Scott 10 , Jess 8 , Rachel 7 , Mic 7
-2020-08-11 : Rachel 10 , Jess 9 , Scott 9 , Phil 6 , Mic 4
-2020-08-17 : Jess 10 , Rachel 9 , Phil 8 , Mic 3
-2020-08-17 : Rachel 10 , Sean 8 , Phil 7 , Mic 6 , Jess 4
-2020-08-17 : Jess 10 , Sean 7 , Phil 7 , Mic 7
-2020-08-19 : Jess 10 , Scott 8 , Mic 8 , Rachel 6
-2020-08-19 : Jess 10 , Scott 5 , Mic 5 , Rachel 5
-2020-08-22 : Jess 10 , Scott 9 , Rachel 9 , Laura 7 , Mic 7
-2020-08-22 : Jess 10 , Scott 9 , Sean 9 , Mic 9 , Rachel 5
-2020-08-22 : Rachel 10 , Sean 8 , Jess 7 , Mic 7 , Scott 6
-2020-08-28 : Rachel 11 , Jess 7 , Scott 7 , Mic 6
-2020-08-28 : Rachel 10 , Jess 8 , Scott 7 , Mic 6 , Phil 5
-2020-08-31 : Rachel 10 , Mic 7 , Phil 4
-2020-08-31 : Jess 10 , Rachel 7 , Scott 7 , Phil 7 , Mic 5
-2020-08-31 : Jess 10 , Scott 6 , Phil 6 , Mic 5 , Rachel 5
-2020-09-01 : Rachel 10 , Jess 6 , Mic 5 , Phil 5
-2020-09-01 : Jess 10 , Rachel 9 , Mic 8 , Phil 5
-2020-09-02 : Jess 10 , Scott 8 , Rachel 8 , Mic 8 , Phil 6
-2020-09-02 : Jess 10 , Scott 5 , Mic 5 , Phil 3
-2020-09-02 : Phil 10 , Jess 6 , Scott 5 , Rachel 5 , Mic 3
-2020-09-04 : Rachel 10 , Scott 9 , Alex 8 , Jess 6
-2020-09-04 : Rachel 10 , Scott 9 , Alex 8 , Sean 8 , Jess 7 , Wendy 6 , Mic 5
-2020-09-04 : Sean 10 , Wendy 6 , Alex 4 , Mic 4 , Jess 3
-2020-09-07 : Alex 10 , Scott 9 , Rachel 7 , Sean 6 , Mic 5
-2020-09-07 : Alex 10 , Scott 8 , Rachel 8 , Mic 8 , Jess 7 , Sean 7
-2020-09-10 : Mic 10 , Scott 7 , Rachel 6
-2020-09-10 : Scott 11 , Mic 6 , Rachel 6
-2020-09-11 : Mic 10 , Jess 8 , Sean 6 , Scott 6 , Rachel 5 , Laura 5
-2020-09-11 : Jess 10 , Scott 9 , Mic 6 , Rachel 5
-2020-09-14 : Scott 10 , Jess 8 , Alex 7 , Phil 7 , Mic 6
-2020-09-14 : Jess 10 , Mic 6 , Alex 4 , Phil 4 , Scott 4
-2020-09-17 : Sean 10 * , Jess 10 , Rachel 9 , Scott 8 , Laura 7 , Mic 6
-2020-09-21 : Jess 10 , Scott 9 , Mic 8 , Alex 6 , Rachel 5
-2020-09-22 : Rachel 10 , Mic 5 , Phil 4
-2020-09-22 : Phil 10 , Mic 6 , Rachel 4
-2020-09-22 : Rachel 10 , Phil 7 , Mic 6
-2020-09-23 : Sean 10 , Jess 6 , Mic 6 , Rachel 4
-2020-09-23 : Scott 10 , Jess 8 , Phil 8 , Sean 7 , Mic 6 , Rachel 6
-2020-09-25 : Jess 11 , Scott 8 , Mic 7
-2020-09-27 : Sean 10 , Mic 7 , Phil 6 , Laura 5
-2020-09-28 : Scott 10 , Jess 7 , Sean 5 , Mic 4
-2020-09-28 : Jess 10 , Scott 8 , Mic 7 , Sean 6
-2020-09-29 : Jess 10 , Mic 9 , Phil 8 , Scott 5 , Rachel 5 , Laura 3
-2020-09-30 : Scott 10 , Rachel 9 , Jess 8 , Phil 8 , Mic 6
-2020-09-30 : Scott 10 , Phil 9 , Mic 9 , Rachel 8 , Sean 7
-2020-10-02 : Rachel 11 , Sean 8 , Mic 7
-2020-10-02 : Scott 10 , Sean 9 , Jess 8 , Rachel 7 , Mic 6
-2020-10-02 : Scott 10 , Rachel 9 , Mic 8 , Sean 7 , Jess 7
-2020-10-06 : Mic 10 , Phil 9 , Scott 9 , Rachel 7 , Jess 4
-2020-10-06 : Rachel 10 , Mic 7 , Jess 7 , Scott 6 , Phil 6
-2020-10-10 : Scott 10 , Mic 8 , Rachel 6 , Jess 6 , Alex 5
-2020-10-10 : Jess 10 , Alex 8 , Mic 7 , Scott 4 , Rachel 4
-2020-10-11 : Mic 10 , Phil 7 , Rachel 6 , Jess 5 , Laura 5
-2020-10-11 : Phil 10 , Jess 9 , Rachel 7 , Mic 6 , Laura 5
-2020-10-12 : Scott 10 , Alex 8 , Jess 8 , Mic 7 , Phil 4 , Rachel 4
-2020-10-12 : Alex 10 , Scott 9 , Mic 9 , Jess 8 , Rachel 6
-2020-10-14 : Scott 10 , Phil 7 , Rachel 6 , Mic 4
-2020-10-16 : Mic 10 , Alex 7 , Jess 7 , Scott 7 , Laura 4
-2020-10-16 : Alex 10 * , Mic 10 , Jess 9 , Scott 8 , Laura 6
-2020-10-18 : Alex 10 , Rachel 9 , Phil 5
-2020-10-18 : Phil 10 , Mic 8 , Alex 7 , Rachel 6
-2020-10-19 : Rachel 10, Phil 6, Mic 4
-2020-10-19 : Rachel 10, Phil 6, Mic 6
-2020-10-19 : Mic 10, Rachel 9, Phil 9
-2020-10-20 : Rachel 10, Phil 7, Mic 7
-2020-10-20 : Laura 10, Mic 9, Rachel 6, Phil 4
-2020-10-22 : Mic 10, Phil 9, Rachel 7
-2020-10-23 : Laura 10, Mic 8, Rachel 7
 2020-10-23 : Rachel 10, Mic 9, Laura 8
+2020-10-23 : Laura 10, Mic 8, Rachel 7
+2020-10-22 : Mic 10, Phil 9, Rachel 7
+2020-10-20 : Laura 10, Mic 9, Rachel 6, Phil 4
+2020-10-20 : Rachel 10, Phil 7, Mic 7
+2020-10-19 : Mic 10, Rachel 9, Phil 9
+2020-10-19 : Rachel 10, Phil 6, Mic 6
+2020-10-19 : Rachel 10, Phil 6, Mic 4
+2020-10-18 : Phil 10 , Mic 8 , Alex 7 , Rachel 6
+2020-10-18 : Alex 10 , Rachel 9 , Phil 5
+2020-10-16 : Alex 10 * , Mic 10 , Jess 9 , Scott 8 , Laura 6
+2020-10-16 : Mic 10 , Alex 7 , Jess 7 , Scott 7 , Laura 4
+2020-10-14 : Scott 10 , Phil 7 , Rachel 6 , Mic 4
+2020-10-12 : Alex 10 , Scott 9 , Mic 9 , Jess 8 , Rachel 6
+2020-10-12 : Scott 10 , Alex 8 , Jess 8 , Mic 7 , Phil 4 , Rachel 4
+2020-10-11 : Phil 10 , Jess 9 , Rachel 7 , Mic 6 , Laura 5
+2020-10-11 : Mic 10 , Phil 7 , Rachel 6 , Jess 5 , Laura 5
+2020-10-10 : Jess 10 , Alex 8 , Mic 7 , Scott 4 , Rachel 4
+2020-10-10 : Scott 10 , Mic 8 , Rachel 6 , Jess 6 , Alex 5
+2020-10-06 : Rachel 10 , Mic 7 , Jess 7 , Scott 6 , Phil 6
+2020-10-06 : Mic 10 , Phil 9 , Scott 9 , Rachel 7 , Jess 4
+2020-10-02 : Scott 10 , Rachel 9 , Mic 8 , Sean 7 , Jess 7
+2020-10-02 : Scott 10 , Sean 9 , Jess 8 , Rachel 7 , Mic 6
+2020-10-02 : Rachel 11 , Sean 8 , Mic 7
+2020-09-30 : Scott 10 , Phil 9 , Mic 9 , Rachel 8 , Sean 7
+2020-09-30 : Scott 10 , Rachel 9 , Jess 8 , Phil 8 , Mic 6
+2020-09-29 : Jess 10 , Mic 9 , Phil 8 , Scott 5 , Rachel 5 , Laura 3
+2020-09-28 : Jess 10 , Scott 8 , Mic 7 , Sean 6
+2020-09-28 : Scott 10 , Jess 7 , Sean 5 , Mic 4
+2020-09-27 : Sean 10 , Mic 7 , Phil 6 , Laura 5
+2020-09-25 : Jess 11 , Scott 8 , Mic 7
+2020-09-23 : Scott 10 , Jess 8 , Phil 8 , Sean 7 , Mic 6 , Rachel 6
+2020-09-23 : Sean 10 , Jess 6 , Mic 6 , Rachel 4
+2020-09-22 : Rachel 10 , Phil 7 , Mic 6
+2020-09-22 : Phil 10 , Mic 6 , Rachel 4
+2020-09-22 : Rachel 10 , Mic 5 , Phil 4
+2020-09-21 : Jess 10 , Scott 9 , Mic 8 , Alex 6 , Rachel 5
+2020-09-17 : Sean 10 * , Jess 10 , Rachel 9 , Scott 8 , Laura 7 , Mic 6
+2020-09-14 : Jess 10 , Mic 6 , Alex 4 , Phil 4 , Scott 4
+2020-09-14 : Scott 10 , Jess 8 , Alex 7 , Phil 7 , Mic 6
+2020-09-11 : Jess 10 , Scott 9 , Mic 6 , Rachel 5
+2020-09-11 : Mic 10 , Jess 8 , Sean 6 , Scott 6 , Rachel 5 , Laura 5
+2020-09-10 : Scott 11 , Mic 6 , Rachel 6
+2020-09-10 : Mic 10 , Scott 7 , Rachel 6
+2020-09-07 : Alex 10 , Scott 8 , Rachel 8 , Mic 8 , Jess 7 , Sean 7
+2020-09-07 : Alex 10 , Scott 9 , Rachel 7 , Sean 6 , Mic 5
+2020-09-04 : Sean 10 , Wendy 6 , Alex 4 , Mic 4 , Jess 3
+2020-09-04 : Rachel 10 , Scott 9 , Alex 8 , Sean 8 , Jess 7 , Wendy 6 , Mic 5
+2020-09-04 : Rachel 10 , Scott 9 , Alex 8 , Jess 6
+2020-09-02 : Phil 10 , Jess 6 , Scott 5 , Rachel 5 , Mic 3
+2020-09-02 : Jess 10 , Scott 5 , Mic 5 , Phil 3
+2020-09-02 : Jess 10 , Scott 8 , Rachel 8 , Mic 8 , Phil 6
+2020-09-01 : Jess 10 , Rachel 9 , Mic 8 , Phil 5
+2020-09-01 : Rachel 10 , Jess 6 , Mic 5 , Phil 5
+2020-08-31 : Jess 10 , Scott 6 , Phil 6 , Mic 5 , Rachel 5
+2020-08-31 : Jess 10 , Rachel 7 , Scott 7 , Phil 7 , Mic 5
+2020-08-31 : Rachel 10 , Mic 7 , Phil 4
+2020-08-28 : Rachel 10 , Jess 8 , Scott 7 , Mic 6 , Phil 5
+2020-08-28 : Rachel 11 , Jess 7 , Scott 7 , Mic 6
+2020-08-22 : Rachel 10 , Sean 8 , Jess 7 , Mic 7 , Scott 6
+2020-08-22 : Jess 10 , Scott 9 , Sean 9 , Mic 9 , Rachel 5
+2020-08-22 : Jess 10 , Scott 9 , Rachel 9 , Laura 7 , Mic 7
+2020-08-19 : Jess 10 , Scott 5 , Mic 5 , Rachel 5
+2020-08-19 : Jess 10 , Scott 8 , Mic 8 , Rachel 6
+2020-08-17 : Jess 10 , Sean 7 , Phil 7 , Mic 7
+2020-08-17 : Rachel 10 , Sean 8 , Phil 7 , Mic 6 , Jess 4
+2020-08-17 : Jess 10 , Rachel 9 , Phil 8 , Mic 3
+2020-08-11 : Rachel 10 , Jess 9 , Scott 9 , Phil 6 , Mic 4
+2020-08-11 : Scott 10 , Jess 8 , Rachel 7 , Mic 7
+2020-08-07 : Rachel 10 , Jess 8 , Scott 8 , Alex 7 , Mic 7 , Sean 6 , Wendy 6
+2020-08-07 : Jess 10 , Sean 8 , Wendy 7 , Rachel 7 , Scott 5 , Mic 5
+2020-08-07 : Rachel 10 , Jess 9 , Scott 8 , Alex 6 , Mic 5
+2020-08-05 : Scott 10 , Jess 8 , Mic 8 , Sean 7 , Phil 7 , Alex 6
+2020-08-05 : Scott 10 , Rachel 8 , Sean 6 , Jess 6 , Mic 6 , Phil 5
+2020-07-29 : Scott 10 , Phil 8 , Mic 7 , Rachel 6
+2020-07-26 : Sean 10 , Alex 8 , Scott 8 , Mic 7
+2020-07-25 : Alex 10 , Sean 9 , Eftychi 8 , Mic 4
+2020-07-25 : Alex 10 , Mic 9 , Rachel 7 , Sean 6
+2020-07-25 : Alex 10 , Sean 5 , Rachel 5 , Mic 5
+2020-07-18 : Alex 10 , Rachel 8 , Scott 6 , Mic 5 , Eftychi 4
+2020-07-04 : Jay 10 , Alex 9 , Sean 9 , Scott 7 , Wendy 7 , Mic 7 , Jess 6 , Eftychi 6
+2020-07-04 : Alex 10 , Rachel 8 , Scott 7 , Jess 6 , Wendy 6 , Eftychi 4 , Jay 4 , Mic 4
+2020-07-04 : Scott 10 , Eftychi 7 , Jess 6 , Rachel 6
+2020-07-03 : Jess 10 , Alex 6 , Wendy 6 , Scott 5 , Eftychi 5 , Rachel 4
+2020-07-03 : Jess 10 , Alex 9 , Sean 9 , Rachel 8 , Scott 7
+2020-07-03 : Alex 10 , Rachel 7 , Scott 7 , Jess 5
+2020-06-20 : Jess 10 , Eftychi 8 , Wendy 7 , Alex 6 , Scott 6 , Mic 6
+2020-06-20 : Alex 10 , Scott 6 , Mic 6 , Jess 5 , Eftychi 4 , Wendy 2
+2020-06-20 : Jess 10 , Wendy 8 , Alex 7 , Scott 7 , Eftychi 4 , Mic 4
+2020-06-20 : Rachel 10 , Alex 8 , Jess 8 , Sean 8 , Scott 5
+2020-06-13 : Jess 10 , Alex 9 , Rachel 9 , Scott 7
+2020-06-13 : Jess 10 , Alex 9 , Jay 8 , Scott 7 , Rachel 4
+2020-06-06 : Scott 10 , Alex 9 , Jay 5 , Jess 5 , Sean 5 , Rachel 3
+2020-06-06 : Jay 10 , Alex 5 , Jess 5 , Scott 4 , Rachel 4
+2020-01-19 : Jay 10 , Alex 9 , Jess 8 , Eftychi 8 , Sean 7 , Scott 7
+2019-09-22 : Alex 10 , Sean 6 , Scott 6 , Wendy 4
+2019-03-10 : Alex 11 , Wilson 5 , Sean 4
+2018-09-01 : Jay 10 , Alex 9 , Jess 9 , Wilson 8 , Scott 5
+2018-01-14 : Sean 10 , Jess 7 , Alex 5 , Scott 5 , Eftychi 4
+2017-10-08 : Scott 10 , Alex 9 , Jay 6 , Jess 6 , Wendy 6 , Sean 5
+2017-08-25 : PA 10 , Jay 7 , Sean 7 , Scott 6 , Wendy 5 , Alex 4
+2017-06-10 : Scott 10 , Alex 8 , Jess 7 , Wilson 6 , Wendy 5 , Victoria 3
+2017-06-10 : Wilson 10 , Scott 6 , Alex 5 , Jay 4 , Victoria 3 , Jess 2
+2017-06-10 : Jay 10 , Alex 9 , Jess 7 , Scott 6 , Sean 6 , Wendy 6
+2017-05-06 : Jess 10 , Wilson 9 , Alex 6 , Sean 5
+2017-04-01 : Jess 10 , Jay 8 , Sean 8 , Wendy 5 , Alex 4 , Rachel 4
+2017-03-31 : Jay 10 , Scott 9 , Alex 7 , Wendy 7 , Sean 6 , Rachel 5
+2017-03-17 : Jess 10 , Jay 8 , Alex 7 , Sean 7 , Scott 6 , Wendy 5
