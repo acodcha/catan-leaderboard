@@ -1,14 +1,14 @@
 # Jess
-Last updated 2020-10-24 04:24 UTC.
+Last updated 2020-10-25 03:12 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 77        | 1102           | 7.99           | 36% (28)      | 30% (23)      | 21% (16)      | 66% (51)             | 87% (67)                   |
+| All Games        | 78        | 1102           | 8.00           | 36% (28)      | 31% (24)      | 21% (16)      | 67% (52)             | 87% (68)                   |
 | 3-4 Player Games | 19        | 1079           | 8.53           | 58% (11)      | 26% (5)       | 11% (2)       | 84% (16)             | 95% (18)                   |
-| 5-6 Player Games | 54        | 1088           | 7.89           | 31% (17)      | 31% (17)      | 26% (14)      | 63% (34)             | 89% (48)                   |
+| 5-6 Player Games | 55        | 1087           | 7.91           | 31% (17)      | 33% (18)      | 25% (14)      | 64% (35)             | 89% (49)                   |
 | 7-8 Player Games | 4         | 987            | 6.75           | 0% (0)        | 25% (1)       | 0% (0)        | 25% (1)              | 25% (1)                    |
 
 ## Ratings
@@ -36,6 +36,7 @@ Last updated 2020-10-24 04:24 UTC.
 ### Game History: All Games
 | **Game** | **Date**   | **Players** | **Results**                                                                                                 |
 | :---:    | :---:      | :---:       | :---                                                                                                        |
+| 78       | 2020-10-24 | 5           | 1st Rachel 11 , 2nd Jess 9 , 2nd Stuart 9 , 3rd Scott 8 , 4th Mic 7                                         |
 | 77       | 2020-10-16 | 5           | 1st Alex 10 , 2nd Mic 10 , 3rd Jess 9 , 4th Scott 8 , 5th Laura 6                                           |
 | 76       | 2020-10-16 | 5           | 1st Mic 10 , 2nd Alex 7 , 2nd Jess 7 , 2nd Scott 7 , 3rd Laura 4                                            |
 | 75       | 2020-10-12 | 5           | 1st Alex 10 , 2nd Scott 9 , 2nd Mic 9 , 3rd Jess 8 , 4th Rachel 6                                           |
@@ -140,6 +141,7 @@ Last updated 2020-10-24 04:24 UTC.
 ### Game History: 5-6 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                                                          |
 | :---:    | :---:      | :---:       | :---                                                                                 |
+| 55       | 2020-10-24 | 5           | 1st Rachel 11 , 2nd Jess 9 , 2nd Stuart 9 , 3rd Scott 8 , 4th Mic 7                  |
 | 54       | 2020-10-16 | 5           | 1st Alex 10 , 2nd Mic 10 , 3rd Jess 9 , 4th Scott 8 , 5th Laura 6                    |
 | 53       | 2020-10-16 | 5           | 1st Mic 10 , 2nd Alex 7 , 2nd Jess 7 , 2nd Scott 7 , 3rd Laura 4                     |
 | 52       | 2020-10-12 | 5           | 1st Alex 10 , 2nd Scott 9 , 2nd Mic 9 , 3rd Jess 8 , 4th Rachel 6                    |

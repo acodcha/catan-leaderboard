@@ -1,5 +1,5 @@
 # Phil
-Last updated 2020-10-24 04:24 UTC.
+Last updated 2020-10-25 03:12 UTC.
 
 [Go back to all players.](../README.md)
 
@@ -46,8 +46,8 @@ Last updated 2020-10-24 04:24 UTC.
 | 29       | 2020-10-11 | 5           | 1st Mic 10 , 2nd Phil 7 , 3rd Rachel 6 , 4th Jess 5 , 4th Laura 5               |
 | 28       | 2020-10-06 | 5           | 1st Rachel 10 , 2nd Mic 7 , 2nd Jess 7 , 3rd Scott 6 , 3rd Phil 6               |
 | 27       | 2020-10-06 | 5           | 1st Mic 10 , 2nd Phil 9 , 2nd Scott 9 , 3rd Rachel 7 , 4th Jess 4               |
-| 26       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Jess 8 , 3rd Phil 8 , 4th Mic 6               |
-| 25       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Phil 9 , 2nd Mic 9 , 3rd Rachel 8 , 4th Sean 7               |
+| 26       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Phil 9 , 2nd Mic 9 , 3rd Rachel 8 , 4th Sean 7               |
+| 25       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Jess 8 , 3rd Phil 8 , 4th Mic 6               |
 | 24       | 2020-09-29 | 6           | 1st Jess 10 , 2nd Mic 9 , 3rd Phil 8 , 4th Scott 5 , 4th Rachel 5 , 5th Laura 3 |
 | 23       | 2020-09-27 | 4           | 1st Sean 10 , 2nd Mic 7 , 3rd Phil 6 , 4th Laura 5                              |
 | 22       | 2020-09-23 | 6           | 1st Scott 10 , 2nd Jess 8 , 2nd Phil 8 , 3rd Sean 7 , 4th Mic 6 , 4th Rachel 6  |
@@ -105,8 +105,8 @@ Last updated 2020-10-24 04:24 UTC.
 | 18       | 2020-10-11 | 5           | 1st Mic 10 , 2nd Phil 7 , 3rd Rachel 6 , 4th Jess 5 , 4th Laura 5               |
 | 17       | 2020-10-06 | 5           | 1st Rachel 10 , 2nd Mic 7 , 2nd Jess 7 , 3rd Scott 6 , 3rd Phil 6               |
 | 16       | 2020-10-06 | 5           | 1st Mic 10 , 2nd Phil 9 , 2nd Scott 9 , 3rd Rachel 7 , 4th Jess 4               |
-| 15       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Jess 8 , 3rd Phil 8 , 4th Mic 6               |
-| 14       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Phil 9 , 2nd Mic 9 , 3rd Rachel 8 , 4th Sean 7               |
+| 15       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Phil 9 , 2nd Mic 9 , 3rd Rachel 8 , 4th Sean 7               |
+| 14       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Jess 8 , 3rd Phil 8 , 4th Mic 6               |
 | 13       | 2020-09-29 | 6           | 1st Jess 10 , 2nd Mic 9 , 3rd Phil 8 , 4th Scott 5 , 4th Rachel 5 , 5th Laura 3 |
 | 12       | 2020-09-23 | 6           | 1st Scott 10 , 2nd Jess 8 , 2nd Phil 8 , 3rd Sean 7 , 4th Mic 6 , 4th Rachel 6  |
 | 11       | 2020-09-14 | 5           | 1st Jess 10 , 2nd Mic 6 , 3rd Alex 4 , 3rd Phil 4 , 3rd Scott 4                 |

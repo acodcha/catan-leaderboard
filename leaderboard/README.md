@@ -1,5 +1,5 @@
 # Catan Leaderboard
-Last updated 2020-10-24 04:24 UTC.
+Last updated 2020-10-25 03:12 UTC.
 
 ## Players
 
@@ -9,14 +9,15 @@ Last updated 2020-10-24 04:24 UTC.
 | [Alex](Alex/README.md)         | 51        | 1073           | 7.82           | 27% (14)      | 33% (17)      | 25% (13)      | 61% (31)             | 86% (44)                   |
 | [Eftychi](Eftychi/README.md)   | 11        | 946            | 5.64           | 0% (0)        | 18% (2)       | 27% (3)       | 18% (2)              | 45% (5)                    |
 | [Jay](Jay/README.md)           | 14        | 1082           | 7.86           | 43% (6)       | 21% (3)       | 21% (3)       | 64% (9)              | 86% (12)                   |
-| [Jess](Jess/README.md)         | 77        | 1102           | 7.99           | 36% (28)      | 30% (23)      | 21% (16)      | 66% (51)             | 87% (67)                   |
+| [Jess](Jess/README.md)         | 78        | 1102           | 8.00           | 36% (28)      | 31% (24)      | 21% (16)      | 67% (52)             | 87% (68)                   |
 | [Laura](Laura/README.md)       | 12        | 897            | 6.25           | 17% (2)       | 0% (0)        | 25% (3)       | 17% (2)              | 42% (5)                    |
-| [Mic](Mic/README.md)           | 83        | 922            | 6.67           | 8% (7)        | 36% (30)      | 29% (24)      | 45% (37)             | 73% (61)                   |
+| [Mic](Mic/README.md)           | 84        | 922            | 6.68           | 8% (7)        | 36% (30)      | 29% (24)      | 44% (37)             | 73% (61)                   |
 | [PA](PA/README.md)             | 1         | 1031           | 10.0           | 100% (1)      | 0% (0)        | 0% (0)        | 100% (1)             | 100% (1)                   |
 | [Phil](Phil/README.md)         | 40        | 936            | 6.72           | 10% (4)       | 38% (15)      | 40% (16)      | 48% (19)             | 88% (35)                   |
-| [Rachel](Rachel/README.md)     | 78        | 989            | 7.35           | 26% (20)      | 23% (18)      | 31% (24)      | 49% (38)             | 79% (62)                   |
-| [Scott](Scott/README.md)       | 77        | 1045           | 7.66           | 25% (19)      | 38% (29)      | 21% (16)      | 62% (48)             | 83% (64)                   |
+| [Rachel](Rachel/README.md)     | 79        | 990            | 7.39           | 27% (21)      | 23% (18)      | 30% (24)      | 49% (39)             | 80% (63)                   |
+| [Scott](Scott/README.md)       | 78        | 1046           | 7.67           | 24% (19)      | 37% (29)      | 22% (17)      | 62% (48)             | 83% (65)                   |
 | [Sean](Sean/README.md)         | 42        | 990            | 7.31           | 14% (6)       | 36% (15)      | 24% (10)      | 50% (21)             | 74% (31)                   |
+| [Stuart](Stuart/README.md)     | 1         | 1011           | 9.00           | 0% (0)        | 100% (1)      | 0% (0)        | 100% (1)             | 100% (1)                   |
 | [Victoria](Victoria/README.md) | 2         | 969            | 3.00           | 0% (0)        | 0% (0)        | 0% (0)        | 0% (0)               | 0% (0)                     |
 | [Wendy](Wendy/README.md)       | 18        | 941            | 5.78           | 0% (0)        | 17% (3)       | 39% (7)       | 17% (3)              | 56% (10)                   |
 | [Wilson](Wilson/README.md)     | 5         | 1025           | 7.60           | 20% (1)       | 40% (2)       | 20% (1)       | 60% (3)              | 80% (4)                    |
@@ -42,14 +43,15 @@ Last updated 2020-10-24 04:24 UTC.
 | [Alex](Alex/README.md)         | 35        | 1034           | 7.31           | 17% (6)       | 40% (14)      | 23% (8)       | 57% (20)             | 80% (28)                   |
 | [Eftychi](Eftychi/README.md)   | 7         | 955            | 5.29           | 0% (0)        | 14% (1)       | 29% (2)       | 14% (1)              | 43% (3)                    |
 | [Jay](Jay/README.md)           | 12        | 1079           | 8.00           | 42% (5)       | 25% (3)       | 25% (3)       | 67% (8)              | 92% (11)                   |
-| [Jess](Jess/README.md)         | 54        | 1088           | 7.89           | 31% (17)      | 31% (17)      | 26% (14)      | 63% (34)             | 89% (48)                   |
+| [Jess](Jess/README.md)         | 55        | 1087           | 7.91           | 31% (17)      | 33% (18)      | 25% (14)      | 64% (35)             | 89% (49)                   |
 | [Laura](Laura/README.md)       | 8         | 908            | 5.25           | 0% (0)        | 0% (0)        | 25% (2)       | 0% (0)               | 25% (2)                    |
-| [Mic](Mic/README.md)           | 42        | 930            | 6.81           | 10% (4)       | 29% (12)      | 24% (10)      | 38% (16)             | 62% (26)                   |
+| [Mic](Mic/README.md)           | 43        | 932            | 6.81           | 9% (4)        | 28% (12)      | 23% (10)      | 37% (16)             | 60% (26)                   |
 | [PA](PA/README.md)             | 1         | 1032           | 10.0           | 100% (1)      | 0% (0)        | 0% (0)        | 100% (1)             | 100% (1)                   |
 | [Phil](Phil/README.md)         | 20        | 963            | 6.95           | 10% (2)       | 30% (6)       | 45% (9)       | 40% (8)              | 85% (17)                   |
-| [Rachel](Rachel/README.md)     | 41        | 977            | 6.88           | 17% (7)       | 20% (8)       | 32% (13)      | 37% (15)             | 68% (28)                   |
-| [Scott](Scott/README.md)       | 54        | 1018           | 7.48           | 24% (13)      | 28% (15)      | 24% (13)      | 52% (28)             | 76% (41)                   |
+| [Rachel](Rachel/README.md)     | 42        | 977            | 6.98           | 19% (8)       | 19% (8)       | 31% (13)      | 38% (16)             | 69% (29)                   |
+| [Scott](Scott/README.md)       | 55        | 1018           | 7.49           | 24% (13)      | 27% (15)      | 25% (14)      | 51% (28)             | 76% (42)                   |
 | [Sean](Sean/README.md)         | 26        | 999            | 7.42           | 12% (3)       | 35% (9)       | 27% (7)       | 46% (12)             | 73% (19)                   |
+| [Stuart](Stuart/README.md)     | 1         | 1010           | 9.00           | 0% (0)        | 100% (1)      | 0% (0)        | 100% (1)             | 100% (1)                   |
 | [Victoria](Victoria/README.md) | 2         | 969            | 3.00           | 0% (0)        | 0% (0)        | 0% (0)        | 0% (0)               | 0% (0)                     |
 | [Wendy](Wendy/README.md)       | 13        | 955            | 5.77           | 0% (0)        | 23% (3)       | 38% (5)       | 23% (3)              | 62% (8)                    |
 | [Wilson](Wilson/README.md)     | 3         | 1022           | 8.00           | 33% (1)       | 0% (0)        | 33% (1)       | 33% (1)              | 67% (2)                    |
@@ -140,6 +142,7 @@ Last updated 2020-10-24 04:24 UTC.
 ### Game History: All Games
 | **Game** | **Date**   | **Players** | **Results**                                                                                                 |
 | :---:    | :---:      | :---:       | :---                                                                                                        |
+| 109      | 2020-10-24 | 5           | 1st Rachel 11 , 2nd Jess 9 , 2nd Stuart 9 , 3rd Scott 8 , 4th Mic 7                                         |
 | 108      | 2020-10-23 | 3           | 1st Rachel 10 , 2nd Mic 9 , 3rd Laura 8                                                                     |
 | 107      | 2020-10-23 | 3           | 1st Laura 10 , 2nd Mic 8 , 3rd Rachel 7                                                                     |
 | 106      | 2020-10-22 | 3           | 1st Mic 10 , 2nd Phil 9 , 3rd Rachel 7                                                                      |
@@ -164,8 +167,8 @@ Last updated 2020-10-24 04:24 UTC.
 | 87       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Sean 7 , 4th Jess 7                                           |
 | 86       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Sean 9 , 3rd Jess 8 , 4th Rachel 7 , 5th Mic 6                                           |
 | 85       | 2020-10-02 | 3           | 1st Rachel 11 , 2nd Sean 8 , 3rd Mic 7                                                                      |
-| 84       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Jess 8 , 3rd Phil 8 , 4th Mic 6                                           |
-| 83       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Phil 9 , 2nd Mic 9 , 3rd Rachel 8 , 4th Sean 7                                           |
+| 84       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Phil 9 , 2nd Mic 9 , 3rd Rachel 8 , 4th Sean 7                                           |
+| 83       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Jess 8 , 3rd Phil 8 , 4th Mic 6                                           |
 | 82       | 2020-09-29 | 6           | 1st Jess 10 , 2nd Mic 9 , 3rd Phil 8 , 4th Scott 5 , 4th Rachel 5 , 5th Laura 3                             |
 | 81       | 2020-09-28 | 4           | 1st Jess 10 , 2nd Scott 8 , 3rd Mic 7 , 4th Sean 6                                                          |
 | 80       | 2020-09-28 | 4           | 1st Scott 10 , 2nd Jess 7 , 3rd Sean 5 , 4th Mic 4                                                          |
@@ -301,6 +304,7 @@ Last updated 2020-10-24 04:24 UTC.
 ### Game History: 5-6 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                                                          |
 | :---:    | :---:      | :---:       | :---                                                                                 |
+| 60       | 2020-10-24 | 5           | 1st Rachel 11 , 2nd Jess 9 , 2nd Stuart 9 , 3rd Scott 8 , 4th Mic 7                  |
 | 59       | 2020-10-16 | 5           | 1st Alex 10 , 2nd Mic 10 , 3rd Jess 9 , 4th Scott 8 , 5th Laura 6                    |
 | 58       | 2020-10-16 | 5           | 1st Mic 10 , 2nd Alex 7 , 2nd Jess 7 , 2nd Scott 7 , 3rd Laura 4                     |
 | 57       | 2020-10-12 | 5           | 1st Alex 10 , 2nd Scott 9 , 2nd Mic 9 , 3rd Jess 8 , 4th Rachel 6                    |
@@ -313,8 +317,8 @@ Last updated 2020-10-24 04:24 UTC.
 | 50       | 2020-10-06 | 5           | 1st Mic 10 , 2nd Phil 9 , 2nd Scott 9 , 3rd Rachel 7 , 4th Jess 4                    |
 | 49       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Sean 7 , 4th Jess 7                    |
 | 48       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Sean 9 , 3rd Jess 8 , 4th Rachel 7 , 5th Mic 6                    |
-| 47       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Jess 8 , 3rd Phil 8 , 4th Mic 6                    |
-| 46       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Phil 9 , 2nd Mic 9 , 3rd Rachel 8 , 4th Sean 7                    |
+| 47       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Phil 9 , 2nd Mic 9 , 3rd Rachel 8 , 4th Sean 7                    |
+| 46       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Jess 8 , 3rd Phil 8 , 4th Mic 6                    |
 | 45       | 2020-09-29 | 6           | 1st Jess 10 , 2nd Mic 9 , 3rd Phil 8 , 4th Scott 5 , 4th Rachel 5 , 5th Laura 3      |
 | 44       | 2020-09-23 | 6           | 1st Scott 10 , 2nd Jess 8 , 2nd Phil 8 , 3rd Sean 7 , 4th Mic 6 , 4th Rachel 6       |
 | 43       | 2020-09-21 | 5           | 1st Jess 10 , 2nd Scott 9 , 3rd Mic 8 , 4th Alex 6 , 5th Rachel 5                    |
