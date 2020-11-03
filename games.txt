@@ -1,3 +1,5 @@
+2020-11-2 : Jessica 10 , Rachel 9 , Scott 7 , Mic 7
+2020-11-2 : Jessica 10 , Scott 6 , Mic 4 , Rachel 4
 2020-10-31 : Rachel 10, Laura 7, Mic 6
 2020-10-31 : Laura 10, Mic 9, Rachel 6
 2020-10-30 : Jessica 10 , Rachel 8 , Mic 8 , Scott 7 
