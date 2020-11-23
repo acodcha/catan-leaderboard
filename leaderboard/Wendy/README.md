@@ -1,5 +1,5 @@
 # Wendy
-Last updated 2020-11-03 04:19 UTC.
+Last updated 2020-11-23 00:01 UTC.
 
 [Go back to all players.](../README.md)
 
