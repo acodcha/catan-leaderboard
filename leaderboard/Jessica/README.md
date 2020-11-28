@@ -1,5 +1,5 @@
 # Jessica
-Last updated 2020-11-23 00:01 UTC.
+Last updated 2020-11-28 00:30 UTC.
 
 [Go back to all players.](../README.md)
 
@@ -7,7 +7,7 @@ Last updated 2020-11-23 00:01 UTC.
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
 | All Games        | 7         | 1057           | 8.86           | 57% (4)       | 43% (3)       | 0% (0)        | 100% (7)             | 100% (7)                   |
-| 3-4 Player Games | 6         | 1046           | 8.83           | 67% (4)       | 33% (2)       | 0% (0)        | 100% (6)             | 100% (6)                   |
+| 3-4 Player Games | 6         | 1047           | 8.83           | 67% (4)       | 33% (2)       | 0% (0)        | 100% (6)             | 100% (6)                   |
 | 5-6 Player Games | 1         | 1016           | 9.00           | 0% (0)        | 100% (1)      | 0% (0)        | 100% (1)             | 100% (1)                   |
 
 ## Ratings
