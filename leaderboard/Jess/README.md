@@ -1,14 +1,14 @@
 # Jess
-Last updated 2020-12-03 03:51 UTC.
+Last updated 2020-12-03 03:56 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 80        | 1100           | 7.95           | 35% (28)      | 31% (25)      | 21% (17)      | 66% (53)             | 88% (70)                   |
-| 3-4 Player Games | 21        | 1081           | 8.29           | 52% (11)      | 29% (6)       | 14% (3)       | 81% (17)             | 95% (20)                   |
-| 5-6 Player Games | 55        | 1087           | 7.91           | 31% (17)      | 33% (18)      | 25% (14)      | 64% (35)             | 89% (49)                   |
+| All Games        | 87        | 1098           | 8.02           | 37% (32)      | 32% (28)      | 20% (17)      | 69% (60)             | 89% (77)                   |
+| 3-4 Player Games | 27        | 1091           | 8.41           | 56% (15)      | 30% (8)       | 11% (3)       | 85% (23)             | 96% (26)                   |
+| 5-6 Player Games | 56        | 1087           | 7.93           | 30% (17)      | 34% (19)      | 25% (14)      | 64% (36)             | 89% (50)                   |
 | 7-8 Player Games | 4         | 987            | 6.75           | 0% (0)        | 25% (1)       | 0% (0)        | 25% (1)              | 25% (1)                    |
 
 ## Ratings
@@ -36,6 +36,13 @@ Last updated 2020-12-03 03:51 UTC.
 ### Game History: All Games
 | **Game** | **Date**   | **Players** | **Results**                                                                                                 |
 | :---:    | :---:      | :---:       | :---                                                                                                        |
+| 87       | 2020-11-02 | 4           | 1st Jess 10 , 2nd Rachel 9 , 3rd Scott 7 , 3rd Mic 7                                                        |
+| 86       | 2020-11-02 | 4           | 1st Jess 10 , 2nd Scott 6 , 3rd Mic 4 , 3rd Rachel 4                                                        |
+| 85       | 2020-10-30 | 4           | 1st Jess 10 , 2nd Rachel 8 , 2nd Mic 8 , 3rd Scott 7                                                        |
+| 84       | 2020-10-30 | 4           | 1st Rachel 10 , 2nd Jess 6 , 3rd Mic 4 , 4th Scott 3                                                        |
+| 83       | 2020-10-30 | 3           | 1st Scott 10 , 2nd Mic 6 , 2nd Jess 6                                                                       |
+| 82       | 2020-10-28 | 5           | 1st Phil 11 , 2nd Jess 9 , 3rd Scott 7 , 3rd Rachel 7 , 3rd Mic 7                                           |
+| 81       | 2020-10-28 | 4           | 1st Jess 11 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Mic 7                                                         |
 | 80       | 2020-10-27 | 4           | 1st Scott 10 , 2nd Rachel 5 , 2nd Jess 5 , 2nd Mic 5                                                        |
 | 79       | 2020-10-27 | 4           | 1st Scott 10 , 2nd Rachel 8 , 3rd Jess 7 , 4th Mic 5                                                        |
 | 78       | 2020-10-24 | 5           | 1st Rachel 11 , 2nd Jess 9 , 2nd Stuart 9 , 3rd Scott 8 , 4th Mic 7                                         |
@@ -120,6 +127,12 @@ Last updated 2020-12-03 03:51 UTC.
 ### Game History: 3-4 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                              |
 | :---:    | :---:      | :---:       | :---                                                     |
+| 27       | 2020-11-02 | 4           | 1st Jess 10 , 2nd Rachel 9 , 3rd Scott 7 , 3rd Mic 7     |
+| 26       | 2020-11-02 | 4           | 1st Jess 10 , 2nd Scott 6 , 3rd Mic 4 , 3rd Rachel 4     |
+| 25       | 2020-10-30 | 4           | 1st Jess 10 , 2nd Rachel 8 , 2nd Mic 8 , 3rd Scott 7     |
+| 24       | 2020-10-30 | 4           | 1st Rachel 10 , 2nd Jess 6 , 3rd Mic 4 , 4th Scott 3     |
+| 23       | 2020-10-30 | 3           | 1st Scott 10 , 2nd Mic 6 , 2nd Jess 6                    |
+| 22       | 2020-10-28 | 4           | 1st Jess 11 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Mic 7      |
 | 21       | 2020-10-27 | 4           | 1st Scott 10 , 2nd Rachel 5 , 2nd Jess 5 , 2nd Mic 5     |
 | 20       | 2020-10-27 | 4           | 1st Scott 10 , 2nd Rachel 8 , 3rd Jess 7 , 4th Mic 5     |
 | 19       | 2020-09-28 | 4           | 1st Jess 10 , 2nd Scott 8 , 3rd Mic 7 , 4th Sean 6       |
@@ -145,6 +158,7 @@ Last updated 2020-12-03 03:51 UTC.
 ### Game History: 5-6 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                                                          |
 | :---:    | :---:      | :---:       | :---                                                                                 |
+| 56       | 2020-10-28 | 5           | 1st Phil 11 , 2nd Jess 9 , 3rd Scott 7 , 3rd Rachel 7 , 3rd Mic 7                    |
 | 55       | 2020-10-24 | 5           | 1st Rachel 11 , 2nd Jess 9 , 2nd Stuart 9 , 3rd Scott 8 , 4th Mic 7                  |
 | 54       | 2020-10-16 | 5           | 1st Alex 10 , 2nd Mic 10 , 3rd Jess 9 , 4th Scott 8 , 5th Laura 6                    |
 | 53       | 2020-10-16 | 5           | 1st Mic 10 , 2nd Alex 7 , 2nd Jess 7 , 2nd Scott 7 , 3rd Laura 4                     |
