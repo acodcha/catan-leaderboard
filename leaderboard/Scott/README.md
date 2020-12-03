@@ -1,5 +1,5 @@
 # Scott
-Last updated 2020-11-28 00:30 UTC.
+Last updated 2020-12-03 03:34 UTC.
 
 [Go back to all players.](../README.md)
 
@@ -75,8 +75,8 @@ Last updated 2020-11-28 00:30 UTC.
 | 52       | 2020-09-10 | 3           | 1st Mic 10 , 2nd Scott 7 , 3rd Rachel 6                                                                     |
 | 51       | 2020-09-07 | 6           | 1st Alex 10 , 2nd Scott 8 , 2nd Rachel 8 , 2nd Mic 8 , 3rd Jess 7 , 3rd Sean 7                              |
 | 50       | 2020-09-07 | 5           | 1st Alex 10 , 2nd Scott 9 , 3rd Rachel 7 , 4th Sean 6 , 5th Mic 5                                           |
-| 49       | 2020-09-04 | 4           | 1st Rachel 10 , 2nd Scott 9 , 3rd Alex 8 , 4th Jess 6                                                       |
-| 48       | 2020-09-04 | 7           | 1st Rachel 10 , 2nd Scott 9 , 3rd Alex 8 , 3rd Sean 8 , 4th Jess 7 , 5th Wendy 6 , 6th Mic 5                |
+| 49       | 2020-09-04 | 7           | 1st Rachel 10 , 2nd Scott 9 , 3rd Alex 8 , 3rd Sean 8 , 4th Jess 7 , 5th Wendy 6 , 6th Mic 5                |
+| 48       | 2020-09-04 | 4           | 1st Rachel 10 , 2nd Scott 9 , 3rd Alex 8 , 4th Jess 6                                                       |
 | 47       | 2020-09-02 | 5           | 1st Phil 10 , 2nd Jess 6 , 3rd Scott 5 , 3rd Rachel 5 , 4th Mic 3                                           |
 | 46       | 2020-09-02 | 4           | 1st Jess 10 , 2nd Scott 5 , 2nd Mic 5 , 3rd Phil 3                                                          |
 | 45       | 2020-09-02 | 5           | 1st Jess 10 , 2nd Scott 8 , 2nd Rachel 8 , 2nd Mic 8 , 3rd Phil 6                                           |
@@ -84,16 +84,16 @@ Last updated 2020-11-28 00:30 UTC.
 | 43       | 2020-08-31 | 5           | 1st Jess 10 , 2nd Rachel 7 , 2nd Scott 7 , 2nd Phil 7 , 3rd Mic 5                                           |
 | 42       | 2020-08-28 | 5           | 1st Rachel 10 , 2nd Jess 8 , 3rd Scott 7 , 4th Mic 6 , 5th Phil 5                                           |
 | 41       | 2020-08-28 | 4           | 1st Rachel 11 , 2nd Jess 7 , 2nd Scott 7 , 3rd Mic 6                                                        |
-| 40       | 2020-08-22 | 5           | 1st Rachel 10 , 2nd Sean 8 , 3rd Jess 7 , 3rd Mic 7 , 4th Scott 6                                           |
-| 39       | 2020-08-22 | 5           | 1st Jess 10 , 2nd Scott 9 , 2nd Sean 9 , 2nd Mic 9 , 3rd Rachel 5                                           |
+| 40       | 2020-08-22 | 5           | 1st Jess 10 , 2nd Scott 9 , 2nd Sean 9 , 2nd Mic 9 , 3rd Rachel 5                                           |
+| 39       | 2020-08-22 | 5           | 1st Rachel 10 , 2nd Sean 8 , 3rd Jess 7 , 3rd Mic 7 , 4th Scott 6                                           |
 | 38       | 2020-08-22 | 5           | 1st Jess 10 , 2nd Scott 9 , 2nd Rachel 9 , 3rd Laura 7 , 3rd Mic 7                                          |
-| 37       | 2020-08-19 | 4           | 1st Jess 10 , 2nd Scott 8 , 2nd Mic 8 , 3rd Rachel 6                                                        |
-| 36       | 2020-08-19 | 4           | 1st Jess 10 , 2nd Scott 5 , 2nd Mic 5 , 2nd Rachel 5                                                        |
+| 37       | 2020-08-19 | 4           | 1st Jess 10 , 2nd Scott 5 , 2nd Mic 5 , 2nd Rachel 5                                                        |
+| 36       | 2020-08-19 | 4           | 1st Jess 10 , 2nd Scott 8 , 2nd Mic 8 , 3rd Rachel 6                                                        |
 | 35       | 2020-08-11 | 5           | 1st Rachel 10 , 2nd Jess 9 , 2nd Scott 9 , 3rd Phil 6 , 4th Mic 4                                           |
 | 34       | 2020-08-11 | 4           | 1st Scott 10 , 2nd Jess 8 , 3rd Rachel 7 , 3rd Mic 7                                                        |
-| 33       | 2020-08-07 | 7           | 1st Rachel 10 , 2nd Jess 8 , 2nd Scott 8 , 3rd Alex 7 , 3rd Mic 7 , 4th Sean 6 , 4th Wendy 6                |
+| 33       | 2020-08-07 | 5           | 1st Rachel 10 , 2nd Jess 9 , 3rd Scott 8 , 4th Alex 6 , 5th Mic 5                                           |
 | 32       | 2020-08-07 | 6           | 1st Jess 10 , 2nd Sean 8 , 3rd Wendy 7 , 3rd Rachel 7 , 4th Scott 5 , 4th Mic 5                             |
-| 31       | 2020-08-07 | 5           | 1st Rachel 10 , 2nd Jess 9 , 3rd Scott 8 , 4th Alex 6 , 5th Mic 5                                           |
+| 31       | 2020-08-07 | 7           | 1st Rachel 10 , 2nd Jess 8 , 2nd Scott 8 , 3rd Alex 7 , 3rd Mic 7 , 4th Sean 6 , 4th Wendy 6                |
 | 30       | 2020-08-05 | 6           | 1st Scott 10 , 2nd Jess 8 , 2nd Mic 8 , 3rd Sean 7 , 3rd Phil 7 , 4th Alex 6                                |
 | 29       | 2020-08-05 | 6           | 1st Scott 10 , 2nd Rachel 8 , 3rd Sean 6 , 3rd Jess 6 , 3rd Mic 6 , 4th Phil 5                              |
 | 28       | 2020-07-29 | 4           | 1st Scott 10 , 2nd Phil 8 , 3rd Mic 7 , 4th Rachel 6                                                        |
@@ -147,8 +147,8 @@ Last updated 2020-11-28 00:30 UTC.
 | 12       | 2020-09-04 | 4           | 1st Rachel 10 , 2nd Scott 9 , 3rd Alex 8 , 4th Jess 6    |
 | 11       | 2020-09-02 | 4           | 1st Jess 10 , 2nd Scott 5 , 2nd Mic 5 , 3rd Phil 3       |
 | 10       | 2020-08-28 | 4           | 1st Rachel 11 , 2nd Jess 7 , 2nd Scott 7 , 3rd Mic 6     |
-| 9        | 2020-08-19 | 4           | 1st Jess 10 , 2nd Scott 8 , 2nd Mic 8 , 3rd Rachel 6     |
-| 8        | 2020-08-19 | 4           | 1st Jess 10 , 2nd Scott 5 , 2nd Mic 5 , 2nd Rachel 5     |
+| 9        | 2020-08-19 | 4           | 1st Jess 10 , 2nd Scott 5 , 2nd Mic 5 , 2nd Rachel 5     |
+| 8        | 2020-08-19 | 4           | 1st Jess 10 , 2nd Scott 8 , 2nd Mic 8 , 3rd Rachel 6     |
 | 7        | 2020-08-11 | 4           | 1st Scott 10 , 2nd Jess 8 , 3rd Rachel 7 , 3rd Mic 7     |
 | 6        | 2020-07-29 | 4           | 1st Scott 10 , 2nd Phil 8 , 3rd Mic 7 , 4th Rachel 6     |
 | 5        | 2020-07-26 | 4           | 1st Sean 10 , 2nd Alex 8 , 2nd Scott 8 , 3rd Mic 7       |
@@ -188,12 +188,12 @@ Last updated 2020-11-28 00:30 UTC.
 | 31       | 2020-08-31 | 5           | 1st Jess 10 , 2nd Scott 6 , 2nd Phil 6 , 3rd Mic 5 , 3rd Rachel 5                    |
 | 30       | 2020-08-31 | 5           | 1st Jess 10 , 2nd Rachel 7 , 2nd Scott 7 , 2nd Phil 7 , 3rd Mic 5                    |
 | 29       | 2020-08-28 | 5           | 1st Rachel 10 , 2nd Jess 8 , 3rd Scott 7 , 4th Mic 6 , 5th Phil 5                    |
-| 28       | 2020-08-22 | 5           | 1st Rachel 10 , 2nd Sean 8 , 3rd Jess 7 , 3rd Mic 7 , 4th Scott 6                    |
-| 27       | 2020-08-22 | 5           | 1st Jess 10 , 2nd Scott 9 , 2nd Sean 9 , 2nd Mic 9 , 3rd Rachel 5                    |
+| 28       | 2020-08-22 | 5           | 1st Jess 10 , 2nd Scott 9 , 2nd Sean 9 , 2nd Mic 9 , 3rd Rachel 5                    |
+| 27       | 2020-08-22 | 5           | 1st Rachel 10 , 2nd Sean 8 , 3rd Jess 7 , 3rd Mic 7 , 4th Scott 6                    |
 | 26       | 2020-08-22 | 5           | 1st Jess 10 , 2nd Scott 9 , 2nd Rachel 9 , 3rd Laura 7 , 3rd Mic 7                   |
 | 25       | 2020-08-11 | 5           | 1st Rachel 10 , 2nd Jess 9 , 2nd Scott 9 , 3rd Phil 6 , 4th Mic 4                    |
-| 24       | 2020-08-07 | 6           | 1st Jess 10 , 2nd Sean 8 , 3rd Wendy 7 , 3rd Rachel 7 , 4th Scott 5 , 4th Mic 5      |
-| 23       | 2020-08-07 | 5           | 1st Rachel 10 , 2nd Jess 9 , 3rd Scott 8 , 4th Alex 6 , 5th Mic 5                    |
+| 24       | 2020-08-07 | 5           | 1st Rachel 10 , 2nd Jess 9 , 3rd Scott 8 , 4th Alex 6 , 5th Mic 5                    |
+| 23       | 2020-08-07 | 6           | 1st Jess 10 , 2nd Sean 8 , 3rd Wendy 7 , 3rd Rachel 7 , 4th Scott 5 , 4th Mic 5      |
 | 22       | 2020-08-05 | 6           | 1st Scott 10 , 2nd Jess 8 , 2nd Mic 8 , 3rd Sean 7 , 3rd Phil 7 , 4th Alex 6         |
 | 21       | 2020-08-05 | 6           | 1st Scott 10 , 2nd Rachel 8 , 3rd Sean 6 , 3rd Jess 6 , 3rd Mic 6 , 4th Phil 5       |
 | 20       | 2020-07-18 | 5           | 1st Alex 10 , 2nd Rachel 8 , 3rd Scott 6 , 4th Mic 5 , 5th Eftychi 4                 |
