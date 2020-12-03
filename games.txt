@@ -2,15 +2,15 @@
 2020-12-02 : Sean 10, Phil 7, Mic 5
 2020-11-27 : Scott 10, Sean 9, Mic 8, Rachel 6
 2020-11-22 : Scott 10, Rachel 8, Sean 5
-2020-11-02 : Jessica 10 , Rachel 9 , Scott 7 , Mic 7
-2020-11-02 : Jessica 10 , Scott 6 , Mic 4 , Rachel 4
+2020-11-02 : Jess 10 , Rachel 9 , Scott 7 , Mic 7
+2020-11-02 : Jess 10 , Scott 6 , Mic 4 , Rachel 4
 2020-10-31 : Rachel 10, Laura 7, Mic 6
 2020-10-31 : Laura 10, Mic 9, Rachel 6
-2020-10-30 : Jessica 10 , Rachel 8 , Mic 8 , Scott 7 
-2020-10-30 : Rachel 10 , Jessica 6 , Mic 4 , Scott 3
-2020-10-30 : Scott 10 , Mic 6 , Jessica 6
-2020-10-28 : Phil 11 , Jessica 9, Scott 7, Rachel 7, Mic 7
-2020-10-28 : Jessica 11, Rachel 8, Phil 8, Mic 7
+2020-10-30 : Jess 10 , Rachel 8 , Mic 8 , Scott 7 
+2020-10-30 : Rachel 10 , Jess 6 , Mic 4 , Scott 3
+2020-10-30 : Scott 10 , Mic 6 , Jess 6
+2020-10-28 : Phil 11 , Jess 9, Scott 7, Rachel 7, Mic 7
+2020-10-28 : Jess 11, Rachel 8, Phil 8, Mic 7
 2020-10-27 : Scott 10, Rachel 5, Jess 5, Mic 5
 2020-10-27 : Scott 10, Rachel 8, Jess 7, Mic 5
 2020-10-25 : Rachel 10, Phil 7, Mic 5, Laura 4
