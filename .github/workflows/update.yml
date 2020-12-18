@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: install packages
-      run: sudo apt install -y cmake g++ git gnuplot
+      run: sudo apt update && sudo apt install -y cmake g++ git gnuplot
     - name: download generator
       run: gh repo clone acodcha/CatanLeaderboardGenerator generator
       env:
