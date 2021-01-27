@@ -1,5 +1,5 @@
 # Stuart
-Last updated 2021-01-19 01:15 UTC.
+Last updated 2021-01-27 03:45 UTC.
 
 [Go back to all players.](../README.md)
 
