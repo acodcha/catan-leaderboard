@@ -1,13 +1,13 @@
 # Scott
-Last updated 2021-02-09 03:24 UTC.
+Last updated 2021-02-13 04:40 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 95        | 1054           | 7.69           | 27% (26)      | 35% (33)      | 22% (21)      | 62% (59)             | 84% (80)                   |
-| 3-4 Player Games | 32        | 1073           | 8.16           | 41% (13)      | 47% (15)      | 9% (3)        | 88% (28)             | 97% (31)                   |
+| All Games        | 96        | 1054           | 7.71           | 27% (26)      | 35% (34)      | 22% (21)      | 62% (60)             | 84% (81)                   |
+| 3-4 Player Games | 33        | 1074           | 8.18           | 39% (13)      | 48% (16)      | 9% (3)        | 88% (29)             | 97% (32)                   |
 | 5-6 Player Games | 57        | 1019           | 7.51           | 23% (13)      | 28% (16)      | 26% (15)      | 51% (29)             | 77% (44)                   |
 | 7-8 Player Games | 6         | 1016           | 7.00           | 0% (0)        | 33% (2)       | 50% (3)       | 33% (2)              | 83% (5)                    |
 
@@ -36,6 +36,7 @@ Last updated 2021-02-09 03:24 UTC.
 ### Game History: All Games
 | **Game** | **Date**   | **Players** | **Results**                                                                                                  |
 | :---:    | :---:      | :---:       | :---                                                                                                         |
+| 96       | 2021-02-12 | 3           | 1st Rachel 11 , 2nd Scott 9 , 3rd Mic 6                                                                      |
 | 95       | 2021-01-26 | 5           | 1st Rachel 10 , 2nd Scott 9 , 3rd Mic 7 , 3rd Phil 7 , 4th Laura 4                                           |
 | 94       | 2021-01-26 | 4           | 1st Rachel 10 , 2nd Laura 7 , 2nd Scott 7 , 3rd Mic 5                                                        |
 | 93       | 2021-01-18 | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
@@ -135,6 +136,7 @@ Last updated 2021-02-09 03:24 UTC.
 ### Game History: 3-4 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                              |
 | :---:    | :---:      | :---:       | :---                                                     |
+| 33       | 2021-02-12 | 3           | 1st Rachel 11 , 2nd Scott 9 , 3rd Mic 6                  |
 | 32       | 2021-01-26 | 4           | 1st Rachel 10 , 2nd Laura 7 , 2nd Scott 7 , 3rd Mic 5    |
 | 31       | 2020-12-31 | 3           | 1st Rachel 11 , 2nd Scott 6 , 3rd Laura 5                |
 | 30       | 2020-12-25 | 4           | 1st Scott 10 , 2nd Jess 8 , 2nd Mic 8 , 3rd Rachel 5     |
