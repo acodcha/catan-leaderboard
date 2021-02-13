@@ -1,12 +1,12 @@
 # Phil
-Last updated 2021-02-13 04:40 UTC.
+Last updated 2021-02-13 05:21 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 53        | 944            | 7.09           | 13% (7)       | 43% (23)      | 34% (18)      | 57% (30)             | 91% (48)                   |
+| All Games        | 53        | 943            | 7.09           | 13% (7)       | 43% (23)      | 34% (18)      | 57% (30)             | 91% (48)                   |
 | 3-4 Player Games | 31        | 907            | 7.06           | 13% (4)       | 55% (17)      | 26% (8)       | 68% (21)             | 94% (29)                   |
 | 5-6 Player Games | 22        | 969            | 7.14           | 14% (3)       | 27% (6)       | 45% (10)      | 41% (9)              | 86% (19)                   |
 
@@ -41,8 +41,8 @@ Last updated 2021-02-13 04:40 UTC.
 | 47       | 2020-12-17 | 3           | 1st Scott 10 , 2nd Rachel 9 , 2nd Phil 9                                        |
 | 46       | 2020-12-02 | 3           | 1st Rachel 10 , 2nd Mic 6 , 3rd Phil 4                                          |
 | 45       | 2020-12-02 | 3           | 1st Sean 10 , 2nd Phil 7 , 3rd Mic 5                                            |
-| 44       | 2020-10-28 | 4           | 1st Jess 11 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Mic 7                             |
-| 43       | 2020-10-28 | 5           | 1st Phil 11 , 2nd Jess 9 , 3rd Scott 7 , 3rd Rachel 7 , 3rd Mic 7               |
+| 44       | 2020-10-28 | 5           | 1st Phil 11 , 2nd Jess 9 , 3rd Scott 7 , 3rd Rachel 7 , 3rd Mic 7               |
+| 43       | 2020-10-28 | 4           | 1st Jess 11 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Mic 7                             |
 | 42       | 2020-10-25 | 4           | 1st Rachel 10 , 2nd Phil 7 , 3rd Mic 5 , 4th Laura 4                            |
 | 41       | 2020-10-25 | 4           | 1st Mic 10 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Laura 6                            |
 | 40       | 2020-10-22 | 3           | 1st Mic 10 , 2nd Phil 9 , 3rd Rachel 7                                          |

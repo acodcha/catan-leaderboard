@@ -1,12 +1,12 @@
 # Wendy
-Last updated 2021-02-13 04:40 UTC.
+Last updated 2021-02-13 05:21 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 20        | 943            | 5.75           | 0% (0)        | 15% (3)       | 35% (7)       | 15% (3)              | 50% (10)                   |
+| All Games        | 20        | 942            | 5.75           | 0% (0)        | 15% (3)       | 35% (7)       | 15% (3)              | 50% (10)                   |
 | 3-4 Player Games | 1         | 968            | 4.00           | 0% (0)        | 0% (0)        | 100% (1)      | 0% (0)               | 100% (1)                   |
 | 5-6 Player Games | 13        | 954            | 5.77           | 0% (0)        | 23% (3)       | 38% (5)       | 23% (3)              | 62% (8)                    |
 | 7-8 Player Games | 6         | 969            | 6.00           | 0% (0)        | 0% (0)        | 17% (1)       | 0% (0)               | 17% (1)                    |
