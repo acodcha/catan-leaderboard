@@ -1,13 +1,13 @@
 # Jess
-Last updated 2021-02-20 05:54 UTC.
+Last updated 2021-02-20 07:04 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 97        | 1097           | 7.96           | 34% (33)      | 34% (33)      | 21% (20)      | 68% (66)             | 89% (86)                   |
-| 3-4 Player Games | 33        | 1092           | 8.12           | 45% (15)      | 36% (12)      | 15% (5)       | 82% (27)             | 97% (32)                   |
+| All Games        | 98        | 1098           | 7.98           | 35% (34)      | 34% (33)      | 20% (20)      | 68% (67)             | 89% (87)                   |
+| 3-4 Player Games | 34        | 1095           | 8.18           | 47% (16)      | 35% (12)      | 15% (5)       | 82% (28)             | 97% (33)                   |
 | 5-6 Player Games | 58        | 1086           | 7.95           | 31% (18)      | 33% (19)      | 24% (14)      | 64% (37)             | 88% (51)                   |
 | 7-8 Player Games | 6         | 992            | 7.17           | 0% (0)        | 33% (2)       | 17% (1)       | 33% (2)              | 50% (3)                    |
 
@@ -36,11 +36,12 @@ Last updated 2021-02-20 05:54 UTC.
 ### Game History: All Games
 | **Game** | **Date**   | **Players** | **Results**                                                                                                  |
 | :---:    | :---:      | :---:       | :---                                                                                                         |
-| 97       | 2021-02-19 | 5           | 1st Jess 11 , 2nd Rachel 7 , 3rd Scott 6 , 3rd Mic 6 , 4th Laura 4                                           |
-| 96       | 2021-02-15 | 5           | 1st Scott 11 , 2nd PA 9 , 3rd Mic 8 , 4th Jess 6 , 5th Rachel 5                                              |
-| 95       | 2021-02-12 | 3           | 1st Mic 10 , 2nd Jess 8 , 3rd Rachel 6                                                                       |
-| 94       | 2021-02-05 | 3           | 1st Rachel 10 , 2nd Mic 6 , 3rd Jess 5                                                                       |
-| 93       | 2021-02-05 | 3           | 1st Rachel 10 , 2nd Jess 7 , 3rd Mic 6                                                                       |
+| 98       | 2021-02-19 | 5           | 1st Jess 11 , 2nd Rachel 7 , 3rd Scott 6 , 3rd Mic 6 , 4th Laura 4                                           |
+| 97       | 2021-02-15 | 5           | 1st Scott 11 , 2nd PA 9 , 3rd Mic 8 , 4th Jess 6 , 5th Rachel 5                                              |
+| 96       | 2021-02-12 | 3           | 1st Mic 10 , 2nd Jess 8 , 3rd Rachel 6                                                                       |
+| 95       | 2021-02-05 | 3           | 1st Rachel 10 , 2nd Mic 6 , 3rd Jess 5                                                                       |
+| 94       | 2021-02-05 | 3           | 1st Rachel 10 , 2nd Jess 7 , 3rd Mic 6                                                                       |
+| 93       | 2021-02-02 | 4           | 1st Jess 10 , 2nd Mic 9 , 2nd Scott 9 , 3rd Rachel 5                                                         |
 | 92       | 2021-01-18 | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
 | 91       | 2021-01-18 | 8           | 1st Rachel 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Mic 6 , 4th Wendy 6 , 5th Sean 5 , 6th Eftychi 4 , 7th Scott 3 |
 | 90       | 2021-01-14 | 3           | 1st Rachel 10 , 2nd Jess 7 , 3rd Eftychi 6                                                                   |
@@ -137,9 +138,10 @@ Last updated 2021-02-20 05:54 UTC.
 ### Game History: 3-4 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                              |
 | :---:    | :---:      | :---:       | :---                                                     |
-| 33       | 2021-02-12 | 3           | 1st Mic 10 , 2nd Jess 8 , 3rd Rachel 6                   |
-| 32       | 2021-02-05 | 3           | 1st Rachel 10 , 2nd Mic 6 , 3rd Jess 5                   |
-| 31       | 2021-02-05 | 3           | 1st Rachel 10 , 2nd Jess 7 , 3rd Mic 6                   |
+| 34       | 2021-02-12 | 3           | 1st Mic 10 , 2nd Jess 8 , 3rd Rachel 6                   |
+| 33       | 2021-02-05 | 3           | 1st Rachel 10 , 2nd Mic 6 , 3rd Jess 5                   |
+| 32       | 2021-02-05 | 3           | 1st Rachel 10 , 2nd Jess 7 , 3rd Mic 6                   |
+| 31       | 2021-02-02 | 4           | 1st Jess 10 , 2nd Mic 9 , 2nd Scott 9 , 3rd Rachel 5     |
 | 30       | 2021-01-14 | 3           | 1st Rachel 10 , 2nd Jess 7 , 3rd Eftychi 6               |
 | 29       | 2020-12-25 | 4           | 1st Scott 10 , 2nd Jess 8 , 2nd Mic 8 , 3rd Rachel 5     |
 | 28       | 2020-12-23 | 4           | 1st Phil 10 , 2nd Rachel 8 , 3rd Jess 6 , 4th Valerie 5  |
