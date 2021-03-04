@@ -1,5 +1,5 @@
 # Sean
-Last updated 2021-02-26 05:08 UTC.
+Last updated 2021-03-04 04:02 UTC.
 
 [Go back to all players.](../README.md)
 
@@ -8,7 +8,7 @@ Last updated 2021-02-26 05:08 UTC.
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
 | All Games        | 47        | 989            | 7.32           | 15% (7)       | 34% (16)      | 26% (12)      | 49% (23)             | 74% (35)                   |
 | 3-4 Player Games | 16        | 971            | 7.19           | 25% (4)       | 38% (6)       | 19% (3)       | 62% (10)             | 81% (13)                   |
-| 5-6 Player Games | 26        | 999            | 7.42           | 12% (3)       | 35% (9)       | 27% (7)       | 46% (12)             | 73% (19)                   |
+| 5-6 Player Games | 26        | 998            | 7.42           | 12% (3)       | 35% (9)       | 27% (7)       | 46% (12)             | 73% (19)                   |
 | 7-8 Player Games | 5         | 997            | 7.20           | 0% (0)        | 20% (1)       | 40% (2)       | 20% (1)              | 60% (3)                    |
 
 ## Ratings
@@ -41,8 +41,8 @@ Last updated 2021-02-26 05:08 UTC.
 | 45       | 2020-12-02 | 3           | 1st Sean 10 , 2nd Phil 7 , 3rd Mic 5                                                                         |
 | 44       | 2020-11-27 | 4           | 1st Scott 10 , 2nd Sean 9 , 3rd Mic 8 , 4th Rachel 6                                                         |
 | 43       | 2020-11-22 | 3           | 1st Scott 10 , 2nd Rachel 8 , 3rd Sean 5                                                                     |
-| 42       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Sean 7 , 4th Jess 7                                            |
-| 41       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Sean 9 , 3rd Jess 8 , 4th Rachel 7 , 5th Mic 6                                            |
+| 42       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Sean 9 , 3rd Jess 8 , 4th Rachel 7 , 5th Mic 6                                            |
+| 41       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Sean 7 , 4th Jess 7                                            |
 | 40       | 2020-10-02 | 3           | 1st Rachel 11 , 2nd Sean 8 , 3rd Mic 7                                                                       |
 | 39       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Phil 9 , 2nd Mic 9 , 3rd Rachel 8 , 4th Sean 7                                            |
 | 38       | 2020-09-28 | 4           | 1st Jess 10 , 2nd Scott 8 , 3rd Mic 7 , 4th Sean 6                                                           |
@@ -107,8 +107,8 @@ Last updated 2021-02-26 05:08 UTC.
 ### Game History: 5-6 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                                                      |
 | :---:    | :---:      | :---:       | :---                                                                             |
-| 26       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Sean 7 , 4th Jess 7                |
-| 25       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Sean 9 , 3rd Jess 8 , 4th Rachel 7 , 5th Mic 6                |
+| 26       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Sean 9 , 3rd Jess 8 , 4th Rachel 7 , 5th Mic 6                |
+| 25       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Sean 7 , 4th Jess 7                |
 | 24       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Phil 9 , 2nd Mic 9 , 3rd Rachel 8 , 4th Sean 7                |
 | 23       | 2020-09-23 | 6           | 1st Scott 10 , 2nd Jess 8 , 2nd Phil 8 , 3rd Sean 7 , 4th Mic 6 , 4th Rachel 6   |
 | 22       | 2020-09-17 | 6           | 1st Sean 10 , 2nd Jess 10 , 3rd Rachel 9 , 4th Scott 8 , 5th Laura 7 , 6th Mic 6 |
