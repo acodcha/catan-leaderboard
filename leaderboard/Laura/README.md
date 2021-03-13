@@ -1,13 +1,13 @@
 # Laura
-Last updated 2021-03-04 04:02 UTC.
+Last updated 2021-03-13 04:55 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 20        | 885            | 6.10           | 15% (3)       | 10% (2)       | 25% (5)       | 25% (5)              | 50% (10)                   |
-| 3-4 Player Games | 10        | 952            | 7.20           | 30% (3)       | 20% (2)       | 30% (3)       | 50% (5)              | 80% (8)                    |
+| All Games        | 23        | 887            | 6.39           | 22% (5)       | 13% (3)       | 22% (5)       | 35% (8)              | 57% (13)                   |
+| 3-4 Player Games | 13        | 955            | 7.46           | 38% (5)       | 23% (3)       | 23% (3)       | 62% (8)              | 85% (11)                   |
 | 5-6 Player Games | 10        | 890            | 5.00           | 0% (0)        | 0% (0)        | 20% (2)       | 0% (0)               | 20% (2)                    |
 
 ## Ratings
@@ -32,6 +32,9 @@ Last updated 2021-03-04 04:02 UTC.
 ### Game History: All Games
 | **Game** | **Date**   | **Players** | **Results**                                                                      |
 | :---:    | :---:      | :---:       | :---                                                                             |
+| 23       | 2021-03-05 | 4           | 1st Laura 10 , 2nd Scott 9 , 3rd Mic 8 , 4th Rachel 6                            |
+| 22       | 2021-03-05 | 3           | 1st Laura 10 , 2nd Rachel 6 , 2nd Mic 6                                          |
+| 21       | 2021-03-05 | 3           | 1st Rachel 10 , 2nd Laura 5 , 3rd Mic 4                                          |
 | 20       | 2021-02-19 | 5           | 1st Jess 11 , 2nd Rachel 7 , 3rd Scott 6 , 3rd Mic 6 , 4th Laura 4               |
 | 19       | 2021-01-26 | 5           | 1st Rachel 10 , 2nd Scott 9 , 3rd Mic 7 , 3rd Phil 7 , 4th Laura 4               |
 | 18       | 2021-01-26 | 4           | 1st Rachel 10 , 2nd Laura 7 , 2nd Scott 7 , 3rd Mic 5                            |
@@ -56,6 +59,9 @@ Last updated 2021-03-04 04:02 UTC.
 ### Game History: 3-4 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                           |
 | :---:    | :---:      | :---:       | :---                                                  |
+| 13       | 2021-03-05 | 4           | 1st Laura 10 , 2nd Scott 9 , 3rd Mic 8 , 4th Rachel 6 |
+| 12       | 2021-03-05 | 3           | 1st Laura 10 , 2nd Rachel 6 , 2nd Mic 6               |
+| 11       | 2021-03-05 | 3           | 1st Rachel 10 , 2nd Laura 5 , 3rd Mic 4               |
 | 10       | 2021-01-26 | 4           | 1st Rachel 10 , 2nd Laura 7 , 2nd Scott 7 , 3rd Mic 5 |
 | 9        | 2020-12-31 | 3           | 1st Rachel 11 , 2nd Scott 6 , 3rd Laura 5             |
 | 8        | 2020-10-31 | 3           | 1st Rachel 10 , 2nd Laura 7 , 3rd Mic 6               |
