@@ -1,5 +1,5 @@
 # Eftychi
-Last updated 2021-03-20 04:24 UTC.
+Last updated 2021-07-23 01:56 UTC.
 
 [Go back to all players.](../README.md)
 
