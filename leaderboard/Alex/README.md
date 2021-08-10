@@ -1,5 +1,5 @@
 # Alex
-Last updated 2021-08-07 03:58 UTC.
+Last updated 2021-08-10 03:47 UTC.
 
 [Go back to all players.](../README.md)
 
@@ -47,13 +47,13 @@ Last updated 2021-08-07 03:58 UTC.
 | 45       | 2020-10-10 | 5           | 1st Jess 10 , 2nd Alex 8 , 3rd Mic 7 , 4th Scott 4 , 4th Rachel 4                                            |
 | 44       | 2020-10-10 | 5           | 1st Scott 10 , 2nd Mic 8 , 3rd Rachel 6 , 3rd Jess 6 , 4th Alex 5                                            |
 | 43       | 2020-09-21 | 5           | 1st Jess 10 , 2nd Scott 9 , 3rd Mic 8 , 4th Alex 6 , 5th Rachel 5                                            |
-| 42       | 2020-09-14 | 5           | 1st Scott 10 , 2nd Jess 8 , 3rd Alex 7 , 3rd Phil 7 , 4th Mic 6                                              |
-| 41       | 2020-09-14 | 5           | 1st Jess 10 , 2nd Mic 6 , 3rd Alex 4 , 3rd Phil 4 , 3rd Scott 4                                              |
+| 42       | 2020-09-14 | 5           | 1st Jess 10 , 2nd Mic 6 , 3rd Alex 4 , 3rd Phil 4 , 3rd Scott 4                                              |
+| 41       | 2020-09-14 | 5           | 1st Scott 10 , 2nd Jess 8 , 3rd Alex 7 , 3rd Phil 7 , 4th Mic 6                                              |
 | 40       | 2020-09-07 | 6           | 1st Alex 10 , 2nd Scott 8 , 2nd Rachel 8 , 2nd Mic 8 , 3rd Jess 7 , 3rd Sean 7                               |
 | 39       | 2020-09-07 | 5           | 1st Alex 10 , 2nd Scott 9 , 3rd Rachel 7 , 4th Sean 6 , 5th Mic 5                                            |
-| 38       | 2020-09-04 | 7           | 1st Rachel 10 , 2nd Scott 9 , 3rd Alex 8 , 3rd Sean 8 , 4th Jess 7 , 5th Wendy 6 , 6th Mic 5                 |
+| 38       | 2020-09-04 | 4           | 1st Rachel 10 , 2nd Scott 9 , 3rd Alex 8 , 4th Jess 6                                                        |
 | 37       | 2020-09-04 | 5           | 1st Sean 10 , 2nd Wendy 6 , 3rd Alex 4 , 3rd Mic 4 , 4th Jess 3                                              |
-| 36       | 2020-09-04 | 4           | 1st Rachel 10 , 2nd Scott 9 , 3rd Alex 8 , 4th Jess 6                                                        |
+| 36       | 2020-09-04 | 7           | 1st Rachel 10 , 2nd Scott 9 , 3rd Alex 8 , 3rd Sean 8 , 4th Jess 7 , 5th Wendy 6 , 6th Mic 5                 |
 | 35       | 2020-08-07 | 7           | 1st Rachel 10 , 2nd Jess 8 , 2nd Scott 8 , 3rd Alex 7 , 3rd Mic 7 , 4th Sean 6 , 4th Wendy 6                 |
 | 34       | 2020-08-07 | 5           | 1st Rachel 10 , 2nd Jess 9 , 3rd Scott 8 , 4th Alex 6 , 5th Mic 5                                            |
 | 33       | 2020-08-05 | 6           | 1st Scott 10 , 2nd Jess 8 , 2nd Mic 8 , 3rd Sean 7 , 3rd Phil 7 , 4th Alex 6                                 |
@@ -116,8 +116,8 @@ Last updated 2021-08-07 03:58 UTC.
 | 31       | 2020-10-10 | 5           | 1st Jess 10 , 2nd Alex 8 , 3rd Mic 7 , 4th Scott 4 , 4th Rachel 4                    |
 | 30       | 2020-10-10 | 5           | 1st Scott 10 , 2nd Mic 8 , 3rd Rachel 6 , 3rd Jess 6 , 4th Alex 5                    |
 | 29       | 2020-09-21 | 5           | 1st Jess 10 , 2nd Scott 9 , 3rd Mic 8 , 4th Alex 6 , 5th Rachel 5                    |
-| 28       | 2020-09-14 | 5           | 1st Scott 10 , 2nd Jess 8 , 3rd Alex 7 , 3rd Phil 7 , 4th Mic 6                      |
-| 27       | 2020-09-14 | 5           | 1st Jess 10 , 2nd Mic 6 , 3rd Alex 4 , 3rd Phil 4 , 3rd Scott 4                      |
+| 28       | 2020-09-14 | 5           | 1st Jess 10 , 2nd Mic 6 , 3rd Alex 4 , 3rd Phil 4 , 3rd Scott 4                      |
+| 27       | 2020-09-14 | 5           | 1st Scott 10 , 2nd Jess 8 , 3rd Alex 7 , 3rd Phil 7 , 4th Mic 6                      |
 | 26       | 2020-09-07 | 6           | 1st Alex 10 , 2nd Scott 8 , 2nd Rachel 8 , 2nd Mic 8 , 3rd Jess 7 , 3rd Sean 7       |
 | 25       | 2020-09-07 | 5           | 1st Alex 10 , 2nd Scott 9 , 3rd Rachel 7 , 4th Sean 6 , 5th Mic 5                    |
 | 24       | 2020-09-04 | 5           | 1st Sean 10 , 2nd Wendy 6 , 3rd Alex 4 , 3rd Mic 4 , 4th Jess 3                      |
