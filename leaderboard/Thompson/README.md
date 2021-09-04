@@ -1,14 +1,14 @@
 # Thompson
-Last updated 2021-08-29 00:49 UTC.
+Last updated 2021-09-04 06:57 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 3         | 945            | 4.33           | 0% (0)        | 0% (0)        | 33% (1)       | 0% (0)               | 33% (1)                    |
+| All Games        | 3         | 946            | 4.33           | 0% (0)        | 0% (0)        | 33% (1)       | 0% (0)               | 33% (1)                    |
 | 3-4 Player Games | 2         | 959            | 5.00           | 0% (0)        | 0% (0)        | 50% (1)       | 0% (0)               | 50% (1)                    |
-| 5-6 Player Games | 1         | 970            | 3.00           | 0% (0)        | 0% (0)        | 0% (0)        | 0% (0)               | 0% (0)                     |
+| 5-6 Player Games | 1         | 969            | 3.00           | 0% (0)        | 0% (0)        | 0% (0)        | 0% (0)               | 0% (0)                     |
 
 ## Ratings
 ![](plots/rating_vs_game_number.png)
