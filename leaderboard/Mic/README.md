@@ -1,5 +1,5 @@
 # Mic
-Last updated 2021-09-04 06:57 UTC.
+Last updated 2021-09-05 03:23 UTC.
 
 [Go back to all players.](../README.md)
 
@@ -36,8 +36,8 @@ Last updated 2021-09-04 06:57 UTC.
 ### Game History: All Games
 | **Game** | **Date**   | **Players** | **Results**                                                                                                  |
 | :---:    | :---:      | :---:       | :---                                                                                                         |
-| 141      | 2021-09-03 | 4           | 1st Laura 11 , 2nd Scott 9 , 3rd Mic 6 , 3rd Rachel 6                                                        |
-| 140      | 2021-09-03 | 3           | 1st Rachel 10 , 2nd Mic 8 , 3rd Laura 5                                                                      |
+| 141      | 2021-09-03 | 3           | 1st Rachel 10 , 2nd Mic 8 , 3rd Laura 5                                                                      |
+| 140      | 2021-09-03 | 4           | 1st Laura 11 , 2nd Scott 9 , 3rd Mic 6 , 3rd Rachel 6                                                        |
 | 139      | 2021-09-03 | 4           | 1st Mic 10 , 2nd Laura 6 , 3rd Rachel 4 , 3rd Scott 4                                                        |
 | 138      | 2021-08-28 | 6           | 1st Jess 10 , 2nd Sean 9 , 3rd Rachel 8 , 3rd Laura 8 , 4th Scott 7 , 5th Mic 6                              |
 | 137      | 2021-08-27 | 4           | 1st Mic 10 , 2nd Rachel 7 , 3rd Scott 6 , 4th Laura 5                                                        |
@@ -46,8 +46,8 @@ Last updated 2021-09-04 06:57 UTC.
 | 134      | 2021-08-13 | 4           | 1st Laura 10 , 2nd Mic 8 , 3rd Scott 5 , 4th Rachel 2                                                        |
 | 133      | 2021-08-09 | 4           | 1st Jess 10 , 2nd Scott 9 , 2nd Mic 9 , 3rd Rachel 8                                                         |
 | 132      | 2021-08-09 | 4           | 1st Rachel 11 , 2nd Mic 9 , 3rd Jess 8 , 4th Scott 6                                                         |
-| 131      | 2021-08-06 | 4           | 1st Jess 11 , 2nd Mic 9 , 2nd Rachel 9 , 3rd Scott 8                                                         |
-| 130      | 2021-08-06 | 4           | 1st Scott 11 , 2nd Rachel 6 , 3rd Jess 5 , 3rd Mic 5                                                         |
+| 131      | 2021-08-06 | 4           | 1st Scott 11 , 2nd Rachel 6 , 3rd Jess 5 , 3rd Mic 5                                                         |
+| 130      | 2021-08-06 | 4           | 1st Jess 11 , 2nd Mic 9 , 2nd Rachel 9 , 3rd Scott 8                                                         |
 | 129      | 2021-08-06 | 4           | 1st Jess 10 , 2nd Scott 6 , 3rd Mic 5 , 4th Rachel 4                                                         |
 | 128      | 2021-07-22 | 3           | 1st Jess 10 , 2nd Mic 8 , 2nd Rachel 8                                                                       |
 | 127      | 2021-03-20 | 5           | 1st Rachel 10 , 2nd Jess 8 , 3rd Wilson 6 , 3rd Laura 6 , 4th Mic 5                                          |
@@ -181,8 +181,8 @@ Last updated 2021-09-04 06:57 UTC.
 ### Game History: 3-4 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                             |
 | :---:    | :---:      | :---:       | :---                                                    |
-| 84       | 2021-09-03 | 4           | 1st Laura 11 , 2nd Scott 9 , 3rd Mic 6 , 3rd Rachel 6   |
-| 83       | 2021-09-03 | 3           | 1st Rachel 10 , 2nd Mic 8 , 3rd Laura 5                 |
+| 84       | 2021-09-03 | 3           | 1st Rachel 10 , 2nd Mic 8 , 3rd Laura 5                 |
+| 83       | 2021-09-03 | 4           | 1st Laura 11 , 2nd Scott 9 , 3rd Mic 6 , 3rd Rachel 6   |
 | 82       | 2021-09-03 | 4           | 1st Mic 10 , 2nd Laura 6 , 3rd Rachel 4 , 3rd Scott 4   |
 | 81       | 2021-08-27 | 4           | 1st Mic 10 , 2nd Rachel 7 , 3rd Scott 6 , 4th Laura 5   |
 | 80       | 2021-08-27 | 4           | 1st Laura 10 , 2nd Scott 7 , 3rd Mic 6 , 3rd Rachel 6   |
@@ -190,8 +190,8 @@ Last updated 2021-09-04 06:57 UTC.
 | 78       | 2021-08-13 | 4           | 1st Laura 10 , 2nd Mic 8 , 3rd Scott 5 , 4th Rachel 2   |
 | 77       | 2021-08-09 | 4           | 1st Jess 10 , 2nd Scott 9 , 2nd Mic 9 , 3rd Rachel 8    |
 | 76       | 2021-08-09 | 4           | 1st Rachel 11 , 2nd Mic 9 , 3rd Jess 8 , 4th Scott 6    |
-| 75       | 2021-08-06 | 4           | 1st Jess 11 , 2nd Mic 9 , 2nd Rachel 9 , 3rd Scott 8    |
-| 74       | 2021-08-06 | 4           | 1st Scott 11 , 2nd Rachel 6 , 3rd Jess 5 , 3rd Mic 5    |
+| 75       | 2021-08-06 | 4           | 1st Scott 11 , 2nd Rachel 6 , 3rd Jess 5 , 3rd Mic 5    |
+| 74       | 2021-08-06 | 4           | 1st Jess 11 , 2nd Mic 9 , 2nd Rachel 9 , 3rd Scott 8    |
 | 73       | 2021-08-06 | 4           | 1st Jess 10 , 2nd Scott 6 , 3rd Mic 5 , 4th Rachel 4    |
 | 72       | 2021-07-22 | 3           | 1st Jess 10 , 2nd Mic 8 , 2nd Rachel 8                  |
 | 71       | 2021-03-20 | 4           | 1st Laura 10 , 2nd Mic 8 , 3rd Rachel 6 , 4th Wilson 4  |
