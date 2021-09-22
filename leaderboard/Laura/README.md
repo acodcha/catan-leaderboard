@@ -1,13 +1,13 @@
 # Laura
-Last updated 2021-09-09 03:17 UTC.
+Last updated 2021-09-22 02:49 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 34        | 916            | 6.74           | 26% (9)       | 12% (4)       | 24% (8)       | 38% (13)             | 62% (21)                   |
-| 3-4 Player Games | 21        | 981            | 7.57           | 43% (9)       | 19% (4)       | 19% (4)       | 62% (13)             | 81% (17)                   |
+| All Games        | 35        | 918            | 6.83           | 29% (10)      | 11% (4)       | 23% (8)       | 40% (14)             | 63% (22)                   |
+| 3-4 Player Games | 22        | 984            | 7.68           | 45% (10)      | 18% (4)       | 18% (4)       | 64% (14)             | 82% (18)                   |
 | 5-6 Player Games | 13        | 876            | 5.38           | 0% (0)        | 0% (0)        | 31% (4)       | 0% (0)               | 31% (4)                    |
 
 ## Ratings
@@ -32,6 +32,7 @@ Last updated 2021-09-09 03:17 UTC.
 ### Game History: All Games
 | **Game** | **Date**   | **Players** | **Results**                                                                      |
 | :---:    | :---:      | :---:       | :---                                                                             |
+| 35       | 2021-09-21 | 3           | 1st Laura 10 , 2nd Rachel 5 , 2nd Jess 5                                         |
 | 34       | 2021-09-06 | 6           | 1st Jess 10 , 2nd Wendy 9 , 3rd Sean 8 , 4th Alex 6 , 4th Laura 6 , 4th Scott 6  |
 | 33       | 2021-09-03 | 4           | 1st Laura 11 , 2nd Scott 9 , 3rd Mic 6 , 3rd Rachel 6                            |
 | 32       | 2021-09-03 | 4           | 1st Mic 10 , 2nd Laura 6 , 3rd Rachel 4 , 3rd Scott 4                            |
@@ -70,6 +71,7 @@ Last updated 2021-09-09 03:17 UTC.
 ### Game History: 3-4 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                            |
 | :---:    | :---:      | :---:       | :---                                                   |
+| 22       | 2021-09-21 | 3           | 1st Laura 10 , 2nd Rachel 5 , 2nd Jess 5               |
 | 21       | 2021-09-03 | 4           | 1st Laura 11 , 2nd Scott 9 , 3rd Mic 6 , 3rd Rachel 6  |
 | 20       | 2021-09-03 | 4           | 1st Mic 10 , 2nd Laura 6 , 3rd Rachel 4 , 3rd Scott 4  |
 | 19       | 2021-09-03 | 3           | 1st Rachel 10 , 2nd Mic 8 , 3rd Laura 5                |
