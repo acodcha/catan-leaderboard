@@ -1,12 +1,12 @@
 # Laura
-Last updated 2021-09-22 02:49 UTC.
+Last updated 2021-09-25 05:24 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 35        | 918            | 6.83           | 29% (10)      | 11% (4)       | 23% (8)       | 40% (14)             | 63% (22)                   |
+| All Games        | 35        | 919            | 6.83           | 29% (10)      | 11% (4)       | 23% (8)       | 40% (14)             | 63% (22)                   |
 | 3-4 Player Games | 22        | 984            | 7.68           | 45% (10)      | 18% (4)       | 18% (4)       | 64% (14)             | 82% (18)                   |
 | 5-6 Player Games | 13        | 876            | 5.38           | 0% (0)        | 0% (0)        | 31% (4)       | 0% (0)               | 31% (4)                    |
 
@@ -53,8 +53,8 @@ Last updated 2021-09-22 02:49 UTC.
 | 17       | 2020-12-31 | 3           | 1st Rachel 11 , 2nd Scott 6 , 3rd Laura 5                                        |
 | 16       | 2020-10-31 | 3           | 1st Rachel 10 , 2nd Laura 7 , 3rd Mic 6                                          |
 | 15       | 2020-10-31 | 3           | 1st Laura 10 , 2nd Mic 9 , 3rd Rachel 6                                          |
-| 14       | 2020-10-25 | 4           | 1st Mic 10 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Laura 6                             |
-| 13       | 2020-10-25 | 4           | 1st Rachel 10 , 2nd Phil 7 , 3rd Mic 5 , 4th Laura 4                             |
+| 14       | 2020-10-25 | 4           | 1st Rachel 10 , 2nd Phil 7 , 3rd Mic 5 , 4th Laura 4                             |
+| 13       | 2020-10-25 | 4           | 1st Mic 10 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Laura 6                             |
 | 12       | 2020-10-23 | 3           | 1st Rachel 10 , 2nd Mic 9 , 3rd Laura 8                                          |
 | 11       | 2020-10-23 | 3           | 1st Laura 10 , 2nd Mic 8 , 3rd Rachel 7                                          |
 | 10       | 2020-10-20 | 4           | 1st Laura 10 , 2nd Mic 9 , 3rd Rachel 6 , 4th Phil 4                             |
@@ -87,8 +87,8 @@ Last updated 2021-09-22 02:49 UTC.
 | 9        | 2020-12-31 | 3           | 1st Rachel 11 , 2nd Scott 6 , 3rd Laura 5              |
 | 8        | 2020-10-31 | 3           | 1st Rachel 10 , 2nd Laura 7 , 3rd Mic 6                |
 | 7        | 2020-10-31 | 3           | 1st Laura 10 , 2nd Mic 9 , 3rd Rachel 6                |
-| 6        | 2020-10-25 | 4           | 1st Mic 10 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Laura 6   |
-| 5        | 2020-10-25 | 4           | 1st Rachel 10 , 2nd Phil 7 , 3rd Mic 5 , 4th Laura 4   |
+| 6        | 2020-10-25 | 4           | 1st Rachel 10 , 2nd Phil 7 , 3rd Mic 5 , 4th Laura 4   |
+| 5        | 2020-10-25 | 4           | 1st Mic 10 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Laura 6   |
 | 4        | 2020-10-23 | 3           | 1st Rachel 10 , 2nd Mic 9 , 3rd Laura 8                |
 | 3        | 2020-10-23 | 3           | 1st Laura 10 , 2nd Mic 8 , 3rd Rachel 7                |
 | 2        | 2020-10-20 | 4           | 1st Laura 10 , 2nd Mic 9 , 3rd Rachel 6 , 4th Phil 4   |

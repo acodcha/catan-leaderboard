@@ -1,27 +1,27 @@
 # Catan Leaderboard
-Last updated 2021-09-22 02:49 UTC.
+Last updated 2021-09-25 05:24 UTC.
 
 ## Players
 
 ### Players: All Games
 | **Player**                     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---                           | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| [Alex](Alex/README.md)         | 55        | 1075           | 7.78           | 25% (14)      | 35% (19)      | 24% (13)      | 60% (33)             | 84% (46)                   |
-| [Eftychi](Eftychi/README.md)   | 14        | 936            | 5.86           | 7% (1)        | 14% (2)       | 29% (4)       | 21% (3)              | 50% (7)                    |
+| [Alex](Alex/README.md)         | 55        | 1074           | 7.78           | 25% (14)      | 35% (19)      | 24% (13)      | 60% (33)             | 84% (46)                   |
+| [Eftychi](Eftychi/README.md)   | 14        | 938            | 5.86           | 7% (1)        | 14% (2)       | 29% (4)       | 21% (3)              | 50% (7)                    |
 | [Jay](Jay/README.md)           | 15        | 1085           | 8.00           | 47% (7)       | 20% (3)       | 20% (3)       | 67% (10)             | 87% (13)                   |
 | [Jess](Jess/README.md)         | 114       | 1098           | 8.04           | 36% (41)      | 34% (39)      | 20% (23)      | 70% (80)             | 90% (103)                  |
-| [Laura](Laura/README.md)       | 35        | 918            | 6.83           | 29% (10)      | 11% (4)       | 23% (8)       | 40% (14)             | 63% (22)                   |
-| [Mic](Mic/README.md)           | 143       | 923            | 6.76           | 9% (13)       | 36% (51)      | 35% (50)      | 45% (64)             | 80% (114)                  |
+| [Laura](Laura/README.md)       | 35        | 919            | 6.83           | 29% (10)      | 11% (4)       | 23% (8)       | 40% (14)             | 63% (22)                   |
+| [Mic](Mic/README.md)           | 145       | 925            | 6.79           | 10% (14)      | 36% (52)      | 34% (50)      | 46% (66)             | 80% (116)                  |
 | [PA](PA/README.md)             | 2         | 1038           | 9.50           | 50% (1)       | 50% (1)       | 0% (0)        | 100% (2)             | 100% (2)                   |
-| [Phil](Phil/README.md)         | 59        | 948            | 7.03           | 14% (8)       | 41% (24)      | 37% (22)      | 54% (32)             | 92% (54)                   |
-| [Rachel](Rachel/README.md)     | 144       | 1002           | 7.54           | 30% (43)      | 26% (38)      | 28% (40)      | 56% (81)             | 84% (121)                  |
-| [Scott](Scott/README.md)       | 120       | 1052           | 7.67           | 26% (31)      | 34% (41)      | 24% (29)      | 60% (72)             | 84% (101)                  |
+| [Phil](Phil/README.md)         | 59        | 949            | 7.03           | 14% (8)       | 41% (24)      | 37% (22)      | 54% (32)             | 92% (54)                   |
+| [Rachel](Rachel/README.md)     | 146       | 1002           | 7.54           | 29% (43)      | 27% (39)      | 28% (41)      | 56% (82)             | 84% (123)                  |
+| [Scott](Scott/README.md)       | 122       | 1050           | 7.70           | 26% (32)      | 34% (42)      | 24% (29)      | 61% (74)             | 84% (103)                  |
 | [Sean](Sean/README.md)         | 50        | 991            | 7.40           | 14% (7)       | 36% (18)      | 26% (13)      | 50% (25)             | 76% (38)                   |
 | [Stuart](Stuart/README.md)     | 1         | 1011           | 9.00           | 0% (0)        | 100% (1)      | 0% (0)        | 100% (1)             | 100% (1)                   |
 | [Thompson](Thompson/README.md) | 5         | 920            | 4.20           | 0% (0)        | 0% (0)        | 20% (1)       | 0% (0)               | 20% (1)                    |
 | [Valerie](Valerie/README.md)   | 3         | 963            | 6.67           | 33% (1)       | 0% (0)        | 33% (1)       | 33% (1)              | 67% (2)                    |
 | [Victoria](Victoria/README.md) | 2         | 970            | 3.00           | 0% (0)        | 0% (0)        | 0% (0)        | 0% (0)               | 0% (0)                     |
-| [Wendy](Wendy/README.md)       | 22        | 940            | 5.95           | 0% (0)        | 18% (4)       | 36% (8)       | 18% (4)              | 55% (12)                   |
+| [Wendy](Wendy/README.md)       | 22        | 939            | 5.95           | 0% (0)        | 18% (4)       | 36% (8)       | 18% (4)              | 55% (12)                   |
 | [Wilson](Wilson/README.md)     | 7         | 1012           | 6.86           | 14% (1)       | 29% (2)       | 29% (2)       | 43% (3)              | 71% (5)                    |
 
 ### Players: 3-4 Player Games
@@ -31,10 +31,10 @@ Last updated 2021-09-22 02:49 UTC.
 | [Eftychi](Eftychi/README.md)   | 3         | 994            | 7.00           | 0% (0)        | 33% (1)       | 67% (2)       | 33% (1)              | 100% (3)                   |
 | [Jess](Jess/README.md)         | 45        | 1090           | 8.20           | 47% (21)      | 33% (15)      | 18% (8)       | 80% (36)             | 98% (44)                   |
 | [Laura](Laura/README.md)       | 22        | 984            | 7.68           | 45% (10)      | 18% (4)       | 18% (4)       | 64% (14)             | 82% (18)                   |
-| [Mic](Mic/README.md)           | 84        | 908            | 6.82           | 10% (8)       | 44% (37)      | 39% (33)      | 54% (45)             | 93% (78)                   |
+| [Mic](Mic/README.md)           | 86        | 911            | 6.87           | 10% (9)       | 44% (38)      | 38% (33)      | 55% (47)             | 93% (80)                   |
 | [Phil](Phil/README.md)         | 33        | 910            | 7.12           | 15% (5)       | 52% (17)      | 27% (9)       | 67% (22)             | 94% (31)                   |
-| [Rachel](Rachel/README.md)     | 87        | 992            | 7.72           | 32% (28)      | 32% (28)      | 28% (24)      | 64% (56)             | 92% (80)                   |
-| [Scott](Scott/README.md)       | 48        | 1072           | 8.08           | 33% (16)      | 48% (23)      | 15% (7)       | 81% (39)             | 96% (46)                   |
+| [Rachel](Rachel/README.md)     | 89        | 990            | 7.72           | 31% (28)      | 33% (29)      | 28% (25)      | 64% (57)             | 92% (82)                   |
+| [Scott](Scott/README.md)       | 50        | 1070           | 8.12           | 34% (17)      | 48% (24)      | 14% (7)       | 82% (41)             | 96% (48)                   |
 | [Sean](Sean/README.md)         | 16        | 971            | 7.19           | 25% (4)       | 38% (6)       | 19% (3)       | 62% (10)             | 81% (13)                   |
 | [Thompson](Thompson/README.md) | 2         | 959            | 5.00           | 0% (0)        | 0% (0)        | 50% (1)       | 0% (0)               | 50% (1)                    |
 | [Valerie](Valerie/README.md)   | 3         | 958            | 6.67           | 33% (1)       | 0% (0)        | 33% (1)       | 33% (1)              | 67% (2)                    |
@@ -45,11 +45,11 @@ Last updated 2021-09-22 02:49 UTC.
 | **Player**                     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---                           | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
 | [Alex](Alex/README.md)         | 37        | 1036           | 7.32           | 16% (6)       | 41% (15)      | 22% (8)       | 57% (21)             | 78% (29)                   |
-| [Eftychi](Eftychi/README.md)   | 7         | 961            | 5.29           | 0% (0)        | 14% (1)       | 29% (2)       | 14% (1)              | 43% (3)                    |
+| [Eftychi](Eftychi/README.md)   | 7         | 955            | 5.29           | 0% (0)        | 14% (1)       | 29% (2)       | 14% (1)              | 43% (3)                    |
 | [Jay](Jay/README.md)           | 13        | 1085           | 8.15           | 46% (6)       | 23% (3)       | 23% (3)       | 69% (9)              | 92% (12)                   |
 | [Jess](Jess/README.md)         | 63        | 1086           | 8.00           | 32% (20)      | 35% (22)      | 22% (14)      | 67% (42)             | 89% (56)                   |
 | [Laura](Laura/README.md)       | 13        | 876            | 5.38           | 0% (0)        | 0% (0)        | 31% (4)       | 0% (0)               | 31% (4)                    |
-| [Mic](Mic/README.md)           | 53        | 942            | 6.79           | 9% (5)        | 26% (14)      | 28% (15)      | 36% (19)             | 64% (34)                   |
+| [Mic](Mic/README.md)           | 53        | 941            | 6.79           | 9% (5)        | 26% (14)      | 28% (15)      | 36% (19)             | 64% (34)                   |
 | [PA](PA/README.md)             | 2         | 1039           | 9.50           | 50% (1)       | 50% (1)       | 0% (0)        | 100% (2)             | 100% (2)                   |
 | [Phil](Phil/README.md)         | 26        | 973            | 6.92           | 12% (3)       | 27% (7)       | 50% (13)      | 38% (10)             | 88% (23)                   |
 | [Rachel](Rachel/README.md)     | 52        | 979            | 7.10           | 23% (12)      | 17% (9)       | 31% (16)      | 40% (21)             | 71% (37)                   |
@@ -58,21 +58,21 @@ Last updated 2021-09-22 02:49 UTC.
 | [Stuart](Stuart/README.md)     | 1         | 1010           | 9.00           | 0% (0)        | 100% (1)      | 0% (0)        | 100% (1)             | 100% (1)                   |
 | [Thompson](Thompson/README.md) | 3         | 941            | 3.67           | 0% (0)        | 0% (0)        | 0% (0)        | 0% (0)               | 0% (0)                     |
 | [Victoria](Victoria/README.md) | 2         | 969            | 3.00           | 0% (0)        | 0% (0)        | 0% (0)        | 0% (0)               | 0% (0)                     |
-| [Wendy](Wendy/README.md)       | 15        | 956            | 6.07           | 0% (0)        | 27% (4)       | 40% (6)       | 27% (4)              | 67% (10)                   |
+| [Wendy](Wendy/README.md)       | 15        | 958            | 6.07           | 0% (0)        | 27% (4)       | 40% (6)       | 27% (4)              | 67% (10)                   |
 | [Wilson](Wilson/README.md)     | 4         | 1016           | 7.50           | 25% (1)       | 0% (0)        | 50% (2)       | 25% (1)              | 75% (3)                    |
 
 ### Players: 7-8 Player Games
 | **Player**                   | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---                         | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| [Alex](Alex/README.md)       | 6         | 1041           | 8.00           | 17% (1)       | 33% (2)       | 33% (2)       | 50% (3)              | 83% (5)                    |
-| [Eftychi](Eftychi/README.md) | 4         | 960            | 6.00           | 25% (1)       | 0% (0)        | 0% (0)        | 25% (1)              | 25% (1)                    |
+| [Alex](Alex/README.md)       | 6         | 1036           | 8.00           | 17% (1)       | 33% (2)       | 33% (2)       | 50% (3)              | 83% (5)                    |
+| [Eftychi](Eftychi/README.md) | 4         | 972            | 6.00           | 25% (1)       | 0% (0)        | 0% (0)        | 25% (1)              | 25% (1)                    |
 | [Jay](Jay/README.md)         | 2         | 994            | 7.00           | 50% (1)       | 0% (0)        | 0% (0)        | 50% (1)              | 50% (1)                    |
-| [Jess](Jess/README.md)       | 6         | 994            | 7.17           | 0% (0)        | 33% (2)       | 17% (1)       | 33% (2)              | 50% (3)                    |
-| [Mic](Mic/README.md)         | 6         | 959            | 5.67           | 0% (0)        | 0% (0)        | 33% (2)       | 0% (0)               | 33% (2)                    |
-| [Rachel](Rachel/README.md)   | 5         | 1068           | 9.00           | 60% (3)       | 20% (1)       | 0% (0)        | 80% (4)              | 80% (4)                    |
-| [Scott](Scott/README.md)     | 6         | 1017           | 7.00           | 0% (0)        | 33% (2)       | 50% (3)       | 33% (2)              | 83% (5)                    |
-| [Sean](Sean/README.md)       | 5         | 997            | 7.20           | 0% (0)        | 20% (1)       | 40% (2)       | 20% (1)              | 60% (3)                    |
-| [Wendy](Wendy/README.md)     | 6         | 969            | 6.00           | 0% (0)        | 0% (0)        | 17% (1)       | 0% (0)               | 17% (1)                    |
+| [Jess](Jess/README.md)       | 6         | 996            | 7.17           | 0% (0)        | 33% (2)       | 17% (1)       | 33% (2)              | 50% (3)                    |
+| [Mic](Mic/README.md)         | 6         | 955            | 5.67           | 0% (0)        | 0% (0)        | 33% (2)       | 0% (0)               | 33% (2)                    |
+| [Rachel](Rachel/README.md)   | 5         | 1061           | 9.00           | 60% (3)       | 20% (1)       | 0% (0)        | 80% (4)              | 80% (4)                    |
+| [Scott](Scott/README.md)     | 6         | 1023           | 7.00           | 0% (0)        | 33% (2)       | 50% (3)       | 33% (2)              | 83% (5)                    |
+| [Sean](Sean/README.md)       | 5         | 1001           | 7.20           | 0% (0)        | 20% (1)       | 40% (2)       | 20% (1)              | 60% (3)                    |
+| [Wendy](Wendy/README.md)     | 6         | 965            | 6.00           | 0% (0)        | 0% (0)        | 17% (1)       | 0% (0)               | 17% (1)                    |
 
 ## All Games
 
@@ -147,6 +147,8 @@ Last updated 2021-09-22 02:49 UTC.
 ### Game History: All Games
 | **Game** | **Date**   | **Players** | **Results**                                                                                                  |
 | :---:    | :---:      | :---:       | :---                                                                                                         |
+| 180      | 2021-09-24 | 3           | 1st Scott 10 , 2nd Mic 8 , 3rd Rachel 7                                                                      |
+| 179      | 2021-09-24 | 3           | 1st Mic 10 , 2nd Scott 8 , 2nd Rachel 8                                                                      |
 | 178      | 2021-09-21 | 3           | 1st Laura 10 , 2nd Rachel 5 , 2nd Jess 5                                                                     |
 | 177      | 2021-09-08 | 5           | 1st Rachel 10 , 2nd Mic 7 , 3rd Phil 6 , 4th Scott 5 , 5th Thompson 4                                        |
 | 176      | 2021-09-08 | 5           | 1st Rachel 10 , 2nd Mic 6 , 3rd Phil 5 , 3rd Scott 5 , 4th Thompson 4                                        |
@@ -181,8 +183,8 @@ Last updated 2021-09-22 02:49 UTC.
 | 147      | 2021-02-25 | 4           | 1st Scott 10 , 2nd Rachel 8 , 3rd Jess 7 , 4th Mic 6                                                         |
 | 146      | 2021-02-19 | 5           | 1st Jess 11 , 2nd Rachel 7 , 3rd Scott 6 , 3rd Mic 6 , 4th Laura 4                                           |
 | 145      | 2021-02-15 | 5           | 1st Scott 11 , 2nd PA 9 , 3rd Mic 8 , 4th Jess 6 , 5th Rachel 5                                              |
-| 144      | 2021-02-12 | 3           | 1st Rachel 11 , 2nd Scott 9 , 3rd Mic 6                                                                      |
-| 143      | 2021-02-12 | 3           | 1st Mic 10 , 2nd Jess 8 , 3rd Rachel 6                                                                       |
+| 144      | 2021-02-12 | 3           | 1st Mic 10 , 2nd Jess 8 , 3rd Rachel 6                                                                       |
+| 143      | 2021-02-12 | 3           | 1st Rachel 11 , 2nd Scott 9 , 3rd Mic 6                                                                      |
 | 142      | 2021-02-08 | 3           | 1st Phil 10 , 2nd Mic 9 , 3rd Rachel 6                                                                       |
 | 141      | 2021-02-08 | 3           | 1st Rachel 10 , 2nd Phil 9 , 3rd Mic 6                                                                       |
 | 140      | 2021-02-05 | 3           | 1st Rachel 10 , 2nd Mic 6 , 3rd Jess 5                                                                       |
@@ -190,8 +192,8 @@ Last updated 2021-09-22 02:49 UTC.
 | 138      | 2021-02-02 | 4           | 1st Jess 10 , 2nd Mic 9 , 2nd Scott 9 , 3rd Rachel 5                                                         |
 | 137      | 2021-01-26 | 5           | 1st Rachel 10 , 2nd Scott 9 , 3rd Mic 7 , 3rd Phil 7 , 4th Laura 4                                           |
 | 136      | 2021-01-26 | 4           | 1st Rachel 10 , 2nd Laura 7 , 2nd Scott 7 , 3rd Mic 5                                                        |
-| 135      | 2021-01-18 | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
-| 134      | 2021-01-18 | 8           | 1st Rachel 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Mic 6 , 4th Wendy 6 , 5th Sean 5 , 6th Eftychi 4 , 7th Scott 3 |
+| 135      | 2021-01-18 | 8           | 1st Rachel 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Mic 6 , 4th Wendy 6 , 5th Sean 5 , 6th Eftychi 4 , 7th Scott 3 |
+| 134      | 2021-01-18 | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
 | 133      | 2021-01-14 | 3           | 1st Rachel 10 , 2nd Jess 7 , 3rd Eftychi 6                                                                   |
 | 132      | 2020-12-31 | 3           | 1st Rachel 11 , 2nd Scott 6 , 3rd Laura 5                                                                    |
 | 131      | 2020-12-25 | 4           | 1st Scott 10 , 2nd Jess 8 , 2nd Mic 8 , 3rd Rachel 5                                                         |
@@ -214,16 +216,16 @@ Last updated 2021-09-22 02:49 UTC.
 | 114      | 2020-10-28 | 4           | 1st Jess 11 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Mic 7                                                          |
 | 113      | 2020-10-27 | 4           | 1st Scott 10 , 2nd Rachel 5 , 2nd Jess 5 , 2nd Mic 5                                                         |
 | 112      | 2020-10-27 | 4           | 1st Scott 10 , 2nd Rachel 8 , 3rd Jess 7 , 4th Mic 5                                                         |
-| 111      | 2020-10-25 | 4           | 1st Mic 10 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Laura 6                                                         |
-| 110      | 2020-10-25 | 4           | 1st Rachel 10 , 2nd Phil 7 , 3rd Mic 5 , 4th Laura 4                                                         |
+| 111      | 2020-10-25 | 4           | 1st Rachel 10 , 2nd Phil 7 , 3rd Mic 5 , 4th Laura 4                                                         |
+| 110      | 2020-10-25 | 4           | 1st Mic 10 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Laura 6                                                         |
 | 109      | 2020-10-24 | 5           | 1st Rachel 11 , 2nd Jess 9 , 2nd Stuart 9 , 3rd Scott 8 , 4th Mic 7                                          |
 | 108      | 2020-10-23 | 3           | 1st Rachel 10 , 2nd Mic 9 , 3rd Laura 8                                                                      |
 | 107      | 2020-10-23 | 3           | 1st Laura 10 , 2nd Mic 8 , 3rd Rachel 7                                                                      |
 | 106      | 2020-10-22 | 3           | 1st Mic 10 , 2nd Phil 9 , 3rd Rachel 7                                                                       |
 | 105      | 2020-10-20 | 4           | 1st Laura 10 , 2nd Mic 9 , 3rd Rachel 6 , 4th Phil 4                                                         |
 | 104      | 2020-10-20 | 3           | 1st Rachel 10 , 2nd Phil 7 , 2nd Mic 7                                                                       |
-| 103      | 2020-10-19 | 3           | 1st Mic 10 , 2nd Rachel 9 , 2nd Phil 9                                                                       |
-| 102      | 2020-10-19 | 3           | 1st Rachel 10 , 2nd Phil 6 , 2nd Mic 6                                                                       |
+| 103      | 2020-10-19 | 3           | 1st Rachel 10 , 2nd Phil 6 , 2nd Mic 6                                                                       |
+| 102      | 2020-10-19 | 3           | 1st Mic 10 , 2nd Rachel 9 , 2nd Phil 9                                                                       |
 | 101      | 2020-10-19 | 3           | 1st Rachel 10 , 2nd Phil 6 , 3rd Mic 4                                                                       |
 | 100      | 2020-10-18 | 4           | 1st Phil 10 , 2nd Mic 8 , 3rd Alex 7 , 4th Rachel 6                                                          |
 | 99       | 2020-10-18 | 3           | 1st Alex 10 , 2nd Rachel 9 , 3rd Phil 5                                                                      |
@@ -236,8 +238,8 @@ Last updated 2021-09-22 02:49 UTC.
 | 92       | 2020-10-11 | 5           | 1st Mic 10 , 2nd Phil 7 , 3rd Rachel 6 , 4th Jess 5 , 4th Laura 5                                            |
 | 91       | 2020-10-10 | 5           | 1st Jess 10 , 2nd Alex 8 , 3rd Mic 7 , 4th Scott 4 , 4th Rachel 4                                            |
 | 90       | 2020-10-10 | 5           | 1st Scott 10 , 2nd Mic 8 , 3rd Rachel 6 , 3rd Jess 6 , 4th Alex 5                                            |
-| 89       | 2020-10-06 | 5           | 1st Rachel 10 , 2nd Mic 7 , 2nd Jess 7 , 3rd Scott 6 , 3rd Phil 6                                            |
-| 88       | 2020-10-06 | 5           | 1st Mic 10 , 2nd Phil 9 , 2nd Scott 9 , 3rd Rachel 7 , 4th Jess 4                                            |
+| 89       | 2020-10-06 | 5           | 1st Mic 10 , 2nd Phil 9 , 2nd Scott 9 , 3rd Rachel 7 , 4th Jess 4                                            |
+| 88       | 2020-10-06 | 5           | 1st Rachel 10 , 2nd Mic 7 , 2nd Jess 7 , 3rd Scott 6 , 3rd Phil 6                                            |
 | 87       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Sean 7 , 4th Jess 7                                            |
 | 86       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Sean 9 , 3rd Jess 8 , 4th Rachel 7 , 5th Mic 6                                            |
 | 85       | 2020-10-02 | 3           | 1st Rachel 11 , 2nd Sean 8 , 3rd Mic 7                                                                       |
@@ -257,8 +259,8 @@ Last updated 2021-09-22 02:49 UTC.
 | 71       | 2020-09-17 | 6           | 1st Sean 10 , 2nd Jess 10 , 3rd Rachel 9 , 4th Scott 8 , 5th Laura 7 , 6th Mic 6                             |
 | 70       | 2020-09-14 | 5           | 1st Jess 10 , 2nd Mic 6 , 3rd Alex 4 , 3rd Phil 4 , 3rd Scott 4                                              |
 | 69       | 2020-09-14 | 5           | 1st Scott 10 , 2nd Jess 8 , 3rd Alex 7 , 3rd Phil 7 , 4th Mic 6                                              |
-| 68       | 2020-09-11 | 4           | 1st Jess 10 , 2nd Scott 9 , 3rd Mic 6 , 4th Rachel 5                                                         |
-| 67       | 2020-09-11 | 6           | 1st Mic 10 , 2nd Jess 8 , 3rd Sean 6 , 3rd Scott 6 , 4th Rachel 5 , 4th Laura 5                              |
+| 68       | 2020-09-11 | 6           | 1st Mic 10 , 2nd Jess 8 , 3rd Sean 6 , 3rd Scott 6 , 4th Rachel 5 , 4th Laura 5                              |
+| 67       | 2020-09-11 | 4           | 1st Jess 10 , 2nd Scott 9 , 3rd Mic 6 , 4th Rachel 5                                                         |
 | 66       | 2020-09-10 | 3           | 1st Scott 11 , 2nd Mic 6 , 2nd Rachel 6                                                                      |
 | 65       | 2020-09-10 | 3           | 1st Mic 10 , 2nd Scott 7 , 3rd Rachel 6                                                                      |
 | 64       | 2020-09-07 | 6           | 1st Alex 10 , 2nd Scott 8 , 2nd Rachel 8 , 2nd Mic 8 , 3rd Jess 7 , 3rd Sean 7                               |
@@ -269,21 +271,21 @@ Last updated 2021-09-22 02:49 UTC.
 | 59       | 2020-09-02 | 5           | 1st Phil 10 , 2nd Jess 6 , 3rd Scott 5 , 3rd Rachel 5 , 4th Mic 3                                            |
 | 58       | 2020-09-02 | 4           | 1st Jess 10 , 2nd Scott 5 , 2nd Mic 5 , 3rd Phil 3                                                           |
 | 57       | 2020-09-02 | 5           | 1st Jess 10 , 2nd Scott 8 , 2nd Rachel 8 , 2nd Mic 8 , 3rd Phil 6                                            |
-| 56       | 2020-09-01 | 4           | 1st Jess 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Phil 5                                                          |
-| 55       | 2020-09-01 | 4           | 1st Rachel 10 , 2nd Jess 6 , 3rd Mic 5 , 3rd Phil 5                                                          |
-| 54       | 2020-08-31 | 3           | 1st Rachel 10 , 2nd Mic 7 , 3rd Phil 4                                                                       |
+| 56       | 2020-09-01 | 4           | 1st Rachel 10 , 2nd Jess 6 , 3rd Mic 5 , 3rd Phil 5                                                          |
+| 55       | 2020-09-01 | 4           | 1st Jess 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Phil 5                                                          |
+| 54       | 2020-08-31 | 5           | 1st Jess 10 , 2nd Scott 6 , 2nd Phil 6 , 3rd Mic 5 , 3rd Rachel 5                                            |
 | 53       | 2020-08-31 | 5           | 1st Jess 10 , 2nd Rachel 7 , 2nd Scott 7 , 2nd Phil 7 , 3rd Mic 5                                            |
-| 52       | 2020-08-31 | 5           | 1st Jess 10 , 2nd Scott 6 , 2nd Phil 6 , 3rd Mic 5 , 3rd Rachel 5                                            |
+| 52       | 2020-08-31 | 3           | 1st Rachel 10 , 2nd Mic 7 , 3rd Phil 4                                                                       |
 | 51       | 2020-08-28 | 5           | 1st Rachel 10 , 2nd Jess 8 , 3rd Scott 7 , 4th Mic 6 , 5th Phil 5                                            |
 | 50       | 2020-08-28 | 4           | 1st Rachel 11 , 2nd Jess 7 , 2nd Scott 7 , 3rd Mic 6                                                         |
 | 49       | 2020-08-22 | 5           | 1st Rachel 10 , 2nd Sean 8 , 3rd Jess 7 , 3rd Mic 7 , 4th Scott 6                                            |
 | 48       | 2020-08-22 | 5           | 1st Jess 10 , 2nd Scott 9 , 2nd Sean 9 , 2nd Mic 9 , 3rd Rachel 5                                            |
 | 47       | 2020-08-22 | 5           | 1st Jess 10 , 2nd Scott 9 , 2nd Rachel 9 , 3rd Laura 7 , 3rd Mic 7                                           |
-| 46       | 2020-08-19 | 4           | 1st Jess 10 , 2nd Scott 5 , 2nd Mic 5 , 2nd Rachel 5                                                         |
-| 45       | 2020-08-19 | 4           | 1st Jess 10 , 2nd Scott 8 , 2nd Mic 8 , 3rd Rachel 6                                                         |
-| 44       | 2020-08-17 | 4           | 1st Jess 10 , 2nd Rachel 9 , 3rd Phil 8 , 4th Mic 3                                                          |
-| 43       | 2020-08-17 | 4           | 1st Jess 10 , 2nd Sean 7 , 2nd Phil 7 , 2nd Mic 7                                                            |
-| 42       | 2020-08-17 | 5           | 1st Rachel 10 , 2nd Sean 8 , 3rd Phil 7 , 4th Mic 6 , 5th Jess 4                                             |
+| 46       | 2020-08-19 | 4           | 1st Jess 10 , 2nd Scott 8 , 2nd Mic 8 , 3rd Rachel 6                                                         |
+| 45       | 2020-08-19 | 4           | 1st Jess 10 , 2nd Scott 5 , 2nd Mic 5 , 2nd Rachel 5                                                         |
+| 44       | 2020-08-17 | 4           | 1st Jess 10 , 2nd Sean 7 , 2nd Phil 7 , 2nd Mic 7                                                            |
+| 43       | 2020-08-17 | 5           | 1st Rachel 10 , 2nd Sean 8 , 3rd Phil 7 , 4th Mic 6 , 5th Jess 4                                             |
+| 42       | 2020-08-17 | 4           | 1st Jess 10 , 2nd Rachel 9 , 3rd Phil 8 , 4th Mic 3                                                          |
 | 41       | 2020-08-11 | 5           | 1st Rachel 10 , 2nd Jess 9 , 2nd Scott 9 , 3rd Phil 6 , 4th Mic 4                                            |
 | 40       | 2020-08-11 | 4           | 1st Scott 10 , 2nd Jess 8 , 3rd Rachel 7 , 3rd Mic 7                                                         |
 | 39       | 2020-08-07 | 7           | 1st Rachel 10 , 2nd Jess 8 , 2nd Scott 8 , 3rd Alex 7 , 3rd Mic 7 , 4th Sean 6 , 4th Wendy 6                 |
@@ -293,20 +295,20 @@ Last updated 2021-09-22 02:49 UTC.
 | 35       | 2020-08-05 | 6           | 1st Scott 10 , 2nd Rachel 8 , 3rd Sean 6 , 3rd Jess 6 , 3rd Mic 6 , 4th Phil 5                               |
 | 34       | 2020-07-29 | 4           | 1st Scott 10 , 2nd Phil 8 , 3rd Mic 7 , 4th Rachel 6                                                         |
 | 33       | 2020-07-26 | 4           | 1st Sean 10 , 2nd Alex 8 , 2nd Scott 8 , 3rd Mic 7                                                           |
-| 32       | 2020-07-25 | 4           | 1st Alex 10 , 2nd Sean 5 , 2nd Rachel 5 , 2nd Mic 5                                                          |
-| 31       | 2020-07-25 | 4           | 1st Alex 10 , 2nd Sean 9 , 3rd Eftychi 8 , 4th Mic 4                                                         |
-| 30       | 2020-07-25 | 4           | 1st Alex 10 , 2nd Mic 9 , 3rd Rachel 7 , 4th Sean 6                                                          |
+| 32       | 2020-07-25 | 4           | 1st Alex 10 , 2nd Sean 9 , 3rd Eftychi 8 , 4th Mic 4                                                         |
+| 31       | 2020-07-25 | 4           | 1st Alex 10 , 2nd Mic 9 , 3rd Rachel 7 , 4th Sean 6                                                          |
+| 30       | 2020-07-25 | 4           | 1st Alex 10 , 2nd Sean 5 , 2nd Rachel 5 , 2nd Mic 5                                                          |
 | 29       | 2020-07-18 | 5           | 1st Alex 10 , 2nd Rachel 8 , 3rd Scott 6 , 4th Mic 5 , 5th Eftychi 4                                         |
 | 28       | 2020-07-04 | 8           | 1st Jay 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7 , 3rd Mic 7 , 4th Jess 6 , 4th Eftychi 6    |
 | 27       | 2020-07-04 | 8           | 1st Alex 10 , 2nd Rachel 8 , 3rd Scott 7 , 4th Jess 6 , 4th Wendy 6 , 5th Eftychi 4 , 5th Jay 4 , 5th Mic 4  |
 | 26       | 2020-07-04 | 4           | 1st Scott 10 , 2nd Eftychi 7 , 3rd Jess 6 , 3rd Rachel 6                                                     |
-| 25       | 2020-07-03 | 6           | 1st Jess 10 , 2nd Alex 6 , 2nd Wendy 6 , 3rd Scott 5 , 3rd Eftychi 5 , 4th Rachel 4                          |
-| 24       | 2020-07-03 | 5           | 1st Jess 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Rachel 8 , 4th Scott 7                                           |
+| 25       | 2020-07-03 | 5           | 1st Jess 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Rachel 8 , 4th Scott 7                                           |
+| 24       | 2020-07-03 | 6           | 1st Jess 10 , 2nd Alex 6 , 2nd Wendy 6 , 3rd Scott 5 , 3rd Eftychi 5 , 4th Rachel 4                          |
 | 23       | 2020-07-03 | 4           | 1st Alex 10 , 2nd Rachel 7 , 2nd Scott 7 , 3rd Jess 5                                                        |
-| 22       | 2020-06-20 | 5           | 1st Rachel 10 , 2nd Alex 8 , 2nd Jess 8 , 2nd Sean 8 , 3rd Scott 5                                           |
-| 21       | 2020-06-20 | 6           | 1st Jess 10 , 2nd Wendy 8 , 3rd Alex 7 , 3rd Scott 7 , 4th Eftychi 4 , 4th Mic 4                             |
-| 20       | 2020-06-20 | 6           | 1st Jess 10 , 2nd Eftychi 8 , 3rd Wendy 7 , 4th Alex 6 , 4th Scott 6 , 4th Mic 6                             |
-| 19       | 2020-06-20 | 6           | 1st Alex 10 , 2nd Scott 6 , 2nd Mic 6 , 3rd Jess 5 , 4th Eftychi 4 , 5th Wendy 2                             |
+| 22       | 2020-06-20 | 6           | 1st Jess 10 , 2nd Eftychi 8 , 3rd Wendy 7 , 4th Alex 6 , 4th Scott 6 , 4th Mic 6                             |
+| 21       | 2020-06-20 | 6           | 1st Alex 10 , 2nd Scott 6 , 2nd Mic 6 , 3rd Jess 5 , 4th Eftychi 4 , 5th Wendy 2                             |
+| 20       | 2020-06-20 | 6           | 1st Jess 10 , 2nd Wendy 8 , 3rd Alex 7 , 3rd Scott 7 , 4th Eftychi 4 , 4th Mic 4                             |
+| 19       | 2020-06-20 | 5           | 1st Rachel 10 , 2nd Alex 8 , 2nd Jess 8 , 2nd Sean 8 , 3rd Scott 5                                           |
 | 18       | 2020-06-13 | 4           | 1st Jess 10 , 2nd Alex 9 , 2nd Rachel 9 , 3rd Scott 7                                                        |
 | 17       | 2020-06-13 | 5           | 1st Jess 10 , 2nd Alex 9 , 3rd Jay 8 , 4th Scott 7 , 5th Rachel 4                                            |
 | 16       | 2020-06-06 | 6           | 1st Scott 10 , 2nd Alex 9 , 3rd Jay 5 , 3rd Jess 5 , 3rd Sean 5 , 4th Rachel 3                               |
@@ -329,6 +331,8 @@ Last updated 2021-09-22 02:49 UTC.
 ### Game History: 3-4 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                              |
 | :---:    | :---:      | :---:       | :---                                                     |
+| 102      | 2021-09-24 | 3           | 1st Scott 10 , 2nd Mic 8 , 3rd Rachel 7                  |
+| 101      | 2021-09-24 | 3           | 1st Mic 10 , 2nd Scott 8 , 2nd Rachel 8                  |
 | 100      | 2021-09-21 | 3           | 1st Laura 10 , 2nd Rachel 5 , 2nd Jess 5                 |
 | 99       | 2021-09-03 | 4           | 1st Laura 11 , 2nd Scott 9 , 3rd Mic 6 , 3rd Rachel 6    |
 | 98       | 2021-09-03 | 4           | 1st Mic 10 , 2nd Laura 6 , 3rd Rachel 4 , 3rd Scott 4    |
@@ -353,8 +357,8 @@ Last updated 2021-09-22 02:49 UTC.
 | 79       | 2021-03-05 | 3           | 1st Rachel 10 , 2nd Laura 5 , 3rd Mic 4                  |
 | 78       | 2021-02-25 | 4           | 1st Mic 10 , 2nd Jess 9 , 2nd Rachel 9 , 2nd Scott 9     |
 | 77       | 2021-02-25 | 4           | 1st Scott 10 , 2nd Rachel 8 , 3rd Jess 7 , 4th Mic 6     |
-| 76       | 2021-02-12 | 3           | 1st Rachel 11 , 2nd Scott 9 , 3rd Mic 6                  |
-| 75       | 2021-02-12 | 3           | 1st Mic 10 , 2nd Jess 8 , 3rd Rachel 6                   |
+| 76       | 2021-02-12 | 3           | 1st Mic 10 , 2nd Jess 8 , 3rd Rachel 6                   |
+| 75       | 2021-02-12 | 3           | 1st Rachel 11 , 2nd Scott 9 , 3rd Mic 6                  |
 | 74       | 2021-02-08 | 3           | 1st Phil 10 , 2nd Mic 9 , 3rd Rachel 6                   |
 | 73       | 2021-02-08 | 3           | 1st Rachel 10 , 2nd Phil 9 , 3rd Mic 6                   |
 | 72       | 2021-02-05 | 3           | 1st Rachel 10 , 2nd Mic 6 , 3rd Jess 5                   |
@@ -382,15 +386,15 @@ Last updated 2021-09-22 02:49 UTC.
 | 50       | 2020-10-28 | 4           | 1st Jess 11 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Mic 7      |
 | 49       | 2020-10-27 | 4           | 1st Scott 10 , 2nd Rachel 5 , 2nd Jess 5 , 2nd Mic 5     |
 | 48       | 2020-10-27 | 4           | 1st Scott 10 , 2nd Rachel 8 , 3rd Jess 7 , 4th Mic 5     |
-| 47       | 2020-10-25 | 4           | 1st Mic 10 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Laura 6     |
-| 46       | 2020-10-25 | 4           | 1st Rachel 10 , 2nd Phil 7 , 3rd Mic 5 , 4th Laura 4     |
+| 47       | 2020-10-25 | 4           | 1st Rachel 10 , 2nd Phil 7 , 3rd Mic 5 , 4th Laura 4     |
+| 46       | 2020-10-25 | 4           | 1st Mic 10 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Laura 6     |
 | 45       | 2020-10-23 | 3           | 1st Rachel 10 , 2nd Mic 9 , 3rd Laura 8                  |
 | 44       | 2020-10-23 | 3           | 1st Laura 10 , 2nd Mic 8 , 3rd Rachel 7                  |
 | 43       | 2020-10-22 | 3           | 1st Mic 10 , 2nd Phil 9 , 3rd Rachel 7                   |
 | 42       | 2020-10-20 | 4           | 1st Laura 10 , 2nd Mic 9 , 3rd Rachel 6 , 4th Phil 4     |
 | 41       | 2020-10-20 | 3           | 1st Rachel 10 , 2nd Phil 7 , 2nd Mic 7                   |
-| 40       | 2020-10-19 | 3           | 1st Mic 10 , 2nd Rachel 9 , 2nd Phil 9                   |
-| 39       | 2020-10-19 | 3           | 1st Rachel 10 , 2nd Phil 6 , 2nd Mic 6                   |
+| 40       | 2020-10-19 | 3           | 1st Rachel 10 , 2nd Phil 6 , 2nd Mic 6                   |
+| 39       | 2020-10-19 | 3           | 1st Mic 10 , 2nd Rachel 9 , 2nd Phil 9                   |
 | 38       | 2020-10-19 | 3           | 1st Rachel 10 , 2nd Phil 6 , 3rd Mic 4                   |
 | 37       | 2020-10-18 | 4           | 1st Phil 10 , 2nd Mic 8 , 3rd Alex 7 , 4th Rachel 6      |
 | 36       | 2020-10-18 | 3           | 1st Alex 10 , 2nd Rachel 9 , 3rd Phil 5                  |
@@ -409,20 +413,20 @@ Last updated 2021-09-22 02:49 UTC.
 | 23       | 2020-09-10 | 3           | 1st Mic 10 , 2nd Scott 7 , 3rd Rachel 6                  |
 | 22       | 2020-09-04 | 4           | 1st Rachel 10 , 2nd Scott 9 , 3rd Alex 8 , 4th Jess 6    |
 | 21       | 2020-09-02 | 4           | 1st Jess 10 , 2nd Scott 5 , 2nd Mic 5 , 3rd Phil 3       |
-| 20       | 2020-09-01 | 4           | 1st Jess 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Phil 5      |
-| 19       | 2020-09-01 | 4           | 1st Rachel 10 , 2nd Jess 6 , 3rd Mic 5 , 3rd Phil 5      |
+| 20       | 2020-09-01 | 4           | 1st Rachel 10 , 2nd Jess 6 , 3rd Mic 5 , 3rd Phil 5      |
+| 19       | 2020-09-01 | 4           | 1st Jess 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Phil 5      |
 | 18       | 2020-08-31 | 3           | 1st Rachel 10 , 2nd Mic 7 , 3rd Phil 4                   |
 | 17       | 2020-08-28 | 4           | 1st Rachel 11 , 2nd Jess 7 , 2nd Scott 7 , 3rd Mic 6     |
-| 16       | 2020-08-19 | 4           | 1st Jess 10 , 2nd Scott 5 , 2nd Mic 5 , 2nd Rachel 5     |
-| 15       | 2020-08-19 | 4           | 1st Jess 10 , 2nd Scott 8 , 2nd Mic 8 , 3rd Rachel 6     |
-| 14       | 2020-08-17 | 4           | 1st Jess 10 , 2nd Rachel 9 , 3rd Phil 8 , 4th Mic 3      |
-| 13       | 2020-08-17 | 4           | 1st Jess 10 , 2nd Sean 7 , 2nd Phil 7 , 2nd Mic 7        |
+| 16       | 2020-08-19 | 4           | 1st Jess 10 , 2nd Scott 8 , 2nd Mic 8 , 3rd Rachel 6     |
+| 15       | 2020-08-19 | 4           | 1st Jess 10 , 2nd Scott 5 , 2nd Mic 5 , 2nd Rachel 5     |
+| 14       | 2020-08-17 | 4           | 1st Jess 10 , 2nd Sean 7 , 2nd Phil 7 , 2nd Mic 7        |
+| 13       | 2020-08-17 | 4           | 1st Jess 10 , 2nd Rachel 9 , 3rd Phil 8 , 4th Mic 3      |
 | 12       | 2020-08-11 | 4           | 1st Scott 10 , 2nd Jess 8 , 3rd Rachel 7 , 3rd Mic 7     |
 | 11       | 2020-07-29 | 4           | 1st Scott 10 , 2nd Phil 8 , 3rd Mic 7 , 4th Rachel 6     |
 | 10       | 2020-07-26 | 4           | 1st Sean 10 , 2nd Alex 8 , 2nd Scott 8 , 3rd Mic 7       |
-| 9        | 2020-07-25 | 4           | 1st Alex 10 , 2nd Sean 5 , 2nd Rachel 5 , 2nd Mic 5      |
-| 8        | 2020-07-25 | 4           | 1st Alex 10 , 2nd Sean 9 , 3rd Eftychi 8 , 4th Mic 4     |
-| 7        | 2020-07-25 | 4           | 1st Alex 10 , 2nd Mic 9 , 3rd Rachel 7 , 4th Sean 6      |
+| 9        | 2020-07-25 | 4           | 1st Alex 10 , 2nd Sean 9 , 3rd Eftychi 8 , 4th Mic 4     |
+| 8        | 2020-07-25 | 4           | 1st Alex 10 , 2nd Mic 9 , 3rd Rachel 7 , 4th Sean 6      |
+| 7        | 2020-07-25 | 4           | 1st Alex 10 , 2nd Sean 5 , 2nd Rachel 5 , 2nd Mic 5      |
 | 6        | 2020-07-04 | 4           | 1st Scott 10 , 2nd Eftychi 7 , 3rd Jess 6 , 3rd Rachel 6 |
 | 5        | 2020-07-03 | 4           | 1st Alex 10 , 2nd Rachel 7 , 2nd Scott 7 , 3rd Jess 5    |
 | 4        | 2020-06-13 | 4           | 1st Jess 10 , 2nd Alex 9 , 2nd Rachel 9 , 3rd Scott 7    |
@@ -454,8 +458,8 @@ Last updated 2021-09-22 02:49 UTC.
 | 54       | 2020-10-11 | 5           | 1st Mic 10 , 2nd Phil 7 , 3rd Rachel 6 , 4th Jess 5 , 4th Laura 5                    |
 | 53       | 2020-10-10 | 5           | 1st Jess 10 , 2nd Alex 8 , 3rd Mic 7 , 4th Scott 4 , 4th Rachel 4                    |
 | 52       | 2020-10-10 | 5           | 1st Scott 10 , 2nd Mic 8 , 3rd Rachel 6 , 3rd Jess 6 , 4th Alex 5                    |
-| 51       | 2020-10-06 | 5           | 1st Rachel 10 , 2nd Mic 7 , 2nd Jess 7 , 3rd Scott 6 , 3rd Phil 6                    |
-| 50       | 2020-10-06 | 5           | 1st Mic 10 , 2nd Phil 9 , 2nd Scott 9 , 3rd Rachel 7 , 4th Jess 4                    |
+| 51       | 2020-10-06 | 5           | 1st Mic 10 , 2nd Phil 9 , 2nd Scott 9 , 3rd Rachel 7 , 4th Jess 4                    |
+| 50       | 2020-10-06 | 5           | 1st Rachel 10 , 2nd Mic 7 , 2nd Jess 7 , 3rd Scott 6 , 3rd Phil 6                    |
 | 49       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Sean 7 , 4th Jess 7                    |
 | 48       | 2020-10-02 | 5           | 1st Scott 10 , 2nd Sean 9 , 3rd Jess 8 , 4th Rachel 7 , 5th Mic 6                    |
 | 47       | 2020-09-30 | 5           | 1st Scott 10 , 2nd Phil 9 , 2nd Mic 9 , 3rd Rachel 8 , 4th Sean 7                    |
@@ -472,8 +476,8 @@ Last updated 2021-09-22 02:49 UTC.
 | 36       | 2020-09-04 | 5           | 1st Sean 10 , 2nd Wendy 6 , 3rd Alex 4 , 3rd Mic 4 , 4th Jess 3                      |
 | 35       | 2020-09-02 | 5           | 1st Phil 10 , 2nd Jess 6 , 3rd Scott 5 , 3rd Rachel 5 , 4th Mic 3                    |
 | 34       | 2020-09-02 | 5           | 1st Jess 10 , 2nd Scott 8 , 2nd Rachel 8 , 2nd Mic 8 , 3rd Phil 6                    |
-| 33       | 2020-08-31 | 5           | 1st Jess 10 , 2nd Rachel 7 , 2nd Scott 7 , 2nd Phil 7 , 3rd Mic 5                    |
-| 32       | 2020-08-31 | 5           | 1st Jess 10 , 2nd Scott 6 , 2nd Phil 6 , 3rd Mic 5 , 3rd Rachel 5                    |
+| 33       | 2020-08-31 | 5           | 1st Jess 10 , 2nd Scott 6 , 2nd Phil 6 , 3rd Mic 5 , 3rd Rachel 5                    |
+| 32       | 2020-08-31 | 5           | 1st Jess 10 , 2nd Rachel 7 , 2nd Scott 7 , 2nd Phil 7 , 3rd Mic 5                    |
 | 31       | 2020-08-28 | 5           | 1st Rachel 10 , 2nd Jess 8 , 3rd Scott 7 , 4th Mic 6 , 5th Phil 5                    |
 | 30       | 2020-08-22 | 5           | 1st Rachel 10 , 2nd Sean 8 , 3rd Jess 7 , 3rd Mic 7 , 4th Scott 6                    |
 | 29       | 2020-08-22 | 5           | 1st Jess 10 , 2nd Scott 9 , 2nd Sean 9 , 2nd Mic 9 , 3rd Rachel 5                    |
@@ -485,12 +489,12 @@ Last updated 2021-09-22 02:49 UTC.
 | 23       | 2020-08-05 | 6           | 1st Scott 10 , 2nd Jess 8 , 2nd Mic 8 , 3rd Sean 7 , 3rd Phil 7 , 4th Alex 6         |
 | 22       | 2020-08-05 | 6           | 1st Scott 10 , 2nd Rachel 8 , 3rd Sean 6 , 3rd Jess 6 , 3rd Mic 6 , 4th Phil 5       |
 | 21       | 2020-07-18 | 5           | 1st Alex 10 , 2nd Rachel 8 , 3rd Scott 6 , 4th Mic 5 , 5th Eftychi 4                 |
-| 20       | 2020-07-03 | 6           | 1st Jess 10 , 2nd Alex 6 , 2nd Wendy 6 , 3rd Scott 5 , 3rd Eftychi 5 , 4th Rachel 4  |
-| 19       | 2020-07-03 | 5           | 1st Jess 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Rachel 8 , 4th Scott 7                   |
-| 18       | 2020-06-20 | 5           | 1st Rachel 10 , 2nd Alex 8 , 2nd Jess 8 , 2nd Sean 8 , 3rd Scott 5                   |
-| 17       | 2020-06-20 | 6           | 1st Jess 10 , 2nd Wendy 8 , 3rd Alex 7 , 3rd Scott 7 , 4th Eftychi 4 , 4th Mic 4     |
-| 16       | 2020-06-20 | 6           | 1st Jess 10 , 2nd Eftychi 8 , 3rd Wendy 7 , 4th Alex 6 , 4th Scott 6 , 4th Mic 6     |
-| 15       | 2020-06-20 | 6           | 1st Alex 10 , 2nd Scott 6 , 2nd Mic 6 , 3rd Jess 5 , 4th Eftychi 4 , 5th Wendy 2     |
+| 20       | 2020-07-03 | 5           | 1st Jess 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Rachel 8 , 4th Scott 7                   |
+| 19       | 2020-07-03 | 6           | 1st Jess 10 , 2nd Alex 6 , 2nd Wendy 6 , 3rd Scott 5 , 3rd Eftychi 5 , 4th Rachel 4  |
+| 18       | 2020-06-20 | 6           | 1st Jess 10 , 2nd Eftychi 8 , 3rd Wendy 7 , 4th Alex 6 , 4th Scott 6 , 4th Mic 6     |
+| 17       | 2020-06-20 | 6           | 1st Alex 10 , 2nd Scott 6 , 2nd Mic 6 , 3rd Jess 5 , 4th Eftychi 4 , 5th Wendy 2     |
+| 16       | 2020-06-20 | 6           | 1st Jess 10 , 2nd Wendy 8 , 3rd Alex 7 , 3rd Scott 7 , 4th Eftychi 4 , 4th Mic 4     |
+| 15       | 2020-06-20 | 5           | 1st Rachel 10 , 2nd Alex 8 , 2nd Jess 8 , 2nd Sean 8 , 3rd Scott 5                   |
 | 14       | 2020-06-13 | 5           | 1st Jess 10 , 2nd Alex 9 , 3rd Jay 8 , 4th Scott 7 , 5th Rachel 4                    |
 | 13       | 2020-06-06 | 6           | 1st Scott 10 , 2nd Alex 9 , 3rd Jay 5 , 3rd Jess 5 , 3rd Sean 5 , 4th Rachel 3       |
 | 12       | 2020-06-06 | 5           | 1st Jay 10 , 2nd Alex 5 , 2nd Jess 5 , 3rd Scott 4 , 3rd Rachel 4                    |
@@ -509,8 +513,8 @@ Last updated 2021-09-22 02:49 UTC.
 ### Game History: 7-8 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                                                                                  |
 | :---:    | :---:      | :---:       | :---                                                                                                         |
-| 6        | 2021-01-18 | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
-| 5        | 2021-01-18 | 8           | 1st Rachel 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Mic 6 , 4th Wendy 6 , 5th Sean 5 , 6th Eftychi 4 , 7th Scott 3 |
+| 6        | 2021-01-18 | 8           | 1st Rachel 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Mic 6 , 4th Wendy 6 , 5th Sean 5 , 6th Eftychi 4 , 7th Scott 3 |
+| 5        | 2021-01-18 | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
 | 4        | 2020-09-04 | 7           | 1st Rachel 10 , 2nd Scott 9 , 3rd Alex 8 , 3rd Sean 8 , 4th Jess 7 , 5th Wendy 6 , 6th Mic 5                 |
 | 3        | 2020-08-07 | 7           | 1st Rachel 10 , 2nd Jess 8 , 2nd Scott 8 , 3rd Alex 7 , 3rd Mic 7 , 4th Sean 6 , 4th Wendy 6                 |
 | 2        | 2020-07-04 | 8           | 1st Jay 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7 , 3rd Mic 7 , 4th Jess 6 , 4th Eftychi 6    |
