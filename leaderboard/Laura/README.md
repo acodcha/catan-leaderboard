@@ -1,12 +1,12 @@
 # Laura
-Last updated 2021-09-25 05:24 UTC.
+Last updated 2021-10-06 03:03 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 35        | 919            | 6.83           | 29% (10)      | 11% (4)       | 23% (8)       | 40% (14)             | 63% (22)                   |
+| All Games        | 35        | 918            | 6.83           | 29% (10)      | 11% (4)       | 23% (8)       | 40% (14)             | 63% (22)                   |
 | 3-4 Player Games | 22        | 984            | 7.68           | 45% (10)      | 18% (4)       | 18% (4)       | 64% (14)             | 82% (18)                   |
 | 5-6 Player Games | 13        | 876            | 5.38           | 0% (0)        | 0% (0)        | 31% (4)       | 0% (0)               | 31% (4)                    |
 
@@ -42,8 +42,8 @@ Last updated 2021-09-25 05:24 UTC.
 | 28       | 2021-08-27 | 4           | 1st Laura 10 , 2nd Scott 7 , 3rd Mic 6 , 3rd Rachel 6                            |
 | 27       | 2021-08-13 | 4           | 1st Scott 10 , 2nd Mic 9 , 3rd Rachel 6 , 4th Laura 5                            |
 | 26       | 2021-08-13 | 4           | 1st Laura 10 , 2nd Mic 8 , 3rd Scott 5 , 4th Rachel 2                            |
-| 25       | 2021-03-20 | 5           | 1st Rachel 10 , 2nd Jess 8 , 3rd Wilson 6 , 3rd Laura 6 , 4th Mic 5              |
-| 24       | 2021-03-20 | 4           | 1st Laura 10 , 2nd Mic 8 , 3rd Rachel 6 , 4th Wilson 4                           |
+| 25       | 2021-03-20 | 4           | 1st Laura 10 , 2nd Mic 8 , 3rd Rachel 6 , 4th Wilson 4                           |
+| 24       | 2021-03-20 | 5           | 1st Rachel 10 , 2nd Jess 8 , 3rd Wilson 6 , 3rd Laura 6 , 4th Mic 5              |
 | 23       | 2021-03-05 | 4           | 1st Laura 10 , 2nd Scott 9 , 3rd Mic 8 , 4th Rachel 6                            |
 | 22       | 2021-03-05 | 3           | 1st Laura 10 , 2nd Rachel 6 , 2nd Mic 6                                          |
 | 21       | 2021-03-05 | 3           | 1st Rachel 10 , 2nd Laura 5 , 3rd Mic 4                                          |

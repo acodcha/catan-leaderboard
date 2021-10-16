@@ -1,15 +1,15 @@
 # Wendy
-Last updated 2021-09-25 05:24 UTC.
+Last updated 2021-10-06 03:03 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 22        | 939            | 5.95           | 0% (0)        | 18% (4)       | 36% (8)       | 18% (4)              | 55% (12)                   |
+| All Games        | 22        | 940            | 5.95           | 0% (0)        | 18% (4)       | 36% (8)       | 18% (4)              | 55% (12)                   |
 | 3-4 Player Games | 1         | 968            | 4.00           | 0% (0)        | 0% (0)        | 100% (1)      | 0% (0)               | 100% (1)                   |
 | 5-6 Player Games | 15        | 958            | 6.07           | 0% (0)        | 27% (4)       | 40% (6)       | 27% (4)              | 67% (10)                   |
-| 7-8 Player Games | 6         | 965            | 6.00           | 0% (0)        | 0% (0)        | 17% (1)       | 0% (0)               | 17% (1)                    |
+| 7-8 Player Games | 6         | 969            | 6.00           | 0% (0)        | 0% (0)        | 17% (1)       | 0% (0)               | 17% (1)                    |
 
 ## Ratings
 ![](plots/rating_vs_game_number.png)
@@ -38,8 +38,8 @@ Last updated 2021-09-25 05:24 UTC.
 | :---:    | :---:      | :---:       | :---                                                                                                         |
 | 22       | 2021-09-06 | 6           | 1st Jess 10 , 2nd Wendy 9 , 3rd Sean 8 , 4th Alex 6 , 4th Laura 6 , 4th Scott 6                              |
 | 21       | 2021-09-04 | 6           | 1st Jay 10 , 2nd Alex 9 , 2nd Jess 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7                                |
-| 20       | 2021-01-18 | 8           | 1st Rachel 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Mic 6 , 4th Wendy 6 , 5th Sean 5 , 6th Eftychi 4 , 7th Scott 3 |
-| 19       | 2021-01-18 | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
+| 20       | 2021-01-18 | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
+| 19       | 2021-01-18 | 8           | 1st Rachel 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Mic 6 , 4th Wendy 6 , 5th Sean 5 , 6th Eftychi 4 , 7th Scott 3 |
 | 18       | 2020-09-04 | 5           | 1st Sean 10 , 2nd Wendy 6 , 3rd Alex 4 , 3rd Mic 4 , 4th Jess 3                                              |
 | 17       | 2020-09-04 | 7           | 1st Rachel 10 , 2nd Scott 9 , 3rd Alex 8 , 3rd Sean 8 , 4th Jess 7 , 5th Wendy 6 , 6th Mic 5                 |
 | 16       | 2020-08-07 | 7           | 1st Rachel 10 , 2nd Jess 8 , 2nd Scott 8 , 3rd Alex 7 , 3rd Mic 7 , 4th Sean 6 , 4th Wendy 6                 |
@@ -86,8 +86,8 @@ Last updated 2021-09-25 05:24 UTC.
 ### Game History: 7-8 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                                                                                  |
 | :---:    | :---:      | :---:       | :---                                                                                                         |
-| 6        | 2021-01-18 | 8           | 1st Rachel 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Mic 6 , 4th Wendy 6 , 5th Sean 5 , 6th Eftychi 4 , 7th Scott 3 |
-| 5        | 2021-01-18 | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
+| 6        | 2021-01-18 | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
+| 5        | 2021-01-18 | 8           | 1st Rachel 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Mic 6 , 4th Wendy 6 , 5th Sean 5 , 6th Eftychi 4 , 7th Scott 3 |
 | 4        | 2020-09-04 | 7           | 1st Rachel 10 , 2nd Scott 9 , 3rd Alex 8 , 3rd Sean 8 , 4th Jess 7 , 5th Wendy 6 , 6th Mic 5                 |
 | 3        | 2020-08-07 | 7           | 1st Rachel 10 , 2nd Jess 8 , 2nd Scott 8 , 3rd Alex 7 , 3rd Mic 7 , 4th Sean 6 , 4th Wendy 6                 |
 | 2        | 2020-07-04 | 8           | 1st Jay 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7 , 3rd Mic 7 , 4th Jess 6 , 4th Eftychi 6    |
