@@ -1,5 +1,5 @@
 # Alex
-Last updated 2021-09-25 05:24 UTC.
+Last updated 2021-10-16 02:50 UTC.
 
 [Go back to all players.](../README.md)
 
@@ -9,7 +9,7 @@ Last updated 2021-09-25 05:24 UTC.
 | All Games        | 55        | 1074           | 7.78           | 25% (14)      | 35% (19)      | 24% (13)      | 60% (33)             | 84% (46)                   |
 | 3-4 Player Games | 12        | 1081           | 9.08           | 58% (7)       | 17% (2)       | 25% (3)       | 75% (9)              | 100% (12)                  |
 | 5-6 Player Games | 37        | 1036           | 7.32           | 16% (6)       | 41% (15)      | 22% (8)       | 57% (21)             | 78% (29)                   |
-| 7-8 Player Games | 6         | 1036           | 8.00           | 17% (1)       | 33% (2)       | 33% (2)       | 50% (3)              | 83% (5)                    |
+| 7-8 Player Games | 6         | 1041           | 8.00           | 17% (1)       | 33% (2)       | 33% (2)       | 50% (3)              | 83% (5)                    |
 
 ## Ratings
 ![](plots/rating_vs_game_number.png)
@@ -38,8 +38,8 @@ Last updated 2021-09-25 05:24 UTC.
 | :---:    | :---:      | :---:       | :---                                                                                                         |
 | 55       | 2021-09-06 | 6           | 1st Jess 10 , 2nd Wendy 9 , 3rd Sean 8 , 4th Alex 6 , 4th Laura 6 , 4th Scott 6                              |
 | 54       | 2021-09-04 | 6           | 1st Jay 10 , 2nd Alex 9 , 2nd Jess 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7                                |
-| 53       | 2021-01-18 | 8           | 1st Rachel 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Mic 6 , 4th Wendy 6 , 5th Sean 5 , 6th Eftychi 4 , 7th Scott 3 |
-| 52       | 2021-01-18 | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
+| 53       | 2021-01-18 | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
+| 52       | 2021-01-18 | 8           | 1st Rachel 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Mic 6 , 4th Wendy 6 , 5th Sean 5 , 6th Eftychi 4 , 7th Scott 3 |
 | 51       | 2020-10-18 | 4           | 1st Phil 10 , 2nd Mic 8 , 3rd Alex 7 , 4th Rachel 6                                                          |
 | 50       | 2020-10-18 | 3           | 1st Alex 10 , 2nd Rachel 9 , 3rd Phil 5                                                                      |
 | 49       | 2020-10-16 | 5           | 1st Alex 10 , 2nd Mic 10 , 3rd Jess 9 , 4th Scott 8 , 5th Laura 6                                            |
@@ -152,8 +152,8 @@ Last updated 2021-09-25 05:24 UTC.
 ### Game History: 7-8 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                                                                                  |
 | :---:    | :---:      | :---:       | :---                                                                                                         |
-| 6        | 2021-01-18 | 8           | 1st Rachel 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Mic 6 , 4th Wendy 6 , 5th Sean 5 , 6th Eftychi 4 , 7th Scott 3 |
-| 5        | 2021-01-18 | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
+| 6        | 2021-01-18 | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
+| 5        | 2021-01-18 | 8           | 1st Rachel 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Mic 6 , 4th Wendy 6 , 5th Sean 5 , 6th Eftychi 4 , 7th Scott 3 |
 | 4        | 2020-09-04 | 7           | 1st Rachel 10 , 2nd Scott 9 , 3rd Alex 8 , 3rd Sean 8 , 4th Jess 7 , 5th Wendy 6 , 6th Mic 5                 |
 | 3        | 2020-08-07 | 7           | 1st Rachel 10 , 2nd Jess 8 , 2nd Scott 8 , 3rd Alex 7 , 3rd Mic 7 , 4th Sean 6 , 4th Wendy 6                 |
 | 2        | 2020-07-04 | 8           | 1st Jay 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7 , 3rd Mic 7 , 4th Jess 6 , 4th Eftychi 6    |
