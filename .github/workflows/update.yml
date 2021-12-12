@@ -25,7 +25,7 @@ jobs:
     - name: cleanup generator
       run: rm -rf generator
     - name: commit leaderboard files
-      uses: EndBug/add-and-commit@master
+      uses: EndBug/add-and-commit@main
       with:
         add: "--all"
         message: "Update leaderboard."
