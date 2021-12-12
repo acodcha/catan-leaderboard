@@ -1,14 +1,14 @@
 # Wendy
-Last updated 2021-10-16 04:26 UTC.
+Last updated 2021-12-12 00:54 UTC.
 
 [Go back to all players.](../README.md)
 
 ## Overview
 | **Category**     | **Games** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** | **1st or 2nd Place** | **1st, 2nd, or 3rd Place** |
 | :---:            | :---:     | :---:          | :---:          | :---:         | :---:         | :---:         | :---:                | :---:                      |
-| All Games        | 22        | 940            | 5.95           | 0% (0)        | 18% (4)       | 36% (8)       | 18% (4)              | 55% (12)                   |
+| All Games        | 23        | 940            | 5.96           | 0% (0)        | 22% (5)       | 35% (8)       | 22% (5)              | 57% (13)                   |
 | 3-4 Player Games | 1         | 968            | 4.00           | 0% (0)        | 0% (0)        | 100% (1)      | 0% (0)               | 100% (1)                   |
-| 5-6 Player Games | 15        | 957            | 6.07           | 0% (0)        | 27% (4)       | 40% (6)       | 27% (4)              | 67% (10)                   |
+| 5-6 Player Games | 16        | 959            | 6.06           | 0% (0)        | 31% (5)       | 38% (6)       | 31% (5)              | 69% (11)                   |
 | 7-8 Player Games | 6         | 969            | 6.00           | 0% (0)        | 0% (0)        | 17% (1)       | 0% (0)               | 17% (1)                    |
 
 ## Ratings
@@ -36,6 +36,7 @@ Last updated 2021-10-16 04:26 UTC.
 ### Game History: All Games
 | **Game** | **Date**   | **Players** | **Results**                                                                                                  |
 | :---:    | :---:      | :---:       | :---                                                                                                         |
+| 23       | 2021-12-11 | 6           | 1st Alex 10 , 2nd Rachel 6 , 2nd Wendy 6 , 2nd Scott 6 , 2nd Eftychi 6 , 2nd Mic 6                           |
 | 22       | 2021-09-06 | 6           | 1st Jess 10 , 2nd Wendy 9 , 3rd Sean 8 , 4th Alex 6 , 4th Laura 6 , 4th Scott 6                              |
 | 21       | 2021-09-04 | 6           | 1st Jay 10 , 2nd Alex 9 , 2nd Jess 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7                                |
 | 20       | 2021-01-18 | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
@@ -67,6 +68,7 @@ Last updated 2021-10-16 04:26 UTC.
 ### Game History: 5-6 Player Games
 | **Game** | **Date**   | **Players** | **Results**                                                                          |
 | :---:    | :---:      | :---:       | :---                                                                                 |
+| 16       | 2021-12-11 | 6           | 1st Alex 10 , 2nd Rachel 6 , 2nd Wendy 6 , 2nd Scott 6 , 2nd Eftychi 6 , 2nd Mic 6   |
 | 15       | 2021-09-06 | 6           | 1st Jess 10 , 2nd Wendy 9 , 3rd Sean 8 , 4th Alex 6 , 4th Laura 6 , 4th Scott 6      |
 | 14       | 2021-09-04 | 6           | 1st Jay 10 , 2nd Alex 9 , 2nd Jess 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7        |
 | 13       | 2020-09-04 | 5           | 1st Sean 10 , 2nd Wendy 6 , 3rd Alex 4 , 3rd Mic 4 , 4th Jess 3                      |
