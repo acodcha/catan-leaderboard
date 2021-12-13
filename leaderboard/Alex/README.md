@@ -1,5 +1,5 @@
 # Alex
-Last updated 2021-12-13 03:22 UTC.
+Last updated 2021-12-13 07:04 UTC.
 
 [Go back to all players.](../README.md)
 
@@ -36,7 +36,7 @@ Last updated 2021-12-13 03:22 UTC.
 ### Game History: All Games
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                                                                                  |
 | :---:    | :---:      | :---:      | :---:       | :---                                                                                                         |
-| 56       | 2021-12-11 | 10         | 6           | 1st Alex 10 , 2nd Rachel 6 , 2nd Wendy 6 , 2nd Scott 6 , 2nd Eftychi 6 , 2nd Mic 6                           |
+| 56       | 2021-12-11 | 10         | 6           | 1st Alex 10 , 2nd Mic 6 , 2nd Scott 6 , 2nd Rachel 6 , 2nd Wendy 6 , 2nd Eftychi 6                           |
 | 55       | 2021-09-06 | 10         | 6           | 1st Jess 10 , 2nd Wendy 9 , 3rd Sean 8 , 4th Alex 6 , 4th Laura 6 , 4th Scott 6                              |
 | 54       | 2021-09-04 | 10         | 6           | 1st Jay 10 , 2nd Alex 9 , 2nd Jess 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7                                |
 | 53       | 2021-01-18 | 10         | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
@@ -112,7 +112,7 @@ Last updated 2021-12-13 03:22 UTC.
 ### Game History: 5-6 Player Games
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                                                          |
 | :---:    | :---:      | :---:      | :---:       | :---                                                                                 |
-| 38       | 2021-12-11 | 10         | 6           | 1st Alex 10 , 2nd Rachel 6 , 2nd Wendy 6 , 2nd Scott 6 , 2nd Eftychi 6 , 2nd Mic 6   |
+| 38       | 2021-12-11 | 10         | 6           | 1st Alex 10 , 2nd Mic 6 , 2nd Scott 6 , 2nd Rachel 6 , 2nd Wendy 6 , 2nd Eftychi 6   |
 | 37       | 2021-09-06 | 10         | 6           | 1st Jess 10 , 2nd Wendy 9 , 3rd Sean 8 , 4th Alex 6 , 4th Laura 6 , 4th Scott 6      |
 | 36       | 2021-09-04 | 10         | 6           | 1st Jay 10 , 2nd Alex 9 , 2nd Jess 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7        |
 | 35       | 2020-10-16 | 10         | 5           | 1st Alex 10 , 2nd Mic 10 , 3rd Jess 9 , 4th Scott 8 , 5th Laura 6                    |

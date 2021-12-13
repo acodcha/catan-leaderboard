@@ -1,5 +1,5 @@
 # Stuart
-Last updated 2021-12-13 03:22 UTC.
+Last updated 2021-12-13 07:04 UTC.
 
 [Go back to all players.](../README.md)
 
@@ -16,12 +16,6 @@ Last updated 2021-12-13 03:22 UTC.
 ![Average Points per Game History Plot](plots/average_points_vs_game_number.png)
 
 ## Places
-
-### Places: All Games
-![Place History Plot](plots/place_percentage_vs_game_number_all_games.png)
-
-### Places: 5-6 Player Games
-![Place History Plot](plots/place_percentage_vs_game_number_5_6_player_games.png)
 
 ## Game History
 

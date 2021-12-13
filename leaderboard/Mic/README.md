@@ -1,5 +1,5 @@
 # Mic
-Last updated 2021-12-13 03:22 UTC.
+Last updated 2021-12-13 07:04 UTC.
 
 [Go back to all players.](../README.md)
 
@@ -36,7 +36,7 @@ Last updated 2021-12-13 03:22 UTC.
 ### Game History: All Games
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                                                                                  |
 | :---:    | :---:      | :---:      | :---:       | :---                                                                                                         |
-| 148      | 2021-12-11 | 10         | 6           | 1st Alex 10 , 2nd Rachel 6 , 2nd Wendy 6 , 2nd Scott 6 , 2nd Eftychi 6 , 2nd Mic 6                           |
+| 148      | 2021-12-11 | 10         | 6           | 1st Alex 10 , 2nd Mic 6 , 2nd Scott 6 , 2nd Rachel 6 , 2nd Wendy 6 , 2nd Eftychi 6                           |
 | 147      | 2021-10-14 | 10         | 5           | 1st Scott 11 , 2nd Rachel 7 , 3rd Laura 6 , 4th Jess 5 , 4th Mic 5                                           |
 | 146      | 2021-10-14 | 10         | 5           | 1st Jess 11 , 2nd Sean 6 , 2nd Scott 6 , 2nd Rachel 6 , 3rd Mic 5                                            |
 | 145      | 2021-09-24 | 10         | 3           | 1st Scott 10 , 2nd Mic 8 , 3rd Rachel 7                                                                      |
@@ -278,7 +278,7 @@ Last updated 2021-12-13 03:22 UTC.
 ### Game History: 5-6 Player Games
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                                                        |
 | :---:    | :---:      | :---:      | :---:       | :---                                                                               |
-| 56       | 2021-12-11 | 10         | 6           | 1st Alex 10 , 2nd Rachel 6 , 2nd Wendy 6 , 2nd Scott 6 , 2nd Eftychi 6 , 2nd Mic 6 |
+| 56       | 2021-12-11 | 10         | 6           | 1st Alex 10 , 2nd Mic 6 , 2nd Scott 6 , 2nd Rachel 6 , 2nd Wendy 6 , 2nd Eftychi 6 |
 | 55       | 2021-10-14 | 10         | 5           | 1st Scott 11 , 2nd Rachel 7 , 3rd Laura 6 , 4th Jess 5 , 4th Mic 5                 |
 | 54       | 2021-10-14 | 10         | 5           | 1st Jess 11 , 2nd Sean 6 , 2nd Scott 6 , 2nd Rachel 6 , 3rd Mic 5                  |
 | 53       | 2021-09-08 | 10         | 5           | 1st Rachel 10 , 2nd Mic 7 , 3rd Phil 6 , 4th Scott 5 , 5th Thompson 4              |
