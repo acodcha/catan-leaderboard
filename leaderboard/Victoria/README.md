@@ -1,39 +1,76 @@
 # Victoria
-Last updated 2021-12-13 07:04 UTC.
 
-[Go back to all players.](../README.md)
+Last updated 2021-12-26 04:36 UTC.
 
-## Overview
+- [Summary](#summary)
+- [Ratings](#ratings)
+- [Average Points](#average-points)
+- [Win Rates](#win-rates)
+- [History](#history)
+
+[(Back to Main Page)](../#)
+
+## Summary
+
 | **Category**     | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---:            | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
 | All Games        | 2         | 955                | 970            | 3.00           | 0% (0)        | 0% (0)        | 0% (0)        |
 | 5-6 Player Games | 2         | 955                | 969            | 3.00           | 0% (0)        | 0% (0)        | 0% (0)        |
 
+[(Back to Top)](#)
+
 ## Ratings
-![Rating History Plot](plots/rating_vs_game_number.png)
 
-## Average Points per Game
-![Average Points per Game History Plot](plots/average_points_vs_game_number.png)
+![Ratings History Plot](plots/rating_vs_game_number.png)
 
-## Places
+[(Back to Top)](#)
 
-### Places: All Games
-![Place History Plot](plots/place_percentage_vs_game_number_all_games.png)
+## Average Points
 
-### Places: 5-6 Player Games
-![Place History Plot](plots/place_percentage_vs_game_number_5_6_player_games.png)
+![Average Points History Plot](plots/average_points_vs_game_number.png)
 
-## Game History
+[(Back to Top)](#)
 
-### Game History: All Games
+## Win Rates
+
+![Win Rates Plot](plots/place_percentage_vs_game_number_all_games.png)
+
+[(Back to Top)](#)
+
+## History
+
+- [All Games History](#all-games-history)
+- [3-4 Player Games History](#3-4-player-games-history)
+- [5-6 Player Games History](#5-6-player-games-history)
+- [7-8 Player Games History](#7-8-player-games-history)
+
+[(Back to Top)](#)
+
+### All Games History
+
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                                                          |
 | :---:    | :---:      | :---:      | :---:       | :---                                                                                 |
 | 2        | 2017-06-10 | 10         | 6           | 1st Scott 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Wilson 6 , 5th Wendy 5 , 6th Victoria 3 |
 | 1        | 2017-06-10 | 10         | 6           | 1st Wilson 10 , 2nd Scott 6 , 3rd Alex 5 , 4th Jay 4 , 5th Victoria 3 , 6th Jess 2   |
 
-### Game History: 5-6 Player Games
+[(Back to History)](#history)
+
+### 3-4 Player Games History
+
+
+[(Back to History)](#history)
+
+### 5-6 Player Games History
+
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                                                          |
 | :---:    | :---:      | :---:      | :---:       | :---                                                                                 |
 | 2        | 2017-06-10 | 10         | 6           | 1st Scott 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Wilson 6 , 5th Wendy 5 , 6th Victoria 3 |
 | 1        | 2017-06-10 | 10         | 6           | 1st Wilson 10 , 2nd Scott 6 , 3rd Alex 5 , 4th Jay 4 , 5th Victoria 3 , 6th Jess 2   |
+
+[(Back to History)](#history)
+
+### 7-8 Player Games History
+
+
+[(Back to History)](#history)
 

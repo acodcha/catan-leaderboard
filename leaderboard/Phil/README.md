@@ -1,35 +1,54 @@
 # Phil
-Last updated 2021-12-13 07:04 UTC.
 
-[Go back to all players.](../README.md)
+Last updated 2021-12-26 04:36 UTC.
 
-## Overview
+- [Summary](#summary)
+- [Ratings](#ratings)
+- [Average Points](#average-points)
+- [Win Rates](#win-rates)
+- [History](#history)
+
+[(Back to Main Page)](../#)
+
+## Summary
+
 | **Category**     | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---:            | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
 | All Games        | 59        | 1000               | 949            | 7.02           | 14% (8)       | 41% (24)      | 37% (22)      |
 | 3-4 Player Games | 33        | 977                | 911            | 7.12           | 15% (5)       | 52% (17)      | 27% (9)       |
 | 5-6 Player Games | 26        | 1003               | 974            | 6.88           | 12% (3)       | 27% (7)       | 50% (13)      |
 
+[(Back to Top)](#)
+
 ## Ratings
-![Rating History Plot](plots/rating_vs_game_number.png)
 
-## Average Points per Game
-![Average Points per Game History Plot](plots/average_points_vs_game_number.png)
+![Ratings History Plot](plots/rating_vs_game_number.png)
 
-## Places
+[(Back to Top)](#)
 
-### Places: All Games
-![Place History Plot](plots/place_percentage_vs_game_number_all_games.png)
+## Average Points
 
-### Places: 3-4 Player Games
-![Place History Plot](plots/place_percentage_vs_game_number_3_4_player_games.png)
+![Average Points History Plot](plots/average_points_vs_game_number.png)
 
-### Places: 5-6 Player Games
-![Place History Plot](plots/place_percentage_vs_game_number_5_6_player_games.png)
+[(Back to Top)](#)
 
-## Game History
+## Win Rates
 
-### Game History: All Games
+![Win Rates Plot](plots/place_percentage_vs_game_number_all_games.png)
+
+[(Back to Top)](#)
+
+## History
+
+- [All Games History](#all-games-history)
+- [3-4 Player Games History](#3-4-player-games-history)
+- [5-6 Player Games History](#5-6-player-games-history)
+- [7-8 Player Games History](#7-8-player-games-history)
+
+[(Back to Top)](#)
+
+### All Games History
+
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                                                     |
 | :---:    | :---:      | :---:      | :---:       | :---                                                                            |
 | 59       | 2021-09-08 | 10         | 5           | 1st Rachel 10 , 2nd Mic 7 , 3rd Phil 6 , 4th Scott 5 , 5th Thompson 4           |
@@ -92,7 +111,10 @@ Last updated 2021-12-13 07:04 UTC.
 | 2        | 2020-08-05 | 10         | 6           | 1st Scott 10 , 2nd Rachel 8 , 3rd Sean 6 , 3rd Jess 6 , 3rd Mic 6 , 4th Phil 5  |
 | 1        | 2020-07-29 | 10         | 4           | 1st Scott 10 , 2nd Phil 8 , 3rd Mic 7 , 4th Rachel 6                            |
 
-### Game History: 3-4 Player Games
+[(Back to History)](#history)
+
+### 3-4 Player Games History
+
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                             |
 | :---:    | :---:      | :---:      | :---:       | :---                                                    |
 | 33       | 2021-03-12 | 10         | 4           | 1st Phil 10 , 2nd Rachel 9 , 3rd Mic 7 , 4th Thompson 4 |
@@ -129,7 +151,10 @@ Last updated 2021-12-13 07:04 UTC.
 | 2        | 2020-08-17 | 10         | 4           | 1st Jess 10 , 2nd Rachel 9 , 3rd Phil 8 , 4th Mic 3     |
 | 1        | 2020-07-29 | 10         | 4           | 1st Scott 10 , 2nd Phil 8 , 3rd Mic 7 , 4th Rachel 6    |
 
-### Game History: 5-6 Player Games
+[(Back to History)](#history)
+
+### 5-6 Player Games History
+
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                                                     |
 | :---:    | :---:      | :---:      | :---:       | :---                                                                            |
 | 26       | 2021-09-08 | 10         | 5           | 1st Rachel 10 , 2nd Mic 7 , 3rd Phil 6 , 4th Scott 5 , 5th Thompson 4           |
@@ -158,4 +183,11 @@ Last updated 2021-12-13 07:04 UTC.
 | 3        | 2020-08-11 | 10         | 5           | 1st Rachel 10 , 2nd Jess 9 , 2nd Scott 9 , 3rd Phil 6 , 4th Mic 4               |
 | 2        | 2020-08-05 | 10         | 6           | 1st Scott 10 , 2nd Jess 8 , 2nd Mic 8 , 3rd Sean 7 , 3rd Phil 7 , 4th Alex 6    |
 | 1        | 2020-08-05 | 10         | 6           | 1st Scott 10 , 2nd Rachel 8 , 3rd Sean 6 , 3rd Jess 6 , 3rd Mic 6 , 4th Phil 5  |
+
+[(Back to History)](#history)
+
+### 7-8 Player Games History
+
+
+[(Back to History)](#history)
 
