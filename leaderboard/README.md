@@ -1,8 +1,6 @@
 # Catan Leaderboard
 
-Leaderboard for Catan games with friends! Uses https://github.com/acodcha/CatanLeaderboardGenerator to generate the leaderboard. Last updated 2021-12-26 04:36 UTC.
-
-If you wish to participate in updating the leaderboard, contact me and I will add you as a collaborator to this project. As a collaborator, to update the leaderboard with new games, simply edit the `games.txt` file and make a pull request. The build system will automatically generate an updated leaderboard. Once I accept and merge the pull request, the leaderboard will be updated with your changes. See https://github.com/acodcha/CatanLeaderboardGenerator for more information about the `games.txt` file.
+Last updated 2021-12-26 04:59 UTC.
 
 - [All Games](#all-games)
 - [3-4 Player Games](#3-4-player-games)
@@ -22,43 +20,43 @@ If you wish to participate in updating the leaderboard, contact me and I will ad
 
 ### All Games Summary
 
-| **Player**           | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
-| :---                 | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
-| [Alex](Alex)         | 56        | 1088               | 1075           | 7.80           | 27% (15)      | 34% (19)      | 23% (13)      |
-| [Eftychi](Eftychi)   | 15        | 914                | 935            | 5.87           | 7% (1)        | 20% (3)       | 27% (4)       |
-| [Jay](Jay)           | 15        | 1127               | 1085           | 8.00           | 47% (7)       | 20% (3)       | 20% (3)       |
-| [Jess](Jess)         | 117       | 1072               | 1098           | 7.97           | 36% (42)      | 33% (39)      | 21% (24)      |
-| [Laura](Laura)       | 36        | 1008               | 923            | 6.78           | 28% (10)      | 11% (4)       | 25% (9)       |
-| [Mic](Mic)           | 148       | 968                | 927            | 6.76           | 9% (14)       | 36% (53)      | 34% (51)      |
-| [PA](PA)             | 2         | 1046               | 1038           | 9.50           | 50% (1)       | 50% (1)       | 0% (0)        |
-| [Phil](Phil)         | 59        | 1000               | 949            | 7.02           | 14% (8)       | 41% (24)      | 37% (22)      |
-| [Rachel](Rachel)     | 150       | 1011               | 1003           | 7.49           | 29% (44)      | 28% (42)      | 27% (41)      |
-| [Scott](Scott)       | 126       | 1010               | 1049           | 7.67           | 26% (33)      | 36% (45)      | 23% (29)      |
-| [Sean](Sean)         | 51        | 1031               | 992            | 7.37           | 14% (7)       | 37% (19)      | 25% (13)      |
-| [Stuart](Stuart)     | 1         | 1011               | 1011           | 9.00           | 0% (0)        | 100% (1)      | 0% (0)        |
-| [Thompson](Thompson) | 5         | 870                | 920            | 4.20           | 0% (0)        | 0% (0)        | 20% (1)       |
-| [Valerie](Valerie)   | 3         | 978                | 963            | 6.67           | 33% (1)       | 0% (0)        | 33% (1)       |
-| [Victoria](Victoria) | 2         | 955                | 970            | 3.00           | 0% (0)        | 0% (0)        | 0% (0)        |
-| [Wendy](Wendy)       | 23        | 945                | 940            | 5.96           | 0% (0)        | 22% (5)       | 35% (8)       |
-| [Wilson](Wilson)     | 7         | 975                | 1012           | 6.86           | 14% (1)       | 29% (2)       | 29% (2)       |
+| **Player**                   | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
+| :---                         | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
+| [Alex](players/Alex)         | 56        | 1088               | 1075           | 7.80           | 27% (15)      | 34% (19)      | 23% (13)      |
+| [Eftychi](players/Eftychi)   | 15        | 914                | 935            | 5.87           | 7% (1)        | 20% (3)       | 27% (4)       |
+| [Jay](players/Jay)           | 15        | 1127               | 1085           | 8.00           | 47% (7)       | 20% (3)       | 20% (3)       |
+| [Jess](players/Jess)         | 117       | 1072               | 1098           | 7.97           | 36% (42)      | 33% (39)      | 21% (24)      |
+| [Laura](players/Laura)       | 36        | 1008               | 923            | 6.78           | 28% (10)      | 11% (4)       | 25% (9)       |
+| [Mic](players/Mic)           | 148       | 968                | 927            | 6.76           | 9% (14)       | 36% (53)      | 34% (51)      |
+| [PA](players/PA)             | 2         | 1046               | 1038           | 9.50           | 50% (1)       | 50% (1)       | 0% (0)        |
+| [Phil](players/Phil)         | 59        | 1000               | 949            | 7.02           | 14% (8)       | 41% (24)      | 37% (22)      |
+| [Rachel](players/Rachel)     | 150       | 1011               | 1003           | 7.49           | 29% (44)      | 28% (42)      | 27% (41)      |
+| [Scott](players/Scott)       | 126       | 1010               | 1049           | 7.67           | 26% (33)      | 36% (45)      | 23% (29)      |
+| [Sean](players/Sean)         | 51        | 1031               | 992            | 7.37           | 14% (7)       | 37% (19)      | 25% (13)      |
+| [Stuart](players/Stuart)     | 1         | 1011               | 1011           | 9.00           | 0% (0)        | 100% (1)      | 0% (0)        |
+| [Thompson](players/Thompson) | 5         | 870                | 920            | 4.20           | 0% (0)        | 0% (0)        | 20% (1)       |
+| [Valerie](players/Valerie)   | 3         | 978                | 963            | 6.67           | 33% (1)       | 0% (0)        | 33% (1)       |
+| [Victoria](players/Victoria) | 2         | 955                | 970            | 3.00           | 0% (0)        | 0% (0)        | 0% (0)        |
+| [Wendy](players/Wendy)       | 23        | 945                | 940            | 5.96           | 0% (0)        | 22% (5)       | 35% (8)       |
+| [Wilson](players/Wilson)     | 7         | 975                | 1012           | 6.86           | 14% (1)       | 29% (2)       | 29% (2)       |
 
 [(Back to All Games)](#all-games)
 
 ### All Games Ratings
 
-![Ratings History Plot](_plots/all_games_rating_vs_game_number.png)
+![Ratings History Plot](plots/all_games_rating_vs_game_number.png)
 
 [(Back to All Games)](#all-games)
 
 ### All Games Average Points
 
-![Average Points History Plot](_plots/all_games_average_points_vs_game_number.png)
+![Average Points History Plot](plots/all_games_average_points_vs_game_number.png)
 
 [(Back to All Games)](#all-games)
 
 ### All Games Win Rates
 
-![1st Place History Plot](_plots/all_games_1st_place_percentage_vs_game_number.png)
+![1st Place History Plot](plots/all_games_1st_place_percentage_vs_game_number.png)
 
 [(Back to All Games)](#all-games)
 
@@ -265,39 +263,39 @@ If you wish to participate in updating the leaderboard, contact me and I will ad
 
 ### 3-4 Player Games Summary
 
-| **Player**           | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
-| :---                 | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
-| [Alex](Alex)         | 12        | 1096               | 1081           | 9.00           | 58% (7)       | 17% (2)       | 25% (3)       |
-| [Eftychi](Eftychi)   | 3         | 973                | 994            | 7.00           | 0% (0)        | 33% (1)       | 67% (2)       |
-| [Jess](Jess)         | 46        | 1037               | 1090           | 8.09           | 46% (21)      | 33% (15)      | 20% (9)       |
-| [Laura](Laura)       | 22        | 1047               | 988            | 7.64           | 45% (10)      | 18% (4)       | 18% (4)       |
-| [Mic](Mic)           | 86        | 1025               | 911            | 6.87           | 10% (9)       | 44% (38)      | 38% (33)      |
-| [Phil](Phil)         | 33        | 977                | 911            | 7.12           | 15% (5)       | 52% (17)      | 27% (9)       |
-| [Rachel](Rachel)     | 90        | 971                | 990            | 7.69           | 32% (29)      | 32% (29)      | 28% (25)      |
-| [Scott](Scott)       | 51        | 1035               | 1069           | 8.08           | 33% (17)      | 49% (25)      | 14% (7)       |
-| [Sean](Sean)         | 16        | 990                | 971            | 7.19           | 25% (4)       | 38% (6)       | 19% (3)       |
-| [Thompson](Thompson) | 2         | 943                | 959            | 5.00           | 0% (0)        | 0% (0)        | 50% (1)       |
-| [Valerie](Valerie)   | 3         | 971                | 959            | 6.67           | 33% (1)       | 0% (0)        | 33% (1)       |
-| [Wendy](Wendy)       | 1         | 968                | 968            | 4.00           | 0% (0)        | 0% (0)        | 100% (1)      |
-| [Wilson](Wilson)     | 3         | 974                | 998            | 6.00           | 0% (0)        | 67% (2)       | 0% (0)        |
+| **Player**                   | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
+| :---                         | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
+| [Alex](players/Alex)         | 12        | 1096               | 1081           | 9.00           | 58% (7)       | 17% (2)       | 25% (3)       |
+| [Eftychi](players/Eftychi)   | 3         | 973                | 994            | 7.00           | 0% (0)        | 33% (1)       | 67% (2)       |
+| [Jess](players/Jess)         | 46        | 1037               | 1090           | 8.09           | 46% (21)      | 33% (15)      | 20% (9)       |
+| [Laura](players/Laura)       | 22        | 1047               | 988            | 7.64           | 45% (10)      | 18% (4)       | 18% (4)       |
+| [Mic](players/Mic)           | 86        | 1025               | 911            | 6.87           | 10% (9)       | 44% (38)      | 38% (33)      |
+| [Phil](players/Phil)         | 33        | 977                | 911            | 7.12           | 15% (5)       | 52% (17)      | 27% (9)       |
+| [Rachel](players/Rachel)     | 90        | 971                | 990            | 7.69           | 32% (29)      | 32% (29)      | 28% (25)      |
+| [Scott](players/Scott)       | 51        | 1035               | 1069           | 8.08           | 33% (17)      | 49% (25)      | 14% (7)       |
+| [Sean](players/Sean)         | 16        | 990                | 971            | 7.19           | 25% (4)       | 38% (6)       | 19% (3)       |
+| [Thompson](players/Thompson) | 2         | 943                | 959            | 5.00           | 0% (0)        | 0% (0)        | 50% (1)       |
+| [Valerie](players/Valerie)   | 3         | 971                | 959            | 6.67           | 33% (1)       | 0% (0)        | 33% (1)       |
+| [Wendy](players/Wendy)       | 1         | 968                | 968            | 4.00           | 0% (0)        | 0% (0)        | 100% (1)      |
+| [Wilson](players/Wilson)     | 3         | 974                | 998            | 6.00           | 0% (0)        | 67% (2)       | 0% (0)        |
 
 [(Back to 3-4 Player Games)](#3-4-player-games)
 
 ### 3-4 Player Games Ratings
 
-![Ratings History Plot](_plots/3_4_player_games_rating_vs_game_number.png)
+![Ratings History Plot](plots/3_4_player_games_rating_vs_game_number.png)
 
 [(Back to 3-4 Player Games)](#3-4-player-games)
 
 ### 3-4 Player Games Average Points
 
-![Average Points History Plot](_plots/3_4_player_games_average_points_vs_game_number.png)
+![Average Points History Plot](plots/3_4_player_games_average_points_vs_game_number.png)
 
 [(Back to 3-4 Player Games)](#3-4-player-games)
 
 ### 3-4 Player Games Win Rates
 
-![1st Place History Plot](_plots/3_4_player_games_1st_place_percentage_vs_game_number.png)
+![1st Place History Plot](plots/3_4_player_games_1st_place_percentage_vs_game_number.png)
 
 [(Back to 3-4 Player Games)](#3-4-player-games)
 
@@ -423,42 +421,42 @@ If you wish to participate in updating the leaderboard, contact me and I will ad
 
 ### 5-6 Player Games Summary
 
-| **Player**           | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
-| :---                 | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
-| [Alex](Alex)         | 38        | 1078               | 1038           | 7.39           | 18% (7)       | 39% (15)      | 21% (8)       |
-| [Eftychi](Eftychi)   | 8         | 921                | 959            | 5.38           | 0% (0)        | 25% (2)       | 25% (2)       |
-| [Jay](Jay)           | 13        | 1133               | 1085           | 8.15           | 46% (6)       | 23% (3)       | 23% (3)       |
-| [Jess](Jess)         | 65        | 1104               | 1088           | 7.97           | 32% (21)      | 34% (22)      | 22% (14)      |
-| [Laura](Laura)       | 14        | 847                | 874            | 5.43           | 0% (0)        | 0% (0)        | 36% (5)       |
-| [Mic](Mic)           | 56        | 937                | 942            | 6.71           | 9% (5)        | 27% (15)      | 29% (16)      |
-| [PA](PA)             | 2         | 1046               | 1039           | 9.50           | 50% (1)       | 50% (1)       | 0% (0)        |
-| [Phil](Phil)         | 26        | 1003               | 974            | 6.88           | 12% (3)       | 27% (7)       | 50% (13)      |
-| [Rachel](Rachel)     | 55        | 1044               | 983            | 7.04           | 22% (12)      | 22% (12)      | 29% (16)      |
-| [Scott](Scott)       | 69        | 1007               | 1020           | 7.42           | 23% (16)      | 26% (18)      | 28% (19)      |
-| [Sean](Sean)         | 30        | 1022               | 1001           | 7.50           | 10% (3)       | 40% (12)      | 27% (8)       |
-| [Stuart](Stuart)     | 1         | 1010               | 1010           | 9.00           | 0% (0)        | 100% (1)      | 0% (0)        |
-| [Thompson](Thompson) | 3         | 914                | 941            | 3.67           | 0% (0)        | 0% (0)        | 0% (0)        |
-| [Victoria](Victoria) | 2         | 955                | 969            | 3.00           | 0% (0)        | 0% (0)        | 0% (0)        |
-| [Wendy](Wendy)       | 16        | 986                | 959            | 6.06           | 0% (0)        | 31% (5)       | 38% (6)       |
-| [Wilson](Wilson)     | 4         | 999                | 1016           | 7.50           | 25% (1)       | 0% (0)        | 50% (2)       |
+| **Player**                   | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
+| :---                         | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
+| [Alex](players/Alex)         | 38        | 1078               | 1038           | 7.39           | 18% (7)       | 39% (15)      | 21% (8)       |
+| [Eftychi](players/Eftychi)   | 8         | 921                | 959            | 5.38           | 0% (0)        | 25% (2)       | 25% (2)       |
+| [Jay](players/Jay)           | 13        | 1133               | 1085           | 8.15           | 46% (6)       | 23% (3)       | 23% (3)       |
+| [Jess](players/Jess)         | 65        | 1104               | 1088           | 7.97           | 32% (21)      | 34% (22)      | 22% (14)      |
+| [Laura](players/Laura)       | 14        | 847                | 874            | 5.43           | 0% (0)        | 0% (0)        | 36% (5)       |
+| [Mic](players/Mic)           | 56        | 937                | 942            | 6.71           | 9% (5)        | 27% (15)      | 29% (16)      |
+| [PA](players/PA)             | 2         | 1046               | 1039           | 9.50           | 50% (1)       | 50% (1)       | 0% (0)        |
+| [Phil](players/Phil)         | 26        | 1003               | 974            | 6.88           | 12% (3)       | 27% (7)       | 50% (13)      |
+| [Rachel](players/Rachel)     | 55        | 1044               | 983            | 7.04           | 22% (12)      | 22% (12)      | 29% (16)      |
+| [Scott](players/Scott)       | 69        | 1007               | 1020           | 7.42           | 23% (16)      | 26% (18)      | 28% (19)      |
+| [Sean](players/Sean)         | 30        | 1022               | 1001           | 7.50           | 10% (3)       | 40% (12)      | 27% (8)       |
+| [Stuart](players/Stuart)     | 1         | 1010               | 1010           | 9.00           | 0% (0)        | 100% (1)      | 0% (0)        |
+| [Thompson](players/Thompson) | 3         | 914                | 941            | 3.67           | 0% (0)        | 0% (0)        | 0% (0)        |
+| [Victoria](players/Victoria) | 2         | 955                | 969            | 3.00           | 0% (0)        | 0% (0)        | 0% (0)        |
+| [Wendy](players/Wendy)       | 16        | 986                | 959            | 6.06           | 0% (0)        | 31% (5)       | 38% (6)       |
+| [Wilson](players/Wilson)     | 4         | 999                | 1016           | 7.50           | 25% (1)       | 0% (0)        | 50% (2)       |
 
 [(Back to 5-6 Player Games)](#5-6-player-games)
 
 ### 5-6 Player Games Ratings
 
-![Ratings History Plot](_plots/5_6_player_games_rating_vs_game_number.png)
+![Ratings History Plot](plots/5_6_player_games_rating_vs_game_number.png)
 
 [(Back to 5-6 Player Games)](#5-6-player-games)
 
 ### 5-6 Player Games Average Points
 
-![Average Points History Plot](_plots/5_6_player_games_average_points_vs_game_number.png)
+![Average Points History Plot](plots/5_6_player_games_average_points_vs_game_number.png)
 
 [(Back to 5-6 Player Games)](#5-6-player-games)
 
 ### 5-6 Player Games Win Rates
 
-![1st Place History Plot](_plots/5_6_player_games_1st_place_percentage_vs_game_number.png)
+![1st Place History Plot](plots/5_6_player_games_1st_place_percentage_vs_game_number.png)
 
 [(Back to 5-6 Player Games)](#5-6-player-games)
 
@@ -556,35 +554,35 @@ If you wish to participate in updating the leaderboard, contact me and I will ad
 
 ### 7-8 Player Games Summary
 
-| **Player**         | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
-| :---               | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
-| [Alex](Alex)       | 6         | 1038               | 1041           | 8.00           | 17% (1)       | 33% (2)       | 33% (2)       |
-| [Eftychi](Eftychi) | 4         | 973                | 960            | 6.00           | 25% (1)       | 0% (0)        | 0% (0)        |
-| [Jay](Jay)         | 2         | 1011               | 994            | 7.00           | 50% (1)       | 0% (0)        | 0% (0)        |
-| [Jess](Jess)       | 6         | 1020               | 994            | 7.17           | 0% (0)        | 33% (2)       | 17% (1)       |
-| [Mic](Mic)         | 6         | 930                | 959            | 5.67           | 0% (0)        | 0% (0)        | 33% (2)       |
-| [Rachel](Rachel)   | 5         | 1086               | 1068           | 9.00           | 60% (3)       | 20% (1)       | 0% (0)        |
-| [Scott](Scott)     | 6         | 1014               | 1017           | 7.00           | 0% (0)        | 33% (2)       | 50% (3)       |
-| [Sean](Sean)       | 5         | 995                | 997            | 7.20           | 0% (0)        | 20% (1)       | 40% (2)       |
-| [Wendy](Wendy)     | 6         | 936                | 969            | 6.00           | 0% (0)        | 0% (0)        | 17% (1)       |
+| **Player**                 | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
+| :---                       | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
+| [Alex](players/Alex)       | 6         | 1038               | 1041           | 8.00           | 17% (1)       | 33% (2)       | 33% (2)       |
+| [Eftychi](players/Eftychi) | 4         | 973                | 960            | 6.00           | 25% (1)       | 0% (0)        | 0% (0)        |
+| [Jay](players/Jay)         | 2         | 1011               | 994            | 7.00           | 50% (1)       | 0% (0)        | 0% (0)        |
+| [Jess](players/Jess)       | 6         | 1020               | 994            | 7.17           | 0% (0)        | 33% (2)       | 17% (1)       |
+| [Mic](players/Mic)         | 6         | 930                | 959            | 5.67           | 0% (0)        | 0% (0)        | 33% (2)       |
+| [Rachel](players/Rachel)   | 5         | 1086               | 1068           | 9.00           | 60% (3)       | 20% (1)       | 0% (0)        |
+| [Scott](players/Scott)     | 6         | 1014               | 1017           | 7.00           | 0% (0)        | 33% (2)       | 50% (3)       |
+| [Sean](players/Sean)       | 5         | 995                | 997            | 7.20           | 0% (0)        | 20% (1)       | 40% (2)       |
+| [Wendy](players/Wendy)     | 6         | 936                | 969            | 6.00           | 0% (0)        | 0% (0)        | 17% (1)       |
 
 [(Back to 7-8 Player Games)](#7-8-player-games)
 
 ### 7-8 Player Games Ratings
 
-![Ratings History Plot](_plots/7_8_player_games_rating_vs_game_number.png)
+![Ratings History Plot](plots/7_8_player_games_rating_vs_game_number.png)
 
 [(Back to 7-8 Player Games)](#7-8-player-games)
 
 ### 7-8 Player Games Average Points
 
-![Average Points History Plot](_plots/7_8_player_games_average_points_vs_game_number.png)
+![Average Points History Plot](plots/7_8_player_games_average_points_vs_game_number.png)
 
 [(Back to 7-8 Player Games)](#7-8-player-games)
 
 ### 7-8 Player Games Win Rates
 
-![1st Place History Plot](_plots/7_8_player_games_1st_place_percentage_vs_game_number.png)
+![1st Place History Plot](plots/7_8_player_games_1st_place_percentage_vs_game_number.png)
 
 [(Back to 7-8 Player Games)](#7-8-player-games)
 
