@@ -1,9 +1,17 @@
 # Scott
-Last updated 2021-12-13 07:04 UTC.
 
-[Go back to all players.](../README.md)
+Last updated 2021-12-26 04:36 UTC.
 
-## Overview
+- [Summary](#summary)
+- [Ratings](#ratings)
+- [Average Points](#average-points)
+- [Win Rates](#win-rates)
+- [History](#history)
+
+[(Back to Main Page)](../#)
+
+## Summary
+
 | **Category**     | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---:            | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
 | All Games        | 126       | 1010               | 1049           | 7.67           | 26% (33)      | 36% (45)      | 23% (29)      |
@@ -11,29 +19,37 @@ Last updated 2021-12-13 07:04 UTC.
 | 5-6 Player Games | 69        | 1007               | 1020           | 7.42           | 23% (16)      | 26% (18)      | 28% (19)      |
 | 7-8 Player Games | 6         | 1014               | 1017           | 7.00           | 0% (0)        | 33% (2)       | 50% (3)       |
 
+[(Back to Top)](#)
+
 ## Ratings
-![Rating History Plot](plots/rating_vs_game_number.png)
 
-## Average Points per Game
-![Average Points per Game History Plot](plots/average_points_vs_game_number.png)
+![Ratings History Plot](plots/rating_vs_game_number.png)
 
-## Places
+[(Back to Top)](#)
 
-### Places: All Games
-![Place History Plot](plots/place_percentage_vs_game_number_all_games.png)
+## Average Points
 
-### Places: 3-4 Player Games
-![Place History Plot](plots/place_percentage_vs_game_number_3_4_player_games.png)
+![Average Points History Plot](plots/average_points_vs_game_number.png)
 
-### Places: 5-6 Player Games
-![Place History Plot](plots/place_percentage_vs_game_number_5_6_player_games.png)
+[(Back to Top)](#)
 
-### Places: 7-8 Player Games
-![Place History Plot](plots/place_percentage_vs_game_number_7_8_player_games.png)
+## Win Rates
 
-## Game History
+![Win Rates Plot](plots/place_percentage_vs_game_number_all_games.png)
 
-### Game History: All Games
+[(Back to Top)](#)
+
+## History
+
+- [All Games History](#all-games-history)
+- [3-4 Player Games History](#3-4-player-games-history)
+- [5-6 Player Games History](#5-6-player-games-history)
+- [7-8 Player Games History](#7-8-player-games-history)
+
+[(Back to Top)](#)
+
+### All Games History
+
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                                                                                  |
 | :---:    | :---:      | :---:      | :---:       | :---                                                                                                         |
 | 126      | 2021-12-11 | 10         | 6           | 1st Alex 10 , 2nd Mic 6 , 2nd Scott 6 , 2nd Rachel 6 , 2nd Wendy 6 , 2nd Eftychi 6                           |
@@ -163,7 +179,10 @@ Last updated 2021-12-13 07:04 UTC.
 | 2        | 2017-03-31 | 10         | 6           | 1st Jay 10 , 2nd Scott 9 , 3rd Alex 7 , 3rd Wendy 7 , 4th Sean 6 , 5th Rachel 5                              |
 | 1        | 2017-03-17 | 10         | 6           | 1st Jess 10 , 2nd Jay 8 , 3rd Alex 7 , 3rd Sean 7 , 4th Scott 6 , 5th Wendy 5                                |
 
-### Game History: 3-4 Player Games
+[(Back to History)](#history)
+
+### 3-4 Player Games History
+
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                              |
 | :---:    | :---:      | :---:      | :---:       | :---                                                     |
 | 51       | 2021-10-05 | 10         | 3           | 1st Rachel 10 , 2nd Scott 8 , 3rd Jess 6                 |
@@ -218,7 +237,10 @@ Last updated 2021-12-13 07:04 UTC.
 | 2        | 2020-06-13 | 10         | 4           | 1st Jess 10 , 2nd Alex 9 , 2nd Rachel 9 , 3rd Scott 7    |
 | 1        | 2019-09-22 | 10         | 4           | 1st Alex 10 , 2nd Sean 6 , 2nd Scott 6 , 3rd Wendy 4     |
 
-### Game History: 5-6 Player Games
+[(Back to History)](#history)
+
+### 5-6 Player Games History
+
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                                                          |
 | :---:    | :---:      | :---:      | :---:       | :---                                                                                 |
 | 69       | 2021-12-11 | 10         | 6           | 1st Alex 10 , 2nd Mic 6 , 2nd Scott 6 , 2nd Rachel 6 , 2nd Wendy 6 , 2nd Eftychi 6   |
@@ -291,7 +313,10 @@ Last updated 2021-12-13 07:04 UTC.
 | 2        | 2017-03-31 | 10         | 6           | 1st Jay 10 , 2nd Scott 9 , 3rd Alex 7 , 3rd Wendy 7 , 4th Sean 6 , 5th Rachel 5      |
 | 1        | 2017-03-17 | 10         | 6           | 1st Jess 10 , 2nd Jay 8 , 3rd Alex 7 , 3rd Sean 7 , 4th Scott 6 , 5th Wendy 5        |
 
-### Game History: 7-8 Player Games
+[(Back to History)](#history)
+
+### 7-8 Player Games History
+
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                                                                                  |
 | :---:    | :---:      | :---:      | :---:       | :---                                                                                                         |
 | 6        | 2021-01-18 | 10         | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
@@ -300,4 +325,6 @@ Last updated 2021-12-13 07:04 UTC.
 | 3        | 2020-08-07 | 10         | 7           | 1st Rachel 10 , 2nd Jess 8 , 2nd Scott 8 , 3rd Alex 7 , 3rd Mic 7 , 4th Sean 6 , 4th Wendy 6                 |
 | 2        | 2020-07-04 | 10         | 8           | 1st Jay 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7 , 3rd Mic 7 , 4th Jess 6 , 4th Eftychi 6    |
 | 1        | 2020-07-04 | 10         | 8           | 1st Alex 10 , 2nd Rachel 8 , 3rd Scott 7 , 4th Jess 6 , 4th Wendy 6 , 5th Eftychi 4 , 5th Jay 4 , 5th Mic 4  |
+
+[(Back to History)](#history)
 
