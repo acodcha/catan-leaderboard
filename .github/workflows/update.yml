@@ -11,7 +11,7 @@ jobs:
     - name: install packages
       run: sudo apt-get update && sudo apt-get install -y cmake g++ git gnuplot
     - name: download generator
-      run: gh repo clone acodcha/catan-stratification generator
+      run: gh repo clone acodcha/catan-ranker generator
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: configure generator
@@ -21,7 +21,7 @@ jobs:
     - name: delete previous leaderboard
       run: rm -rf leaderboard/*
     - name: generate new leaderboard
-      run: ./generator/build/bin/catan-stratification --games games.txt --leaderboard leaderboard
+      run: ./generator/build/bin/catan-ranker --games games.txt --leaderboard leaderboard
     - name: cleanup generator
       run: rm -rf generator
     - name: commit leaderboard files
