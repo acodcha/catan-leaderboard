@@ -1,6 +1,6 @@
 # Wilson
 
-Last updated 2022-01-04 03:52 UTC.
+Last updated 2022-01-04 04:29 UTC.
 
 - [Summary](#summary)
 - [Ratings](#ratings)
@@ -15,7 +15,7 @@ Last updated 2022-01-04 03:52 UTC.
 | **Category**     | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---:            | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
 | All Games        | 7         | 975                | 1012           | 6.86           | 14% (1)       | 29% (2)       | 29% (2)       |
-| 3-4 Player Games | 3         | 975                | 998            | 6.00           | 0% (0)        | 67% (2)       | 0% (0)        |
+| 3-4 Player Games | 3         | 974                | 998            | 6.00           | 0% (0)        | 67% (2)       | 0% (0)        |
 | 5-6 Player Games | 4         | 999                | 1016           | 7.50           | 25% (1)       | 0% (0)        | 50% (2)       |
 
 [(Back to Top)](#)

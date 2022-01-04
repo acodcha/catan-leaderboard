@@ -1,6 +1,6 @@
 # Wendy
 
-Last updated 2022-01-04 03:52 UTC.
+Last updated 2022-01-04 04:29 UTC.
 
 - [Summary](#summary)
 - [Ratings](#ratings)
@@ -14,7 +14,7 @@ Last updated 2022-01-04 03:52 UTC.
 
 | **Category**     | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---:            | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
-| All Games        | 23        | 945                | 941            | 5.96           | 0% (0)        | 22% (5)       | 35% (8)       |
+| All Games        | 23        | 945                | 940            | 5.96           | 0% (0)        | 22% (5)       | 35% (8)       |
 | 3-4 Player Games | 1         | 968                | 968            | 4.00           | 0% (0)        | 0% (0)        | 100% (1)      |
 | 5-6 Player Games | 16        | 986                | 959            | 6.06           | 0% (0)        | 31% (5)       | 38% (6)       |
 | 7-8 Player Games | 6         | 936                | 969            | 6.00           | 0% (0)        | 0% (0)        | 17% (1)       |
