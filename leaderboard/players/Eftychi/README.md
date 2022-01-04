@@ -1,6 +1,6 @@
 # Eftychi
 
-Last updated 2022-01-04 04:29 UTC.
+Last updated 2022-01-04 04:32 UTC.
 
 - [Summary](#summary)
 - [Ratings](#ratings)
@@ -14,8 +14,8 @@ Last updated 2022-01-04 04:29 UTC.
 
 | **Category**     | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---:            | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
-| All Games        | 15        | 914                | 935            | 5.87           | 7% (1)        | 20% (3)       | 27% (4)       |
-| 3-4 Player Games | 3         | 973                | 994            | 7.00           | 0% (0)        | 33% (1)       | 67% (2)       |
+| All Games        | 16        | 902                | 933            | 5.88           | 6% (1)        | 19% (3)       | 31% (5)       |
+| 3-4 Player Games | 4         | 954                | 984            | 6.75           | 0% (0)        | 25% (1)       | 75% (3)       |
 | 5-6 Player Games | 8         | 921                | 959            | 5.38           | 0% (0)        | 25% (2)       | 25% (2)       |
 | 7-8 Player Games | 4         | 973                | 960            | 6.00           | 25% (1)       | 0% (0)        | 0% (0)        |
 
@@ -52,6 +52,7 @@ Last updated 2022-01-04 04:29 UTC.
 
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                                                                                  |
 | :---:    | :---:      | :---:      | :---:       | :---                                                                                                         |
+| 16       | 2022-01-03 | 10         | 4           | 1st Rachel 11 , 2nd Phil 8 , 3rd Eftychi 6 , 3rd Laura 6                                                     |
 | 15       | 2021-12-11 | 10         | 6           | 1st Alex 10 , 2nd Mic 6 , 2nd Scott 6 , 2nd Rachel 6 , 2nd Wendy 6 , 2nd Eftychi 6                           |
 | 14       | 2021-01-18 | 10         | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
 | 13       | 2021-01-18 | 10         | 8           | 1st Rachel 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Mic 6 , 4th Wendy 6 , 5th Sean 5 , 6th Eftychi 4 , 7th Scott 3 |
@@ -74,6 +75,7 @@ Last updated 2022-01-04 04:29 UTC.
 
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                              |
 | :---:    | :---:      | :---:      | :---:       | :---                                                     |
+| 4        | 2022-01-03 | 10         | 4           | 1st Rachel 11 , 2nd Phil 8 , 3rd Eftychi 6 , 3rd Laura 6 |
 | 3        | 2021-01-14 | 10         | 3           | 1st Rachel 10 , 2nd Jess 7 , 3rd Eftychi 6               |
 | 2        | 2020-07-25 | 10         | 4           | 1st Alex 10 , 2nd Sean 9 , 3rd Eftychi 8 , 4th Mic 4     |
 | 1        | 2020-07-04 | 10         | 4           | 1st Scott 10 , 2nd Eftychi 7 , 3rd Jess 6 , 3rd Rachel 6 |

@@ -1,6 +1,6 @@
 # Phil
 
-Last updated 2022-01-04 04:29 UTC.
+Last updated 2022-01-04 04:32 UTC.
 
 - [Summary](#summary)
 - [Ratings](#ratings)
@@ -14,8 +14,8 @@ Last updated 2022-01-04 04:29 UTC.
 
 | **Category**     | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---:            | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
-| All Games        | 59        | 1000               | 949            | 7.02           | 14% (8)       | 41% (24)      | 37% (22)      |
-| 3-4 Player Games | 33        | 977                | 911            | 7.12           | 15% (5)       | 52% (17)      | 27% (9)       |
+| All Games        | 60        | 1009               | 950            | 7.03           | 13% (8)       | 42% (25)      | 37% (22)      |
+| 3-4 Player Games | 34        | 989                | 913            | 7.15           | 15% (5)       | 53% (18)      | 26% (9)       |
 | 5-6 Player Games | 26        | 1003               | 974            | 6.88           | 12% (3)       | 27% (7)       | 50% (13)      |
 
 [(Back to Top)](#)
@@ -51,6 +51,7 @@ Last updated 2022-01-04 04:29 UTC.
 
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                                                     |
 | :---:    | :---:      | :---:      | :---:       | :---                                                                            |
+| 60       | 2022-01-03 | 10         | 4           | 1st Rachel 11 , 2nd Phil 8 , 3rd Eftychi 6 , 3rd Laura 6                        |
 | 59       | 2021-09-08 | 10         | 5           | 1st Rachel 10 , 2nd Mic 7 , 3rd Phil 6 , 4th Scott 5 , 5th Thompson 4           |
 | 58       | 2021-09-08 | 10         | 5           | 1st Rachel 10 , 2nd Mic 6 , 3rd Phil 5 , 3rd Scott 5 , 4th Thompson 4           |
 | 57       | 2021-03-15 | 10         | 5           | 1st Mic 10 , 2nd Phil 7 , 3rd Scott 6 , 4th Rachel 4 , 5th Thompson 3           |
@@ -60,22 +61,22 @@ Last updated 2022-01-04 04:29 UTC.
 | 53       | 2021-02-08 | 10         | 3           | 1st Phil 10 , 2nd Mic 9 , 3rd Rachel 6                                          |
 | 52       | 2021-02-08 | 10         | 3           | 1st Rachel 10 , 2nd Phil 9 , 3rd Mic 6                                          |
 | 51       | 2021-01-26 | 10         | 5           | 1st Rachel 10 , 2nd Scott 9 , 3rd Mic 7 , 3rd Phil 7 , 4th Laura 4              |
-| 50       | 2020-12-23 | 10         | 3           | 1st Valerie 10 , 2nd Phil 9 , 3rd Rachel 5                                      |
-| 49       | 2020-12-23 | 10         | 3           | 1st Rachel 10 , 2nd Phil 8 , 3rd Valerie 5                                      |
+| 50       | 2020-12-23 | 10         | 3           | 1st Rachel 10 , 2nd Phil 8 , 3rd Valerie 5                                      |
+| 49       | 2020-12-23 | 10         | 3           | 1st Valerie 10 , 2nd Phil 9 , 3rd Rachel 5                                      |
 | 48       | 2020-12-23 | 10         | 4           | 1st Phil 10 , 2nd Rachel 8 , 3rd Jess 6 , 4th Valerie 5                         |
 | 47       | 2020-12-17 | 10         | 3           | 1st Scott 10 , 2nd Rachel 9 , 2nd Phil 9                                        |
 | 46       | 2020-12-02 | 10         | 3           | 1st Rachel 10 , 2nd Mic 6 , 3rd Phil 4                                          |
 | 45       | 2020-12-02 | 10         | 3           | 1st Sean 10 , 2nd Phil 7 , 3rd Mic 5                                            |
-| 44       | 2020-10-28 | 10         | 4           | 1st Jess 11 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Mic 7                             |
-| 43       | 2020-10-28 | 10         | 5           | 1st Phil 11 , 2nd Jess 9 , 3rd Scott 7 , 3rd Rachel 7 , 3rd Mic 7               |
+| 44       | 2020-10-28 | 10         | 5           | 1st Phil 11 , 2nd Jess 9 , 3rd Scott 7 , 3rd Rachel 7 , 3rd Mic 7               |
+| 43       | 2020-10-28 | 10         | 4           | 1st Jess 11 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Mic 7                             |
 | 42       | 2020-10-25 | 10         | 4           | 1st Rachel 10 , 2nd Phil 7 , 3rd Mic 5 , 4th Laura 4                            |
 | 41       | 2020-10-25 | 10         | 4           | 1st Mic 10 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Laura 6                            |
 | 40       | 2020-10-22 | 10         | 3           | 1st Mic 10 , 2nd Phil 9 , 3rd Rachel 7                                          |
-| 39       | 2020-10-20 | 10         | 4           | 1st Laura 10 , 2nd Mic 9 , 3rd Rachel 6 , 4th Phil 4                            |
-| 38       | 2020-10-20 | 10         | 3           | 1st Rachel 10 , 2nd Phil 7 , 2nd Mic 7                                          |
-| 37       | 2020-10-19 | 10         | 3           | 1st Rachel 10 , 2nd Phil 6 , 3rd Mic 4                                          |
+| 39       | 2020-10-20 | 10         | 3           | 1st Rachel 10 , 2nd Phil 7 , 2nd Mic 7                                          |
+| 38       | 2020-10-20 | 10         | 4           | 1st Laura 10 , 2nd Mic 9 , 3rd Rachel 6 , 4th Phil 4                            |
+| 37       | 2020-10-19 | 10         | 3           | 1st Mic 10 , 2nd Rachel 9 , 2nd Phil 9                                          |
 | 36       | 2020-10-19 | 10         | 3           | 1st Rachel 10 , 2nd Phil 6 , 2nd Mic 6                                          |
-| 35       | 2020-10-19 | 10         | 3           | 1st Mic 10 , 2nd Rachel 9 , 2nd Phil 9                                          |
+| 35       | 2020-10-19 | 10         | 3           | 1st Rachel 10 , 2nd Phil 6 , 3rd Mic 4                                          |
 | 34       | 2020-10-18 | 10         | 4           | 1st Phil 10 , 2nd Mic 8 , 3rd Alex 7 , 4th Rachel 6                             |
 | 33       | 2020-10-18 | 10         | 3           | 1st Alex 10 , 2nd Rachel 9 , 3rd Phil 5                                         |
 | 32       | 2020-10-14 | 10         | 4           | 1st Scott 10 , 2nd Phil 7 , 3rd Rachel 6 , 4th Mic 4                            |
@@ -115,41 +116,42 @@ Last updated 2022-01-04 04:29 UTC.
 
 ### 3-4 Player Games History
 
-| **Game** | **Date**   | **Points** | **Players** | **Results**                                             |
-| :---:    | :---:      | :---:      | :---:       | :---                                                    |
-| 33       | 2021-03-12 | 10         | 4           | 1st Phil 10 , 2nd Rachel 9 , 3rd Mic 7 , 4th Thompson 4 |
-| 32       | 2021-03-12 | 10         | 4           | 1st Rachel 10 , 2nd Mic 8 , 3rd Phil 6 , 3rd Thompson 6 |
-| 31       | 2021-02-08 | 10         | 3           | 1st Phil 10 , 2nd Mic 9 , 3rd Rachel 6                  |
-| 30       | 2021-02-08 | 10         | 3           | 1st Rachel 10 , 2nd Phil 9 , 3rd Mic 6                  |
-| 29       | 2020-12-23 | 10         | 3           | 1st Valerie 10 , 2nd Phil 9 , 3rd Rachel 5              |
-| 28       | 2020-12-23 | 10         | 3           | 1st Rachel 10 , 2nd Phil 8 , 3rd Valerie 5              |
-| 27       | 2020-12-23 | 10         | 4           | 1st Phil 10 , 2nd Rachel 8 , 3rd Jess 6 , 4th Valerie 5 |
-| 26       | 2020-12-17 | 10         | 3           | 1st Scott 10 , 2nd Rachel 9 , 2nd Phil 9                |
-| 25       | 2020-12-02 | 10         | 3           | 1st Rachel 10 , 2nd Mic 6 , 3rd Phil 4                  |
-| 24       | 2020-12-02 | 10         | 3           | 1st Sean 10 , 2nd Phil 7 , 3rd Mic 5                    |
-| 23       | 2020-10-28 | 10         | 4           | 1st Jess 11 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Mic 7     |
-| 22       | 2020-10-25 | 10         | 4           | 1st Rachel 10 , 2nd Phil 7 , 3rd Mic 5 , 4th Laura 4    |
-| 21       | 2020-10-25 | 10         | 4           | 1st Mic 10 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Laura 6    |
-| 20       | 2020-10-22 | 10         | 3           | 1st Mic 10 , 2nd Phil 9 , 3rd Rachel 7                  |
-| 19       | 2020-10-20 | 10         | 4           | 1st Laura 10 , 2nd Mic 9 , 3rd Rachel 6 , 4th Phil 4    |
-| 18       | 2020-10-20 | 10         | 3           | 1st Rachel 10 , 2nd Phil 7 , 2nd Mic 7                  |
-| 17       | 2020-10-19 | 10         | 3           | 1st Rachel 10 , 2nd Phil 6 , 3rd Mic 4                  |
-| 16       | 2020-10-19 | 10         | 3           | 1st Rachel 10 , 2nd Phil 6 , 2nd Mic 6                  |
-| 15       | 2020-10-19 | 10         | 3           | 1st Mic 10 , 2nd Rachel 9 , 2nd Phil 9                  |
-| 14       | 2020-10-18 | 10         | 4           | 1st Phil 10 , 2nd Mic 8 , 3rd Alex 7 , 4th Rachel 6     |
-| 13       | 2020-10-18 | 10         | 3           | 1st Alex 10 , 2nd Rachel 9 , 3rd Phil 5                 |
-| 12       | 2020-10-14 | 10         | 4           | 1st Scott 10 , 2nd Phil 7 , 3rd Rachel 6 , 4th Mic 4    |
-| 11       | 2020-09-27 | 10         | 4           | 1st Sean 10 , 2nd Mic 7 , 3rd Phil 6 , 4th Laura 5      |
-| 10       | 2020-09-22 | 10         | 3           | 1st Rachel 10 , 2nd Phil 7 , 3rd Mic 6                  |
-| 9        | 2020-09-22 | 10         | 3           | 1st Phil 10 , 2nd Mic 6 , 3rd Rachel 4                  |
-| 8        | 2020-09-22 | 10         | 3           | 1st Rachel 10 , 2nd Mic 5 , 3rd Phil 4                  |
-| 7        | 2020-09-02 | 10         | 4           | 1st Jess 10 , 2nd Scott 5 , 2nd Mic 5 , 3rd Phil 3      |
-| 6        | 2020-09-01 | 10         | 4           | 1st Rachel 10 , 2nd Jess 6 , 3rd Mic 5 , 3rd Phil 5     |
-| 5        | 2020-09-01 | 10         | 4           | 1st Jess 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Phil 5     |
-| 4        | 2020-08-31 | 10         | 3           | 1st Rachel 10 , 2nd Mic 7 , 3rd Phil 4                  |
-| 3        | 2020-08-17 | 10         | 4           | 1st Jess 10 , 2nd Sean 7 , 2nd Phil 7 , 2nd Mic 7       |
-| 2        | 2020-08-17 | 10         | 4           | 1st Jess 10 , 2nd Rachel 9 , 3rd Phil 8 , 4th Mic 3     |
-| 1        | 2020-07-29 | 10         | 4           | 1st Scott 10 , 2nd Phil 8 , 3rd Mic 7 , 4th Rachel 6    |
+| **Game** | **Date**   | **Points** | **Players** | **Results**                                              |
+| :---:    | :---:      | :---:      | :---:       | :---                                                     |
+| 34       | 2022-01-03 | 10         | 4           | 1st Rachel 11 , 2nd Phil 8 , 3rd Eftychi 6 , 3rd Laura 6 |
+| 33       | 2021-03-12 | 10         | 4           | 1st Phil 10 , 2nd Rachel 9 , 3rd Mic 7 , 4th Thompson 4  |
+| 32       | 2021-03-12 | 10         | 4           | 1st Rachel 10 , 2nd Mic 8 , 3rd Phil 6 , 3rd Thompson 6  |
+| 31       | 2021-02-08 | 10         | 3           | 1st Phil 10 , 2nd Mic 9 , 3rd Rachel 6                   |
+| 30       | 2021-02-08 | 10         | 3           | 1st Rachel 10 , 2nd Phil 9 , 3rd Mic 6                   |
+| 29       | 2020-12-23 | 10         | 3           | 1st Rachel 10 , 2nd Phil 8 , 3rd Valerie 5               |
+| 28       | 2020-12-23 | 10         | 3           | 1st Valerie 10 , 2nd Phil 9 , 3rd Rachel 5               |
+| 27       | 2020-12-23 | 10         | 4           | 1st Phil 10 , 2nd Rachel 8 , 3rd Jess 6 , 4th Valerie 5  |
+| 26       | 2020-12-17 | 10         | 3           | 1st Scott 10 , 2nd Rachel 9 , 2nd Phil 9                 |
+| 25       | 2020-12-02 | 10         | 3           | 1st Rachel 10 , 2nd Mic 6 , 3rd Phil 4                   |
+| 24       | 2020-12-02 | 10         | 3           | 1st Sean 10 , 2nd Phil 7 , 3rd Mic 5                     |
+| 23       | 2020-10-28 | 10         | 4           | 1st Jess 11 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Mic 7      |
+| 22       | 2020-10-25 | 10         | 4           | 1st Rachel 10 , 2nd Phil 7 , 3rd Mic 5 , 4th Laura 4     |
+| 21       | 2020-10-25 | 10         | 4           | 1st Mic 10 , 2nd Rachel 8 , 2nd Phil 8 , 3rd Laura 6     |
+| 20       | 2020-10-22 | 10         | 3           | 1st Mic 10 , 2nd Phil 9 , 3rd Rachel 7                   |
+| 19       | 2020-10-20 | 10         | 3           | 1st Rachel 10 , 2nd Phil 7 , 2nd Mic 7                   |
+| 18       | 2020-10-20 | 10         | 4           | 1st Laura 10 , 2nd Mic 9 , 3rd Rachel 6 , 4th Phil 4     |
+| 17       | 2020-10-19 | 10         | 3           | 1st Mic 10 , 2nd Rachel 9 , 2nd Phil 9                   |
+| 16       | 2020-10-19 | 10         | 3           | 1st Rachel 10 , 2nd Phil 6 , 2nd Mic 6                   |
+| 15       | 2020-10-19 | 10         | 3           | 1st Rachel 10 , 2nd Phil 6 , 3rd Mic 4                   |
+| 14       | 2020-10-18 | 10         | 4           | 1st Phil 10 , 2nd Mic 8 , 3rd Alex 7 , 4th Rachel 6      |
+| 13       | 2020-10-18 | 10         | 3           | 1st Alex 10 , 2nd Rachel 9 , 3rd Phil 5                  |
+| 12       | 2020-10-14 | 10         | 4           | 1st Scott 10 , 2nd Phil 7 , 3rd Rachel 6 , 4th Mic 4     |
+| 11       | 2020-09-27 | 10         | 4           | 1st Sean 10 , 2nd Mic 7 , 3rd Phil 6 , 4th Laura 5       |
+| 10       | 2020-09-22 | 10         | 3           | 1st Rachel 10 , 2nd Phil 7 , 3rd Mic 6                   |
+| 9        | 2020-09-22 | 10         | 3           | 1st Phil 10 , 2nd Mic 6 , 3rd Rachel 4                   |
+| 8        | 2020-09-22 | 10         | 3           | 1st Rachel 10 , 2nd Mic 5 , 3rd Phil 4                   |
+| 7        | 2020-09-02 | 10         | 4           | 1st Jess 10 , 2nd Scott 5 , 2nd Mic 5 , 3rd Phil 3       |
+| 6        | 2020-09-01 | 10         | 4           | 1st Rachel 10 , 2nd Jess 6 , 3rd Mic 5 , 3rd Phil 5      |
+| 5        | 2020-09-01 | 10         | 4           | 1st Jess 10 , 2nd Rachel 9 , 3rd Mic 8 , 4th Phil 5      |
+| 4        | 2020-08-31 | 10         | 3           | 1st Rachel 10 , 2nd Mic 7 , 3rd Phil 4                   |
+| 3        | 2020-08-17 | 10         | 4           | 1st Jess 10 , 2nd Sean 7 , 2nd Phil 7 , 2nd Mic 7        |
+| 2        | 2020-08-17 | 10         | 4           | 1st Jess 10 , 2nd Rachel 9 , 3rd Phil 8 , 4th Mic 3      |
+| 1        | 2020-07-29 | 10         | 4           | 1st Scott 10 , 2nd Phil 8 , 3rd Mic 7 , 4th Rachel 6     |
 
 [(Back to History)](#history)
 
