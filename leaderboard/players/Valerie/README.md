@@ -1,6 +1,6 @@
 # Valerie
 
-Last updated 2021-12-29 09:35 UTC.
+Last updated 2022-01-04 03:52 UTC.
 
 - [Summary](#summary)
 - [Ratings](#ratings)
@@ -14,8 +14,8 @@ Last updated 2021-12-29 09:35 UTC.
 
 | **Category**     | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---:            | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
-| All Games        | 3         | 978                | 963            | 6.67           | 33% (1)       | 0% (0)        | 33% (1)       |
-| 3-4 Player Games | 3         | 971                | 959            | 6.67           | 33% (1)       | 0% (0)        | 33% (1)       |
+| All Games        | 3         | 970                | 981            | 6.67           | 33% (1)       | 0% (0)        | 33% (1)       |
+| 3-4 Player Games | 3         | 962                | 977            | 6.67           | 33% (1)       | 0% (0)        | 33% (1)       |
 
 [(Back to Top)](#)
 
@@ -50,8 +50,8 @@ Last updated 2021-12-29 09:35 UTC.
 
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                             |
 | :---:    | :---:      | :---:      | :---:       | :---                                                    |
-| 3        | 2020-12-23 | 10         | 3           | 1st Valerie 10 , 2nd Phil 9 , 3rd Rachel 5              |
-| 2        | 2020-12-23 | 10         | 3           | 1st Rachel 10 , 2nd Phil 8 , 3rd Valerie 5              |
+| 3        | 2020-12-23 | 10         | 3           | 1st Rachel 10 , 2nd Phil 8 , 3rd Valerie 5              |
+| 2        | 2020-12-23 | 10         | 3           | 1st Valerie 10 , 2nd Phil 9 , 3rd Rachel 5              |
 | 1        | 2020-12-23 | 10         | 4           | 1st Phil 10 , 2nd Rachel 8 , 3rd Jess 6 , 4th Valerie 5 |
 
 [(Back to History)](#history)
@@ -60,8 +60,8 @@ Last updated 2021-12-29 09:35 UTC.
 
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                             |
 | :---:    | :---:      | :---:      | :---:       | :---                                                    |
-| 3        | 2020-12-23 | 10         | 3           | 1st Valerie 10 , 2nd Phil 9 , 3rd Rachel 5              |
-| 2        | 2020-12-23 | 10         | 3           | 1st Rachel 10 , 2nd Phil 8 , 3rd Valerie 5              |
+| 3        | 2020-12-23 | 10         | 3           | 1st Rachel 10 , 2nd Phil 8 , 3rd Valerie 5              |
+| 2        | 2020-12-23 | 10         | 3           | 1st Valerie 10 , 2nd Phil 9 , 3rd Rachel 5              |
 | 1        | 2020-12-23 | 10         | 4           | 1st Phil 10 , 2nd Rachel 8 , 3rd Jess 6 , 4th Valerie 5 |
 
 [(Back to History)](#history)
