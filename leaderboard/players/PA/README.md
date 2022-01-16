@@ -1,6 +1,6 @@
 # PA
 
-Last updated 2022-01-04 04:32 UTC.
+Last updated 2022-01-16 22:05 UTC.
 
 - [Summary](#summary)
 - [Ratings](#ratings)
@@ -14,7 +14,7 @@ Last updated 2022-01-04 04:32 UTC.
 
 | **Category**     | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---:            | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
-| All Games        | 2         | 1046               | 1039           | 9.50           | 50% (1)       | 50% (1)       | 0% (0)        |
+| All Games        | 2         | 1046               | 1038           | 9.50           | 50% (1)       | 50% (1)       | 0% (0)        |
 | 5-6 Player Games | 2         | 1046               | 1039           | 9.50           | 50% (1)       | 50% (1)       | 0% (0)        |
 
 [(Back to Top)](#)

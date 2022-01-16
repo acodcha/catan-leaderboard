@@ -1,6 +1,6 @@
 # Wendy
 
-Last updated 2022-01-04 04:32 UTC.
+Last updated 2022-01-16 22:05 UTC.
 
 - [Summary](#summary)
 - [Ratings](#ratings)
@@ -14,9 +14,9 @@ Last updated 2022-01-04 04:32 UTC.
 
 | **Category**     | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---:            | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
-| All Games        | 23        | 945                | 941            | 5.96           | 0% (0)        | 22% (5)       | 35% (8)       |
+| All Games        | 23        | 944                | 940            | 5.96           | 0% (0)        | 22% (5)       | 35% (8)       |
 | 3-4 Player Games | 1         | 968                | 968            | 4.00           | 0% (0)        | 0% (0)        | 100% (1)      |
-| 5-6 Player Games | 16        | 986                | 959            | 6.06           | 0% (0)        | 31% (5)       | 38% (6)       |
+| 5-6 Player Games | 16        | 984                | 959            | 6.06           | 0% (0)        | 31% (5)       | 38% (6)       |
 | 7-8 Player Games | 6         | 936                | 969            | 6.00           | 0% (0)        | 0% (0)        | 17% (1)       |
 
 [(Back to Top)](#)
@@ -64,9 +64,9 @@ Last updated 2022-01-04 04:32 UTC.
 | 14       | 2020-07-04 | 10         | 8           | 1st Jay 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7 , 3rd Mic 7 , 4th Jess 6 , 4th Eftychi 6    |
 | 13       | 2020-07-04 | 10         | 8           | 1st Alex 10 , 2nd Rachel 8 , 3rd Scott 7 , 4th Jess 6 , 4th Wendy 6 , 5th Eftychi 4 , 5th Jay 4 , 5th Mic 4  |
 | 12       | 2020-07-03 | 10         | 6           | 1st Jess 10 , 2nd Alex 6 , 2nd Wendy 6 , 3rd Scott 5 , 3rd Eftychi 5 , 4th Rachel 4                          |
-| 11       | 2020-06-20 | 10         | 6           | 1st Jess 10 , 2nd Wendy 8 , 3rd Alex 7 , 3rd Scott 7 , 4th Eftychi 4 , 4th Mic 4                             |
+| 11       | 2020-06-20 | 10         | 6           | 1st Jess 10 , 2nd Eftychi 8 , 3rd Wendy 7 , 4th Alex 6 , 4th Scott 6 , 4th Mic 6                             |
 | 10       | 2020-06-20 | 10         | 6           | 1st Alex 10 , 2nd Scott 6 , 2nd Mic 6 , 3rd Jess 5 , 4th Eftychi 4 , 5th Wendy 2                             |
-| 9        | 2020-06-20 | 10         | 6           | 1st Jess 10 , 2nd Eftychi 8 , 3rd Wendy 7 , 4th Alex 6 , 4th Scott 6 , 4th Mic 6                             |
+| 9        | 2020-06-20 | 10         | 6           | 1st Jess 10 , 2nd Wendy 8 , 3rd Alex 7 , 3rd Scott 7 , 4th Eftychi 4 , 4th Mic 4                             |
 | 8        | 2019-09-22 | 10         | 4           | 1st Alex 10 , 2nd Sean 6 , 2nd Scott 6 , 3rd Wendy 4                                                         |
 | 7        | 2017-10-08 | 10         | 6           | 1st Scott 10 , 2nd Alex 9 , 3rd Jay 6 , 3rd Jess 6 , 3rd Wendy 6 , 4th Sean 5                                |
 | 6        | 2017-08-25 | 10         | 6           | 1st PA 10 , 2nd Jay 7 , 2nd Sean 7 , 3rd Scott 6 , 4th Wendy 5 , 5th Alex 4                                  |
@@ -96,9 +96,9 @@ Last updated 2022-01-04 04:32 UTC.
 | 13       | 2020-09-04 | 10         | 5           | 1st Sean 10 , 2nd Wendy 6 , 3rd Alex 4 , 3rd Mic 4 , 4th Jess 3                      |
 | 12       | 2020-08-07 | 10         | 6           | 1st Jess 10 , 2nd Sean 8 , 3rd Wendy 7 , 3rd Rachel 7 , 4th Scott 5 , 4th Mic 5      |
 | 11       | 2020-07-03 | 10         | 6           | 1st Jess 10 , 2nd Alex 6 , 2nd Wendy 6 , 3rd Scott 5 , 3rd Eftychi 5 , 4th Rachel 4  |
-| 10       | 2020-06-20 | 10         | 6           | 1st Jess 10 , 2nd Wendy 8 , 3rd Alex 7 , 3rd Scott 7 , 4th Eftychi 4 , 4th Mic 4     |
+| 10       | 2020-06-20 | 10         | 6           | 1st Jess 10 , 2nd Eftychi 8 , 3rd Wendy 7 , 4th Alex 6 , 4th Scott 6 , 4th Mic 6     |
 | 9        | 2020-06-20 | 10         | 6           | 1st Alex 10 , 2nd Scott 6 , 2nd Mic 6 , 3rd Jess 5 , 4th Eftychi 4 , 5th Wendy 2     |
-| 8        | 2020-06-20 | 10         | 6           | 1st Jess 10 , 2nd Eftychi 8 , 3rd Wendy 7 , 4th Alex 6 , 4th Scott 6 , 4th Mic 6     |
+| 8        | 2020-06-20 | 10         | 6           | 1st Jess 10 , 2nd Wendy 8 , 3rd Alex 7 , 3rd Scott 7 , 4th Eftychi 4 , 4th Mic 4     |
 | 7        | 2017-10-08 | 10         | 6           | 1st Scott 10 , 2nd Alex 9 , 3rd Jay 6 , 3rd Jess 6 , 3rd Wendy 6 , 4th Sean 5        |
 | 6        | 2017-08-25 | 10         | 6           | 1st PA 10 , 2nd Jay 7 , 2nd Sean 7 , 3rd Scott 6 , 4th Wendy 5 , 5th Alex 4          |
 | 5        | 2017-06-10 | 10         | 6           | 1st Scott 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Wilson 6 , 5th Wendy 5 , 6th Victoria 3 |
