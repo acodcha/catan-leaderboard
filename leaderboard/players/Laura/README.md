@@ -1,6 +1,6 @@
 # Laura
 
-Last updated 2022-03-11 05:36 UTC.
+Last updated 2022-03-11 05:40 UTC.
 
 - [Summary](#summary)
 - [Ratings](#ratings)
@@ -14,8 +14,8 @@ Last updated 2022-03-11 05:36 UTC.
 
 | **Category**     | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---:            | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
-| All Games        | 40        | 986                | 928            | 6.80           | 25% (10)      | 15% (6)       | 28% (11)      |
-| 3-4 Player Games | 26        | 1014               | 989            | 7.54           | 38% (10)      | 23% (6)       | 23% (6)       |
+| All Games        | 40        | 991                | 928            | 6.80           | 25% (10)      | 15% (6)       | 28% (11)      |
+| 3-4 Player Games | 26        | 1019               | 989            | 7.54           | 38% (10)      | 23% (6)       | 23% (6)       |
 | 5-6 Player Games | 14        | 847                | 873            | 5.43           | 0% (0)        | 0% (0)        | 36% (5)       |
 
 [(Back to Top)](#)

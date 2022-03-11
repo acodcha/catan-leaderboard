@@ -1,6 +1,6 @@
 # Jess
 
-Last updated 2022-03-11 05:36 UTC.
+Last updated 2022-03-11 05:40 UTC.
 
 - [Summary](#summary)
 - [Ratings](#ratings)
@@ -14,8 +14,8 @@ Last updated 2022-03-11 05:36 UTC.
 
 | **Category**     | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---:            | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
-| All Games        | 122       | 1111               | 1097           | 8.00           | 36% (44)      | 34% (42)      | 20% (24)      |
-| 3-4 Player Games | 51        | 1090               | 1087           | 8.14           | 45% (23)      | 35% (18)      | 18% (9)       |
+| All Games        | 122       | 1113               | 1097           | 8.00           | 36% (44)      | 34% (42)      | 20% (24)      |
+| 3-4 Player Games | 51        | 1092               | 1087           | 8.14           | 45% (23)      | 35% (18)      | 18% (9)       |
 | 5-6 Player Games | 65        | 1110               | 1087           | 7.97           | 32% (21)      | 34% (22)      | 22% (14)      |
 | 7-8 Player Games | 6         | 1020               | 994            | 7.17           | 0% (0)        | 33% (2)       | 17% (1)       |
 
