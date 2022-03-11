@@ -19,6 +19,8 @@ jobs:
     - name: build generator
       run: cd generator && cd build && make
     - name: generate test leaderboard
-      run: ./generator/build/bin/catan-ranker --games games.txt --leaderboard test
+      run: ./generator/build/bin/catan-ranker --games games.txt --leaderboard test_leaderboard
+    - name: cleanup test leaderboard
+      run: rm -rf test_leaderboard
     - name: cleanup generator
       run: rm -rf generator

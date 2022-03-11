@@ -1,3 +1,9 @@
+2022-03-10 : 10 : Scott 10, Mic 7, Rachel 6
+2022-03-10 : 10 : Scott 10, Mic 8, Rachel 8
+2022-03-01 : 10 : Jess 11, Rachel 8, Scott 7, Mic 7
+2022-03-01 : 10 : Rachel 10, Scott 6, Jess 6, Mic 4
+2022-02-05 : 10 : Mic 10, Jess 8, Laura 6, Rachel 5
+2022-01-30 : 10 : Jess 10, Laura 7, Rachel 4
 2022-01-16 : 10 : Rachel 10, Laura 9, Mic 6
 2022-01-03 : 10 : Rachel 11, Phil 8, Eftychi 6, Laura 6
 2021-12-31 : 10 : Scott 10, Jess 9, Rachel 9, Mic 7
