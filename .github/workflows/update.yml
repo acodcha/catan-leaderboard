@@ -18,16 +18,20 @@ jobs:
       run: cd generator && mkdir -p build && cd build && cmake ..
     - name: build generator
       run: cd generator && cd build && make
-    - name: delete previous leaderboard
-      run: rm -rf leaderboard/*
-    - name: generate new leaderboard
-      run: ./generator/build/bin/catan-ranker --games games.txt --leaderboard leaderboard
+    - name: generate test leaderboard
+      run: ./generator/build/bin/catan-ranker --games games.txt --leaderboard test_leaderboard
+    - name: cleanup test leaderboard
+      run: rm -rf test_leaderboard
+#    - name: delete previous leaderboard
+#      run: rm -rf leaderboard/*
+#    - name: generate new leaderboard
+#      run: ./generator/build/bin/catan-ranker --games games.txt --leaderboard leaderboard
     - name: cleanup generator
       run: rm -rf generator
-    - name: commit leaderboard files
-      uses: EndBug/add-and-commit@main
-      with:
-        add: "--all"
-        message: "Update leaderboard."
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#    - name: commit leaderboard files
+#      uses: EndBug/add-and-commit@main
+#      with:
+#        add: "--all"
+#        message: "Update leaderboard."
+#      env:
+#        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
