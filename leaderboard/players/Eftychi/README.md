@@ -1,6 +1,6 @@
 # Eftychi
 
-Last updated 2022-05-08 02:52 UTC.
+Last updated 2022-05-30 23:42 UTC.
 
 - [Summary](#summary)
 - [Ratings](#ratings)
@@ -15,7 +15,7 @@ Last updated 2022-05-08 02:52 UTC.
 | **Category**     | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---:            | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
 | All Games        | 16        | 904                | 931            | 5.88           | 6% (1)        | 19% (3)       | 31% (5)       |
-| 3-4 Player Games | 4         | 955                | 984            | 6.75           | 0% (0)        | 25% (1)       | 75% (3)       |
+| 3-4 Player Games | 4         | 954                | 984            | 6.75           | 0% (0)        | 25% (1)       | 75% (3)       |
 | 5-6 Player Games | 8         | 926                | 952            | 5.38           | 0% (0)        | 25% (2)       | 25% (2)       |
 | 7-8 Player Games | 4         | 973                | 960            | 6.00           | 25% (1)       | 0% (0)        | 0% (0)        |
 
