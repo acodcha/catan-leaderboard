@@ -1,6 +1,6 @@
 # Jay
 
-Last updated 2022-06-21 02:24 UTC.
+Last updated 2022-06-24 02:32 UTC.
 
 - [Summary](#summary)
 - [Ratings](#ratings)
@@ -14,9 +14,9 @@ Last updated 2022-06-21 02:24 UTC.
 
 | **Category**     | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---:            | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
-| All Games        | 15        | 1123               | 1088           | 8.00           | 47% (7)       | 20% (3)       | 20% (3)       |
+| All Games        | 15        | 1127               | 1085           | 8.00           | 47% (7)       | 20% (3)       | 20% (3)       |
 | 5-6 Player Games | 13        | 1133               | 1085           | 8.15           | 46% (6)       | 23% (3)       | 23% (3)       |
-| 7-8 Player Games | 2         | 1005               | 1018           | 7.00           | 50% (1)       | 0% (0)        | 0% (0)        |
+| 7-8 Player Games | 2         | 1011               | 994            | 7.00           | 50% (1)       | 0% (0)        | 0% (0)        |
 
 [(Back to Top)](#)
 
@@ -52,8 +52,8 @@ Last updated 2022-06-21 02:24 UTC.
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                                                                                 |
 | :---:    | :---:      | :---:      | :---:       | :---                                                                                                        |
 | 15       | 2021-09-04 | 10         | 6           | 1st Jay 10 , 2nd Alex 9 , 2nd Jess 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7                               |
-| 14       | 2020-07-04 | 10         | 8           | 1st Alex 10 , 2nd Rachel 8 , 3rd Scott 7 , 4th Jess 6 , 4th Wendy 6 , 5th Eftychi 4 , 5th Jay 4 , 5th Mic 4 |
-| 13       | 2020-07-04 | 10         | 8           | 1st Jay 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7 , 3rd Mic 7 , 4th Jess 6 , 4th Eftychi 6   |
+| 14       | 2020-07-04 | 10         | 8           | 1st Jay 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7 , 3rd Mic 7 , 4th Jess 6 , 4th Eftychi 6   |
+| 13       | 2020-07-04 | 10         | 8           | 1st Alex 10 , 2nd Rachel 8 , 3rd Scott 7 , 4th Jess 6 , 4th Wendy 6 , 5th Eftychi 4 , 5th Jay 4 , 5th Mic 4 |
 | 12       | 2020-06-13 | 10         | 5           | 1st Jess 10 , 2nd Alex 9 , 3rd Jay 8 , 4th Scott 7 , 5th Rachel 4                                           |
 | 11       | 2020-06-06 | 10         | 6           | 1st Scott 10 , 2nd Alex 9 , 3rd Jay 5 , 3rd Jess 5 , 3rd Sean 5 , 4th Rachel 3                              |
 | 10       | 2020-06-06 | 10         | 5           | 1st Jay 10 , 2nd Alex 5 , 2nd Jess 5 , 3rd Scott 4 , 3rd Rachel 4                                           |
@@ -98,8 +98,8 @@ Last updated 2022-06-21 02:24 UTC.
 
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                                                                                 |
 | :---:    | :---:      | :---:      | :---:       | :---                                                                                                        |
-| 2        | 2020-07-04 | 10         | 8           | 1st Alex 10 , 2nd Rachel 8 , 3rd Scott 7 , 4th Jess 6 , 4th Wendy 6 , 5th Eftychi 4 , 5th Jay 4 , 5th Mic 4 |
-| 1        | 2020-07-04 | 10         | 8           | 1st Jay 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7 , 3rd Mic 7 , 4th Jess 6 , 4th Eftychi 6   |
+| 2        | 2020-07-04 | 10         | 8           | 1st Jay 10 , 2nd Alex 9 , 2nd Sean 9 , 3rd Scott 7 , 3rd Wendy 7 , 3rd Mic 7 , 4th Jess 6 , 4th Eftychi 6   |
+| 1        | 2020-07-04 | 10         | 8           | 1st Alex 10 , 2nd Rachel 8 , 3rd Scott 7 , 4th Jess 6 , 4th Wendy 6 , 5th Eftychi 4 , 5th Jay 4 , 5th Mic 4 |
 
 [(Back to History)](#history)
 
