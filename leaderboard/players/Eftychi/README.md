@@ -1,6 +1,6 @@
 # Eftychi
 
-Last updated 2022-06-24 02:32 UTC.
+Last updated 2022-08-28 06:24 UTC.
 
 - [Summary](#summary)
 - [Ratings](#ratings)

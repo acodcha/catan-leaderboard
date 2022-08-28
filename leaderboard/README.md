@@ -1,6 +1,6 @@
 # Catan Leaderboard
 
-Last updated 2022-06-24 02:32 UTC.
+Last updated 2022-08-28 06:24 UTC.
 
 - [All Games](#all-games)
 - [3-4 Player Games](#3-4-player-games)
@@ -22,22 +22,22 @@ Last updated 2022-06-24 02:32 UTC.
 
 | **Player**                   | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---                         | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
-| [Alex](players/Alex)         | 56        | 1089               | 1075           | 7.80           | 27% (15)      | 34% (19)      | 23% (13)      |
+| [Alex](players/Alex)         | 57        | 1102               | 1075           | 7.82           | 26% (15)      | 35% (20)      | 23% (13)      |
 | [Eftychi](players/Eftychi)   | 17        | 936                | 931            | 6.12           | 12% (2)       | 18% (3)       | 29% (5)       |
 | [Jay](players/Jay)           | 15        | 1127               | 1085           | 8.00           | 47% (7)       | 20% (3)       | 20% (3)       |
-| [Jess](players/Jess)         | 147       | 1160               | 1096           | 8.06           | 38% (56)      | 36% (53)      | 17% (25)      |
+| [Jess](players/Jess)         | 148       | 1124               | 1097           | 8.05           | 38% (56)      | 36% (53)      | 17% (25)      |
 | [Laura](players/Laura)       | 49        | 968                | 943            | 6.98           | 24% (12)      | 22% (11)      | 24% (12)      |
-| [Mic](players/Mic)           | 196       | 973                | 916            | 6.76           | 10% (20)      | 36% (71)      | 36% (71)      |
+| [Mic](players/Mic)           | 197       | 957                | 916            | 6.76           | 10% (20)      | 36% (71)      | 36% (71)      |
 | [PA](players/PA)             | 2         | 1046               | 1038           | 9.50           | 50% (1)       | 50% (1)       | 0% (0)        |
 | [Phil](players/Phil)         | 64        | 1073               | 955            | 7.20           | 17% (11)      | 41% (26)      | 34% (22)      |
-| [Rachel](players/Rachel)     | 203       | 890                | 998            | 7.47           | 29% (58)      | 32% (64)      | 28% (56)      |
-| [Scott](players/Scott)       | 154       | 1012               | 1047           | 7.73           | 30% (46)      | 33% (51)      | 23% (35)      |
-| [Sean](players/Sean)         | 52        | 1005               | 992            | 7.33           | 13% (7)       | 37% (19)      | 27% (14)      |
+| [Rachel](players/Rachel)     | 204       | 902                | 998            | 7.47           | 28% (58)      | 31% (64)      | 27% (56)      |
+| [Scott](players/Scott)       | 155       | 1043               | 1047           | 7.74           | 30% (47)      | 33% (51)      | 23% (35)      |
+| [Sean](players/Sean)         | 53        | 985                | 992            | 7.30           | 13% (7)       | 36% (19)      | 26% (14)      |
 | [Stuart](players/Stuart)     | 1         | 1011               | 1011           | 9.00           | 0% (0)        | 100% (1)      | 0% (0)        |
 | [Thompson](players/Thompson) | 5         | 869                | 919            | 4.20           | 0% (0)        | 0% (0)        | 20% (1)       |
 | [Valerie](players/Valerie)   | 3         | 978                | 963            | 6.67           | 33% (1)       | 0% (0)        | 33% (1)       |
 | [Victoria](players/Victoria) | 2         | 955                | 970            | 3.00           | 0% (0)        | 0% (0)        | 0% (0)        |
-| [Wendy](players/Wendy)       | 23        | 944                | 940            | 5.96           | 0% (0)        | 22% (5)       | 35% (8)       |
+| [Wendy](players/Wendy)       | 24        | 961                | 941            | 6.04           | 0% (0)        | 21% (5)       | 38% (9)       |
 | [Wilson](players/Wilson)     | 7         | 975                | 1012           | 6.86           | 14% (1)       | 29% (2)       | 29% (2)       |
 
 [(Back to All Games)](#all-games)
@@ -64,6 +64,7 @@ Last updated 2022-06-24 02:32 UTC.
 
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                                                                                  |
 | :---:    | :---:      | :---:      | :---:       | :---                                                                                                         |
+| 238      | 2022-08-27 | 10         | 7           | 1st Scott 10 , 2nd Alex 9 , 3rd Wendy 8 , 4th Rachel 7 , 5th Jess 6 , 5th Mic 6 , 5th Sean 6                 |
 | 237      | 2022-06-21 | 10         | 4           | 1st Jess 10 , 2nd Mic 7 , 3rd Scott 6 , 3rd Rachel 6                                                         |
 | 236      | 2022-06-21 | 10         | 5           | 1st Jess 10 , 2nd Mic 9 , 3rd Rachel 8 , 4th Scott 6 , 5th Laura 3                                           |
 | 235      | 2022-06-20 | 10         | 3           | 1st Mic 10 , 2nd Scott 8 , 3rd Rachel 6                                                                      |
@@ -79,8 +80,8 @@ Last updated 2022-06-24 02:32 UTC.
 | 225      | 2022-05-29 | 10         | 3           | 1st Mic 10 , 2nd Scott 9 , 3rd Rachel 8                                                                      |
 | 224      | 2022-05-23 | 10         | 3           | 1st Rachel 10 , 2nd Mic 6 , 3rd Scott 5                                                                      |
 | 223      | 2022-05-23 | 10         | 3           | 1st Mic 10 , 2nd Rachel 5 , 3rd Scott 4                                                                      |
-| 222      | 2022-05-15 | 10         | 3           | 1st Jess 10 , 2nd Rachel 6 , 3rd Mic 5                                                                       |
-| 221      | 2022-05-15 | 10         | 3           | 1st Mic 10 , 2nd Jess 5 , 2nd Rachel 5                                                                       |
+| 222      | 2022-05-15 | 10         | 3           | 1st Mic 10 , 2nd Jess 5 , 2nd Rachel 5                                                                       |
+| 221      | 2022-05-15 | 10         | 3           | 1st Jess 10 , 2nd Rachel 6 , 3rd Mic 5                                                                       |
 | 220      | 2022-05-13 | 10         | 3           | 1st Scott 10 , 2nd Rachel 7 , 2nd Mic 7                                                                      |
 | 219      | 2022-05-12 | 10         | 3           | 1st Eftychi 10 , 2nd Rachel 7 , 3rd Mic 6                                                                    |
 | 218      | 2022-05-12 | 10         | 3           | 1st Phil 10 , 2nd Rachel 9 , 3rd Mic 7                                                                       |
@@ -93,8 +94,8 @@ Last updated 2022-06-24 02:32 UTC.
 | 211      | 2022-04-19 | 10         | 4           | 1st Jess 10 , 2nd Rachel 7 , 2nd Mic 7 , 3rd Scott 6                                                         |
 | 210      | 2022-04-14 | 10         | 4           | 1st Rachel 10 , 2nd Scott 9 , 3rd Jess 6 , 4th Mic 5                                                         |
 | 209      | 2022-04-14 | 10         | 3           | 1st Rachel 10 , 2nd Jess 9 , 3rd Mic 7                                                                       |
-| 208      | 2022-04-11 | 10         | 5           | 1st Laura 10 , 2nd Jess 7 , 3rd Mic 5 , 3rd Rachel 5 , 4th Scott 4                                           |
-| 207      | 2022-04-11 | 10         | 5           | 1st Rachel 10 , 2nd Laura 9 , 3rd Mic 8 , 4th Jess 7 , 5th Scott 6                                           |
+| 208      | 2022-04-11 | 10         | 5           | 1st Rachel 10 , 2nd Laura 9 , 3rd Mic 8 , 4th Jess 7 , 5th Scott 6                                           |
+| 207      | 2022-04-11 | 10         | 5           | 1st Laura 10 , 2nd Jess 7 , 3rd Mic 5 , 3rd Rachel 5 , 4th Scott 4                                           |
 | 206      | 2022-04-03 | 10         | 3           | 1st Jess 10 , 2nd Rachel 8 , 2nd Laura 8                                                                     |
 | 205      | 2022-04-03 | 10         | 3           | 1st Rachel 10 , 2nd Jess 5 , 2nd Scott 5                                                                     |
 | 204      | 2022-04-02 | 10         | 3           | 1st Jess 10 , 2nd Mic 8 , 3rd Rachel 6                                                                       |
@@ -108,8 +109,8 @@ Last updated 2022-06-24 02:32 UTC.
 | 196      | 2022-03-13 | 10         | 3           | 1st Phil 10 , 2nd Mic 7 , 3rd Rachel 5                                                                       |
 | 195      | 2022-03-13 | 10         | 3           | 1st Phil 10 , 2nd Rachel 9 , 3rd Mic 6                                                                       |
 | 194      | 2022-03-13 | 10         | 3           | 1st Rachel 10 , 2nd Phil 9 , 3rd Mic 7                                                                       |
-| 193      | 2022-03-10 | 10         | 3           | 1st Scott 10 , 2nd Mic 8 , 2nd Rachel 8                                                                      |
-| 192      | 2022-03-10 | 10         | 3           | 1st Scott 10 , 2nd Mic 7 , 3rd Rachel 6                                                                      |
+| 193      | 2022-03-10 | 10         | 3           | 1st Scott 10 , 2nd Mic 7 , 3rd Rachel 6                                                                      |
+| 192      | 2022-03-10 | 10         | 3           | 1st Scott 10 , 2nd Mic 8 , 2nd Rachel 8                                                                      |
 | 191      | 2022-03-01 | 10         | 4           | 1st Jess 11 , 2nd Rachel 8 , 3rd Scott 7 , 3rd Mic 7                                                         |
 | 190      | 2022-03-01 | 10         | 4           | 1st Rachel 10 , 2nd Scott 6 , 2nd Jess 6 , 3rd Mic 4                                                         |
 | 189      | 2022-02-05 | 10         | 4           | 1st Mic 10 , 2nd Jess 8 , 3rd Laura 6 , 4th Rachel 5                                                         |
@@ -320,9 +321,9 @@ Last updated 2022-06-24 02:32 UTC.
 | :---                         | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
 | [Alex](players/Alex)         | 12        | 1096               | 1081           | 9.00           | 58% (7)       | 17% (2)       | 25% (3)       |
 | [Eftychi](players/Eftychi)   | 5         | 982                | 984            | 7.40           | 20% (1)       | 20% (1)       | 60% (3)       |
-| [Jess](players/Jess)         | 72        | 1151               | 1089           | 8.25           | 47% (34)      | 38% (27)      | 14% (10)      |
+| [Jess](players/Jess)         | 72        | 1149               | 1089           | 8.25           | 47% (34)      | 38% (27)      | 14% (10)      |
 | [Laura](players/Laura)       | 32        | 988                | 993            | 7.62           | 34% (11)      | 31% (10)      | 22% (7)       |
-| [Mic](players/Mic)           | 130       | 954                | 905            | 6.82           | 12% (15)      | 42% (54)      | 39% (51)      |
+| [Mic](players/Mic)           | 130       | 956                | 905            | 6.82           | 12% (15)      | 42% (54)      | 39% (51)      |
 | [Phil](players/Phil)         | 38        | 1062               | 925            | 7.42           | 21% (8)       | 50% (19)      | 24% (9)       |
 | [Rachel](players/Rachel)     | 139       | 891                | 989            | 7.60           | 30% (42)      | 37% (51)      | 27% (37)      |
 | [Scott](players/Scott)       | 75        | 1036               | 1070           | 8.13           | 39% (29)      | 41% (31)      | 17% (13)      |
@@ -369,8 +370,8 @@ Last updated 2022-06-24 02:32 UTC.
 | 142      | 2022-05-29 | 10         | 3           | 1st Mic 10 , 2nd Scott 9 , 3rd Rachel 8                  |
 | 141      | 2022-05-23 | 10         | 3           | 1st Rachel 10 , 2nd Mic 6 , 3rd Scott 5                  |
 | 140      | 2022-05-23 | 10         | 3           | 1st Mic 10 , 2nd Rachel 5 , 3rd Scott 4                  |
-| 139      | 2022-05-15 | 10         | 3           | 1st Jess 10 , 2nd Rachel 6 , 3rd Mic 5                   |
-| 138      | 2022-05-15 | 10         | 3           | 1st Mic 10 , 2nd Jess 5 , 2nd Rachel 5                   |
+| 139      | 2022-05-15 | 10         | 3           | 1st Mic 10 , 2nd Jess 5 , 2nd Rachel 5                   |
+| 138      | 2022-05-15 | 10         | 3           | 1st Jess 10 , 2nd Rachel 6 , 3rd Mic 5                   |
 | 137      | 2022-05-13 | 10         | 3           | 1st Scott 10 , 2nd Rachel 7 , 2nd Mic 7                  |
 | 136      | 2022-05-12 | 10         | 3           | 1st Eftychi 10 , 2nd Rachel 7 , 3rd Mic 6                |
 | 135      | 2022-05-12 | 10         | 3           | 1st Phil 10 , 2nd Rachel 9 , 3rd Mic 7                   |
@@ -396,8 +397,8 @@ Last updated 2022-06-24 02:32 UTC.
 | 115      | 2022-03-13 | 10         | 3           | 1st Phil 10 , 2nd Mic 7 , 3rd Rachel 5                   |
 | 114      | 2022-03-13 | 10         | 3           | 1st Phil 10 , 2nd Rachel 9 , 3rd Mic 6                   |
 | 113      | 2022-03-13 | 10         | 3           | 1st Rachel 10 , 2nd Phil 9 , 3rd Mic 7                   |
-| 112      | 2022-03-10 | 10         | 3           | 1st Scott 10 , 2nd Mic 8 , 2nd Rachel 8                  |
-| 111      | 2022-03-10 | 10         | 3           | 1st Scott 10 , 2nd Mic 7 , 3rd Rachel 6                  |
+| 112      | 2022-03-10 | 10         | 3           | 1st Scott 10 , 2nd Mic 7 , 3rd Rachel 6                  |
+| 111      | 2022-03-10 | 10         | 3           | 1st Scott 10 , 2nd Mic 8 , 2nd Rachel 8                  |
 | 110      | 2022-03-01 | 10         | 4           | 1st Jess 11 , 2nd Rachel 8 , 3rd Scott 7 , 3rd Mic 7     |
 | 109      | 2022-03-01 | 10         | 4           | 1st Rachel 10 , 2nd Scott 6 , 2nd Jess 6 , 3rd Mic 4     |
 | 108      | 2022-02-05 | 10         | 4           | 1st Mic 10 , 2nd Jess 8 , 3rd Laura 6 , 4th Rachel 5     |
@@ -528,12 +529,12 @@ Last updated 2022-06-24 02:32 UTC.
 | [Alex](players/Alex)         | 38        | 1079               | 1037           | 7.39           | 18% (7)       | 39% (15)      | 21% (8)       |
 | [Eftychi](players/Eftychi)   | 8         | 926                | 951            | 5.38           | 0% (0)        | 25% (2)       | 25% (2)       |
 | [Jay](players/Jay)           | 13        | 1133               | 1085           | 8.15           | 46% (6)       | 23% (3)       | 23% (3)       |
-| [Jess](players/Jess)         | 69        | 1109               | 1087           | 7.94           | 32% (22)      | 35% (24)      | 20% (14)      |
-| [Laura](players/Laura)       | 17        | 896                | 878            | 5.76           | 6% (1)        | 6% (1)        | 29% (5)       |
+| [Jess](players/Jess)         | 69        | 1106               | 1087           | 7.94           | 32% (22)      | 35% (24)      | 20% (14)      |
+| [Laura](players/Laura)       | 17        | 894                | 879            | 5.76           | 6% (1)        | 6% (1)        | 29% (5)       |
 | [Mic](players/Mic)           | 60        | 974                | 942            | 6.73           | 8% (5)        | 28% (17)      | 30% (18)      |
 | [PA](players/PA)             | 2         | 1045               | 1039           | 9.50           | 50% (1)       | 50% (1)       | 0% (0)        |
 | [Phil](players/Phil)         | 26        | 1000               | 974            | 6.88           | 12% (3)       | 27% (7)       | 50% (13)      |
-| [Rachel](players/Rachel)     | 59        | 1020               | 987            | 7.03           | 22% (13)      | 20% (12)      | 32% (19)      |
+| [Rachel](players/Rachel)     | 59        | 1023               | 986            | 7.03           | 22% (13)      | 20% (12)      | 32% (19)      |
 | [Scott](players/Scott)       | 73        | 965                | 1017           | 7.37           | 23% (17)      | 25% (18)      | 26% (19)      |
 | [Sean](players/Sean)         | 31        | 999                | 1000           | 7.42           | 10% (3)       | 39% (12)      | 29% (9)       |
 | [Stuart](players/Stuart)     | 1         | 1010               | 1010           | 9.00           | 0% (0)        | 100% (1)      | 0% (0)        |
@@ -568,8 +569,8 @@ Last updated 2022-06-24 02:32 UTC.
 | :---:    | :---:      | :---:      | :---:       | :---                                                                                 |
 | 79       | 2022-06-21 | 10         | 5           | 1st Jess 10 , 2nd Mic 9 , 3rd Rachel 8 , 4th Scott 6 , 5th Laura 3                   |
 | 78       | 2022-05-29 | 10         | 5           | 1st Scott 10 , 2nd Jess 6 , 2nd Mic 6 , 3rd Rachel 5 , 3rd Sean 5                    |
-| 77       | 2022-04-11 | 10         | 5           | 1st Laura 10 , 2nd Jess 7 , 3rd Mic 5 , 3rd Rachel 5 , 4th Scott 4                   |
-| 76       | 2022-04-11 | 10         | 5           | 1st Rachel 10 , 2nd Laura 9 , 3rd Mic 8 , 4th Jess 7 , 5th Scott 6                   |
+| 77       | 2022-04-11 | 10         | 5           | 1st Rachel 10 , 2nd Laura 9 , 3rd Mic 8 , 4th Jess 7 , 5th Scott 6                   |
+| 76       | 2022-04-11 | 10         | 5           | 1st Laura 10 , 2nd Jess 7 , 3rd Mic 5 , 3rd Rachel 5 , 4th Scott 4                   |
 | 75       | 2021-12-11 | 10         | 6           | 1st Alex 10 , 2nd Mic 6 , 2nd Scott 6 , 2nd Rachel 6 , 2nd Wendy 6 , 2nd Eftychi 6   |
 | 74       | 2021-10-14 | 10         | 5           | 1st Jess 11 , 2nd Sean 6 , 2nd Scott 6 , 2nd Rachel 6 , 3rd Mic 5                    |
 | 73       | 2021-10-14 | 10         | 5           | 1st Scott 11 , 2nd Rachel 7 , 3rd Laura 6 , 4th Jess 5 , 4th Mic 5                   |
@@ -662,15 +663,15 @@ Last updated 2022-06-24 02:32 UTC.
 
 | **Player**                 | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---                       | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
-| [Alex](players/Alex)       | 6         | 1038               | 1041           | 8.00           | 17% (1)       | 33% (2)       | 33% (2)       |
+| [Alex](players/Alex)       | 7         | 1055               | 1043           | 8.14           | 14% (1)       | 43% (3)       | 29% (2)       |
 | [Eftychi](players/Eftychi) | 4         | 973                | 960            | 6.00           | 25% (1)       | 0% (0)        | 0% (0)        |
 | [Jay](players/Jay)         | 2         | 1011               | 994            | 7.00           | 50% (1)       | 0% (0)        | 0% (0)        |
-| [Jess](players/Jess)       | 6         | 1020               | 994            | 7.17           | 0% (0)        | 33% (2)       | 17% (1)       |
-| [Mic](players/Mic)         | 6         | 930                | 959            | 5.67           | 0% (0)        | 0% (0)        | 33% (2)       |
-| [Rachel](players/Rachel)   | 5         | 1086               | 1068           | 9.00           | 60% (3)       | 20% (1)       | 0% (0)        |
-| [Scott](players/Scott)     | 6         | 1014               | 1017           | 7.00           | 0% (0)        | 33% (2)       | 50% (3)       |
-| [Sean](players/Sean)       | 5         | 995                | 997            | 7.20           | 0% (0)        | 20% (1)       | 40% (2)       |
-| [Wendy](players/Wendy)     | 6         | 936                | 969            | 6.00           | 0% (0)        | 0% (0)        | 17% (1)       |
+| [Jess](players/Jess)       | 7         | 998                | 995            | 7.00           | 0% (0)        | 29% (2)       | 14% (1)       |
+| [Mic](players/Mic)         | 7         | 917                | 953            | 5.71           | 0% (0)        | 0% (0)        | 29% (2)       |
+| [Rachel](players/Rachel)   | 6         | 1078               | 1069           | 8.67           | 50% (3)       | 17% (1)       | 0% (0)        |
+| [Scott](players/Scott)     | 7         | 1044               | 1021           | 7.43           | 14% (1)       | 29% (2)       | 43% (3)       |
+| [Sean](players/Sean)       | 6         | 975                | 993            | 7.00           | 0% (0)        | 17% (1)       | 33% (2)       |
+| [Wendy](players/Wendy)     | 7         | 953                | 967            | 6.29           | 0% (0)        | 0% (0)        | 29% (2)       |
 
 [(Back to 7-8 Player Games)](#7-8-player-games)
 
@@ -696,6 +697,7 @@ Last updated 2022-06-24 02:32 UTC.
 
 | **Game** | **Date**   | **Points** | **Players** | **Results**                                                                                                  |
 | :---:    | :---:      | :---:      | :---:       | :---                                                                                                         |
+| 7        | 2022-08-27 | 10         | 7           | 1st Scott 10 , 2nd Alex 9 , 3rd Wendy 8 , 4th Rachel 7 , 5th Jess 6 , 5th Mic 6 , 5th Sean 6                 |
 | 6        | 2021-01-18 | 10         | 8           | 1st Eftychi 10 , 2nd Jess 9 , 3rd Sean 8 , 3rd Scott 8 , 4th Rachel 7 , 5th Alex 6 , 6th Mic 5 , 6th Wendy 5 |
 | 5        | 2021-01-18 | 10         | 8           | 1st Rachel 10 , 2nd Alex 8 , 3rd Jess 7 , 4th Mic 6 , 4th Wendy 6 , 5th Sean 5 , 6th Eftychi 4 , 7th Scott 3 |
 | 4        | 2020-09-04 | 10         | 7           | 1st Rachel 10 , 2nd Scott 9 , 3rd Alex 8 , 3rd Sean 8 , 4th Jess 7 , 5th Wendy 6 , 6th Mic 5                 |
