@@ -1,6 +1,6 @@
 # Thompson
 
-Last updated 2024-02-04 06:19 UTC.
+Last updated 2024-05-12 07:34 UTC.
 
 - [Summary](#summary)
 - [Ratings](#ratings)
@@ -14,7 +14,7 @@ Last updated 2024-02-04 06:19 UTC.
 
 | **Category**     | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---:            | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
-| All Games        | 5         | 870                | 920            | 4.20           | 0% (0)        | 0% (0)        | 20% (1)       |
+| All Games        | 5         | 869                | 920            | 4.20           | 0% (0)        | 0% (0)        | 20% (1)       |
 | 3-4 Player Games | 2         | 943                | 959            | 5.00           | 0% (0)        | 0% (0)        | 50% (1)       |
 | 5-6 Player Games | 3         | 914                | 941            | 3.67           | 0% (0)        | 0% (0)        | 0% (0)        |
 
