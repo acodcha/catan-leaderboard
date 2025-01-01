@@ -1,6 +1,6 @@
 # Valerie
 
-Last updated 2024-05-12 07:34 UTC.
+Last updated 2025-01-01 21:57 UTC.
 
 - [Summary](#summary)
 - [Ratings](#ratings)
@@ -15,7 +15,7 @@ Last updated 2024-05-12 07:34 UTC.
 | **Category**     | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---:            | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
 | All Games        | 3         | 978                | 963            | 6.67           | 33% (1)       | 0% (0)        | 33% (1)       |
-| 3-4 Player Games | 3         | 970                | 959            | 6.67           | 33% (1)       | 0% (0)        | 33% (1)       |
+| 3-4 Player Games | 3         | 970                | 958            | 6.67           | 33% (1)       | 0% (0)        | 33% (1)       |
 
 [(Back to Top)](#)
 
