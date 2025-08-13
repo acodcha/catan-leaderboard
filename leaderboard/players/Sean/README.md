@@ -1,6 +1,6 @@
 # Sean
 
-Last updated 2025-01-01 21:57 UTC.
+Last updated 2025-08-13 03:26 UTC.
 
 - [Summary](#summary)
 - [Ratings](#ratings)
@@ -15,8 +15,8 @@ Last updated 2025-01-01 21:57 UTC.
 | **Category**     | **Games** | **Current Rating** | **Avg Rating** | **Avg Points** | **1st Place** | **2nd Place** | **3rd Place** |
 | :---:            | :---:     | :---:              | :---:          | :---:          | :---:         | :---:         | :---:         |
 | All Games        | 57        | 981                | 992            | 7.28           | 12% (7)       | 35% (20)      | 28% (16)      |
-| 3-4 Player Games | 16        | 990                | 971            | 7.19           | 25% (4)       | 38% (6)       | 19% (3)       |
-| 5-6 Player Games | 35        | 989                | 1000           | 7.37           | 9% (3)        | 37% (13)      | 31% (11)      |
+| 3-4 Player Games | 16        | 990                | 972            | 7.19           | 25% (4)       | 38% (6)       | 19% (3)       |
+| 5-6 Player Games | 35        | 990                | 1000           | 7.37           | 9% (3)        | 37% (13)      | 31% (11)      |
 | 7-8 Player Games | 6         | 975                | 993            | 7.00           | 0% (0)        | 17% (1)       | 33% (2)       |
 
 [(Back to Top)](#)
